@@ -1,0 +1,1000 @@
+﻿L;0;0;1;Captain Charles de Gaulle was wounded and taken prisoner in March 1916, during the First World War. He was defending:;3;2;"fort de Vaux";"fort de Douaumont";"Mort-homme";
+L;1;0;0;What color were the trousers of the French soldiers's uniforms in 1914;4;3;blue;green;red;black
+L;0;0;1;The asphyxiant gas used by the Germans during the First World War was called gas yperite. What is the origin of this name?;3;1;From the city of Ypres where this gas was used for the first time;From its inventor Yperite;From the chemical it contains;
+L;0;1;0;What was the duration of the Verdun battle?;4;4;2 months;6 months;8 months;10 months
+L;0;1;0;What was the name of the governor of Paris who had the idea in September 1914, during the First World War, to use the Parisian taxis to lead the French soldiers to the front:;4;1;General Gallieni;General Nivelle;General Pétain;General Joffre
+L;1;0;0;What was the name of the plane used by Nungesser and Coli attempted to cross the Atlantic ocean from Paris to New York on 8 May 1927?;4;2;Spirit of Saint Louis;"'Oiseau blanc";"Oiseau marin";Jenny
+L;1;0;0;What was the name of the plane used by Charles Lindbergh to cross the Atlantic ocean from New York to Paris on May 21, 1927?;4;1;Spirit of Saint Louis;"'Oiseau blanc";"Oiseau marin";Jenny
+L;0;0;1;How long was the crossing of the Atlantic ocean by Charles Lindbergh on his plane the "Spirit of Saint Louis"?;4;4;5 hours;13 hours;26 hours;33 hours
+L;1;0;0;What was the degree of kinship between Charles X and Louis XVIII?;4;2;Son;Brother;nephew;Grandson
+L;1;0;0;What was the degree of kinship between Napoleon III and Napoleon I?;4;3;Son;Brother;nephew;Grandson
+L;1;0;0;For which commemoration was erected the Column of July with at its top the Genie of Liberty located place de la Bastille in Paris?;4;3;The capture of the Bastille of 1789;The Revolution of 1848;The Revolution of 1830 called "trois Glorieuses";The Napoleon victories
+L;0;0;1;Who sold Louisiana to the Americans?;4;2;Louis XVI;Napoleon I;Napoleon III;Louis-Philippe
+L;0;1;0;For which commemoration the Eiffel Tower was built?;2;1;The Universal Exhibition of 1889;The Universal Exhibition of 1900;;
+L;0;1;0;In what war were tank-armored vehicles used for the first time?;3;2;The War of 1870 with Prussia;The first world war;The second world war;
+L;0;0;1;Who pronounced these famous words during the First World War: "Courage, we will have them!"?;4;4;General Joffre;General Foch;General Nivelle;General Pétain
+L;1;0;0;During the Battle of Verdun (first world war), who organized the supply and regular replacement of soldiers by using the Sacred Way?;4;2;General Nivelle;General Pétain;General Joffre;General Foch
+L;0;1;0;Who was the first president of the french third republic?;4;2;Jules Grévy;Adolphe Thiers;Sadi Carnot;Félix Faure
+L;0;0;1;Which President of the French Republic remained only six months as president ?;4;3;Emile Loubet;Armand Fallières;Jean Casimir-Perier;Paul Deschanel
+L;0;1;0;What king of France went mad during his reign?;4;2;Charles V;Charles VI;Charles VII;Charles VIII
+L;0;0;1;When started the great schism of the Occident, with two popes, one in Rome and one in Avignon?;3;2;1303;1378;1417;
+L;1;0;0;Which lady has been queen of France and then queen of England?;3;1;Aliénor d'Aquitaine;Anne de Bretagne;Marie Stuart;
+L;1;0;0;Which lady married two kings of France?;3;2;Aliénor d'Aquitaine;Anne de Bretagne;Marie Stuart;
+L;0;1;0;What bridge of Paris was built with the stones of the Bastille?;4;2;The New bridge;Concorde bridge;Alexandre III bridge;Alma bridge
+L;1;0;0;Which countries joined the central empires (Prussia, Austria / Hungary) against France and its allies during the First World War?;4;1;Bulgaria and the Ottoman Empire;Romania and Serbia;Romania and the Ottoman Empire;Serbia and the Ottoman Empire
+L;0;1;0;Who founded the French Academy?;4;1;Louis XIII and Richelieu;Louis XIV;Napoleon I;Napoleon III
+L;0;0;1;During the First World War, the "Chemin des Dames" battle was a bloody defeat in which more than 200,000 French and British soldiers died. Who ordered this offensive attack?;4;4;General Joffre;General Foch;General Pétain;General Nivelle
+L;1;0;0;During the French Revolution, who pronounced this famous sentence: "We are here by the will of the people, and will leave it only by the strength of the bayonets".;4;3;Danton;Robespierre;Mirabeau;Marat
+L;1;0;0;During the French Revolution, who pronounced this famous sentence: "For winning against the enemy, one needs audacity, still audacity, always audacity, and France is saved"?;4;1;Danton;Robespierre;Mirabeau;Marat
+L;0;1;0;Who built the wall around Paris, called the "Mur des fermiers généraux"?;4;4;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;What was the purpose of the wall which surrounded Paris called the "Mur des fermiers généraux"?;2;2;Protecting Paris;Collecting taxes;;
+L;0;1;0;During the siege of Paris by the Prussians in 1971, who left Paris in balloon to try to reorganize the defense from outside?;4;3;Thiers;Mac-Mahon;Gambetta;Jules Favre
+L;0;1;0;How did King Henry II died?;4;2;Assassinated;By participating in a tournament;Tuberculosis;By banging his head against a lintel of a door
+L;0;1;0;How did King Charles VIII die?;4;4;Assassinated;By participating in a tournament;Tuberculosis;By banging his head against a lintel of a door
+L;1;0;0;The meeting called the "camp du Drap d'or" was a meeting between the king of England Henry VIII and a king of France. Who was this king?;4;4;Louis XI;Charles VIII;Louis XII;François I
+L;1;0;0;What castle in Paris was destroyed by fire during the revolt of the Commune in 1871?;2;2;Castle of Saint-Cloud;Castle of  Tuileries;;
+L;1;0;0;Which castle in Paris was bombed and burnt during the Franco-German War of 1870?;2;1;Castle of Saint-Cloud;Castle of  Tuileries;;
+L;0;1;0;In what castle was the Second German Reich proclaimed after the defeat of France during the Franco-German War of 1870?;4;2;Castle of Saint-Germain;Castle of Versailles;Castle of Saint-Cloud;Castle of Tuileries
+L;0;0;1;The Eiffel Tower was built for the Universal Exhibition of 1889. How long was it built?;4;1;2 years and 2 months;4 years and 5 months;6 years and 8 months;10 years and 3 months
+L;1;0;0;Who was the wife of Henry II?;4;1;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;1;0;0;Who was the wife of Henry IV?;4;2;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;1;0;0;Who was the wife of Louis XIII?;4;3;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;1;0;0;Who was the wife of Louis XIV?;4;4;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;0;0;1;The daughter of a king of France, Elizabeth, married the King of Spain, Philip II. Who was this king?;4;1;Henri II;Henri IV;Louis XIII;Louis XIV
+L;1;0;0;What politician of the french third Republic was surnamed the Tiger?;4;3;Léon Gambetta;Adolphe Thiers;Georges Clémenceau;Jules Ferry
+L;1;0;0;What politician of the french third republic received the title of "Père la Victoire"?;4;3;Léon Gambetta;Adolphe Thiers;Georges Clémenceau;Jules Ferry
+L;1;0;0;What politician of the french third Republic created the Tiger Brigades?;4;3;Léon Gambetta;Adolphe Thiers;Georges Clémenceau;Jules Ferry
+L;0;1;0;What French general signed the armistice of the First World War with the Germans on November 11, 1918?;4;4;Joffre;Pétain;Gallieni;Foch
+L;1;0;0;Who was nicknamed the "Grosse Bertha"?;3;3;Bismarck's wife;Hitler's wife;A German gun used during the First World War;
+L;0;0;1;What king of France was king of Poland before ascending the throne?;3;3;François II;Charles IX;Henri III;
+L;0;1;0;Who was the french president during the First World War?;4;2;Georges Clémenceau;Raymond Poincaré;Gaston Doumergue;Félix Faure
+L;0;1;0;What president of the french third Republic died at the Elysee of a cerebral congestion after the visit of his mistress?;4;3;Sadi Carnot;Emile Loubet;Félix Faure;Gaston Doumergue
+L;0;0;1;What treaty, signed on May 10, 1871, between France and Germany, marked the end of the war with Germany?;4;2;Treaty of Brétigny;Treaty of Francfort;Treaty of Pyrénées;Treaty of Campo-Formio
+L;0;1;0;What treaty, signed between France and Austria after the victorious campaign of Bonaparte in Italy, marked the end of the conflict of revolutionary France with Austria?;4;4;Treaty of Brétigny;Treaty of Francfort;Treaty of Pyrénées;Treaty of Campo-Formio
+L;1;0;0;What treaty, signed on 28 June 1919, between the Allies and Germany marked the end of the first world war?;4;3;Treaty of Brétigny;Treaty of Francfort;Treaty of Versailles;Treaty of Campo-Formio
+L;0;0;1;What treaty, signed on August 25, 1475, between France and England, marks the official end of the Hundred Years War?;4;1;Treaty of Brétigny;Treaty of Francfort;Treaty of Pyrénées;Treaty of Campo-Formio
+L;0;0;1;Which treaty, signed on February 10, 1763, between France, England and Spain, marked the end of the Seven Years War?;4;4;Treaty of Brétigny;Treaty of Francfort;Treaty of Pyrénées;Treaty of Paris
+L;0;0;1;Who brought back the ashes of Napoleon from St. Helena to Paris?;4;1;Louis-Philippe;Napoleon III;Adolphe Thiers;Georges Clémenceau
+L;1;0;0;Who was the first king of France of the Valois branch?;4;2;Charles IV le Bel;Philippe VI de Valois;Charles VI ;Charles VII
+L;0;1;0;Who was the first king of France of the Bourbon branch?;4;2;Henri III;Henri IV;Louis XIII;Louis XIV
+L;0;0;1;Who was the King of France at the beginning of the Hundred Years War between France and England?;4;1;Philippe VI de Valois;Charles V;Charles VI ;Charles VII
+L;0;0;1;Who was the King of France at the end of the Hundred Years War between France and England when the treaty of Picquigny was signed?;4;2;Charles VII;Louis XI;Charles VIII;Louis XII
+L;0;0;1;Who was the last king of France of the direct Capetian branch?;4;4;Philippe IV le Bel;Louis X le Hutin;Philippe V le Long;Charles IV le Bel
+L;0;1;0;What king of France burned Jacques de Molay, the great master of the order of the Templars?;3;3;Philippe II (Philippe Auguste);Philippe III le Hardi;Philippe IV le Bel;
+L;0;0;1;What king of France married his daughter with the King of England, which will lead to the beginning of the Hundred Years war when his son will claim the crown of France?;4;2;Philippe III le Hardi;Philippe IV le Bel;Philippe V le Long;Philippe VI de Valois
+L;0;1;0;What king of France was surrounded by favorites who were called his "mignons" because of their effeminate tendencies.;4;2;Henri II;Henri III;Henri IV;Louis XIII
+L;0;0;1;What church was erected after the Commune of Paris  on 1871, the object of which was to expiate the faults of the Paris people committed during this revolt?;4;3;Madeleine church;Saint-Roch church;Sacré Cœur basilica;Saint-Gervais church
+L;0;1;0;What is the oldest department store in Paris, founded in 1852?;4;1;Bon Marché;Bazar of Hôtel de Ville;Printemps;Samaritaine
+L;0;0;1;What is the newest (founded in 1869) of these four department stores?;4;4;Bon Marché;Bazar of Hôtel de Ville;Printemps;Samaritaine
+L;1;0;0;What king of France revoked the Edict of Nantes?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Henriette d'Entragues was the mistress of a king of France. What king?;4;1;Henri IV;Louis XIV;Louis XV;Henri II
+L;1;0;0;The "marquise de Montespan" was the mistress of a king of France. What king?;4;2;Henri IV;Louis XIV;Louis XV;Henri II
+L;1;0;0;"Madame de Pompadour" was the mistress of a king of France. What king?;4;3;Henri IV;Louis XIV;Louis XV;Henri II
+L;1;0;0;"Diane de Poitiers" was the mistress of a king of France. What king?;4;4;Henri IV;Louis XIV;Louis XV;Henri II
+L;0;0;1;What king of France went on a crusade with "Richard Cœur de Lion"?;4;3;Philippe I;Louis VII;Philippe Auguste;Louis IX (Saint-Louis)
+L;1;0;0;Who was Charlemagne's mother?;4;2;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;1;0;0;Who was the mother of Louis IX (Saint-Louis)?;4;3;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;1;0;0;Who was the mother of Louis XIII?;4;1;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;1;0;0;Who was the mother of Henry II?;4;4;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;0;0;1;What was the last tsar of Russia?;4;2;Nicolas Ier;Nicolas II;Alexandre II;Alexandre III
+L;0;0;1;How many kings of France have died murdered?;4;2;One;Two;Three;Four
+L;1;0;0;What was Louis XIV's first name?;4;3;Louis Charles;Louis Henri;Louis Dieudonné;Louis Philippe
+L;0;1;0;How old was Louis XIV when he died?;4;3;57 years;67 years;77 years;87 years
+L;0;0;1;What president of the United States was present at the treaty of Versailles at the end of the first world war?;4;2;Roosevelt;Wilson;Truman;Eisenhower
+L;1;0;0;What event was the trigger of the First World War?;4;3;The assassination of the french ambassador in Germany;The assassination of the german ambassador in France;The assassination of the Archduke of Austria François-Ferdinand;The invasion of Croatia by Serbia
+L;0;0;1;After how many years of marriage between Louis XIII and Anne of Austria, was little Louis Dieudonné, future Louis XIV born?;4;4;7 years;12 years;17 years;23 years
+L;0;1;0;Where was the treaty that ended the First World War signed?;4;1;Castle of Versailles;Louvre palace;In a wagon in the forest of Compiègne;Elysée palace
+L;0;0;1;How many crusades were conducted between 1095 and 1270?;4;3;Three;Five;Eigth;Eleven
+L;0;0;1;During which crusade did Louis IX (Saint-Louis) die?;4;4;First crusade;Third crusade;Fifth Crusade;Eighth and last crusade
+L;1;0;0;Which of these people was not a minister of Louis XVI?;4;2;Turgot;Colbert;Necker;Brienne
+L;1;0;0;Which of these kings of France was not sacred in Reims but in Chartres?;4;3;François I;Louis XI;Henri IV;Henri III
+L;0;1;0;What king of France founded a college that will become the Sorbonne?;4;1;Saint-Louis;François I;Richelieu;Napoleon
+L;0;1;0;Charles VII, exiled in Bourges during the Hundred Years War, could recover his throne thanks to:;4;2;Bertrand du Guesclin;Jeanne d'Arc;Charles le Téméraire;Jacques Cœur
+L;0;1;0;What king of France was captured by the English during the Hundred Years War and remained in captivity in England for 6 years?;4;1;Jean II "the Good";Charles V;Charles VI;Charles VII
+L;1;0;0;When was Napoleon crowned Emperor in Paris Notre Dame, in the presence of Pope Pie VII?;4;1;December 2, 1804;october 21, 1805;December 2, 1805;june 18, 1815
+L;1;0;0;When was Napoleon's victory in Austerlitz?;4;3;December 2, 1804;october 21, 1805;December 2, 1805;june 18, 1815
+L;1;0;0;When was Napoleon's defeat in Waterloo?;4;4;December 2, 1804;october 21, 1805;December 2, 1805;june 18, 1815
+L;0;0;1;When was Napoleon's defeat in Trafalgar?;4;2;December 2, 1804;october 21, 1805;December 2, 1805;june 18, 1815
+L;0;0;1;Which battle did not take place during the Hundred Years War?;4;2;Crécy battle;Pavie battle;Poitiers battle;Castillon battle
+L;0;1;0;When was Louis XVI guillotined?;4;3;august 4, 1789;september 20, 1792;january 21, 1793;october 16, 1793
+L;0;0;1;When was Marie-Antoinette guillotined?;4;4;august 4, 1789;september 20, 1792;january 21, 1793;october 16, 1793
+L;0;1;0;What king of France was beaten in Pavia and sent captive to Spain;4;3;Charles VIII;Louis XII;François I;Henri II
+L;0;0;1;The Dreyfus affair divided the population into two camps: the "Dreyfusards" and the "anti-Dreyfusards". Among these four people, which one was an anti-Dreyfusard.;4;3;Emile Zola;Georges Clémenceau;Maurice Barrès;Jean Jaurès
+L;0;0;1;What Napoleon's brother married Hortense, the daughter of Josephine de Beauharnais?;4;3;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;Who is the mother of Napoleon's son?;4;3;Joséphine de Beauharnais;Eugénie de Montijo;Marie-Louise d'Autriche;Anne d'Autriche
+L;0;0;1;What Napoleon's brother was king of Naples, then king of Spain?;4;1;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;What Napoleon's brother was king of Holland?;4;3;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;What Napoleon's brother was king of Westphalia?;4;4;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;What Napoleon's brother had no throne in Europe?;4;2;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;What Napoleon's marshal married his sister Caroline?;4;2;Berthier;Murat;Ney;Masséna
+L;0;0;1;What Napoleon's marshal became King of Sweden?;4;3;Berthier;Lannes;Bernadotte;Brune
+L;0;0;1;How many brothers had Napoleon?;4;4;One;Two;Three;Four
+L;0;0;1;How many sisters had Napoleon?;4;3;One;Two;Three;Four
+L;0;0;1;At the end of the First World War, what treaty, signed on september 10,1919 between the Allies and Austria, marked the end of the Austro-Hungarian Empire?;4;2;Versailles treaty;Saint-Germain-en-Laye treaty;Sèvres treaty;Trianon treaty
+L;0;0;1;At the end of the First World War, what treaty, signed on august 10, 1920, marked the end of the Ottoman Empire?;4;3;Versailles treaty;Saint-Germain-en-Laye treaty;Sèvres treaty;Trianon treaty
+L;0;0;1;What is the oldest Paris's railways station?;4;1;"Gare Saint-Lazare";"Gare de Lyon";"Gare de l'est";"Gare du nord"
+L;0;1;0;What revolution ended the reign of Charles X?;4;2;1789 revolution;The "Trois Glorieuses";1848 revolution;The "Commune de Paris"
+L;0;1;0;What revolution ended the reign of Louis-Philippe?;4;3;1789 revolution;The "Trois Glorieuses";1848 revolution;The "Commune de Paris"
+L;1;0;0;The "wall of the Federates" is the name given to the enclosure of a Parisian cemetery where the last "communards" were shot by the troops on May 27, 1871 by order of General MacMahon. What is this cemetery?;4;2;Montmartre cemetery;Père-Lachaise cemetery;Montparnasse cemetery;Calvaire cemetery
+L;1;0;0;The "Fronde" was a revolt of parliaments and princes against:;4;2;Richelieu and Louis XIII;Mazarin and the regent Anne of Austria;Louis XIV;Louis XV
+L;1;0;0;What king of France won in 1214 the battle of Bouvines against a coalition gathered by the King of England?;4;2;Philippe I;Philippe Auguste;Saint-Louis;Philippe III le Hardi
+L;0;0;1;In what cathedral was Hugh Capet, the first king of the Capetian dynasty, sacred?;4;3;Reims cathedral;Chartres cathedral;Noyon cathedral;Saint-Denis basilica
+L;0;1;0;What massacre of the Protestants in 1562 marked the beginning of the religion wars?;2;2;Saint-Barthélemy massacre;Wassy massacre;;
+L;1;0;0;When was french king François I assassinated by Ravaillac?;4;3;1562;1589;1610;1685
+L;0;1;0;Who built the Opéra Garnier in Paris?;4;3;Louis XIV;Napoleon I;Napoleon III;Louis-Philippe
+L;0;0;1;When was the Kingdom of Italy created?;4;1;1861;1871;1919;1946
+L;0;0;1;When did Italy become a republic?;4;4;1861;1871;1919;1946
+L;0;1;0;At what period were the French departments created?;4;1;French Revolution;Napoleon I reign;Napoleon III reign;Louis-Philippe reign
+L;0;0;1;Today, France has 101 departments. How many departments were there when they were founded in 1790?;4;1;83 departments;86 departments;90 departments;130 departments
+L;1;0;0;Who created the legion of honor, intended to reward the military and civilians for services rendered to the nation?;4;2;Louis XIV;Napoleon I;Napoleon III;Louis-Philippe
+L;1;0;0;Who created the civil code, which regulates the relations between citizens?;4;2;Louis XIV;Napoleon I;Napoleon III;Louis-Philippe
+L;0;1;0;Which of the following cities has the oldest metro?;4;3;Paris;Berlin;London;New York
+L;0;1;0;What French engineer built the Paris metro?;4;2;Eiffel;Bienvenue;Haussman;Garnier
+L;0;1;0;To whom did Egypt give the obelisk of the Place de la Concorde in Paris?;4;4;Napoleon I;Napoleon III;Louis XVIII;Louis-Philippe
+L;0;1;0;How long did it take to bring the Egyptian obelisk to the Place de la Concorde in Paris?;4;3;2 years;3 years;5 years;8 years
+L;1;0;0;What french president of the third republic fell on the track during a train trip?;4;3;Felix Faure;Gaston Doumergue;Paul Deschanel;Paul Doumer
+L;1;0;0;Who was behind the creation of the Olympic Games in 1894?;4;2;Auguste Delaune;Pierre de Coubertin;Roland Garros;Ernest Wallon
+L;0;0;1;What is the first tunnel, built under the Alps in 1871, linking France and Italy?;4;2;Saint-Gothard tunnel;Mont-Cenis tunnel;Mont-Blanc tunnel;col de Tende tunnel
+L;0;1;0;Who invented the electric battery in 1800?;4;2;Luigi Galvani;Alessandro Volta;Thomas Edison;André-Marie Ampère
+L;0;1;0;What nationality was Ampère known for his work in the field of electromagnetism with his famous "Ampère law"?;4;3;Belgian;Swiss;French;American
+L;0;0;1;Who was nearly killed by the explosion of the "infernal machine" in Saint-Nicaise street in Paris?;4;1;Napoleon Bonaparte;Napoleon III;Louis-Philippe;Sadi Carnot
+L;1;0;0;Who was the first United States president?;4;2;Abraham Lincoln;George Washington;Franklin Pierce;Theodore Roosevelt
+L;1;0;0;What day is the United States national holiday which commemorates its Declaration of Independence?;4;2;july 4;july 5;july 6;july 7
+L;1;0;0;When did Louis XIV die after 54 years of reign?;4;2;1643;1715;1774;1793
+L;0;0;1;How long was the construction of Versailles castle?;4;4;8 years;18 years;28 years;38 years
+L;0;0;1;How long was the construction of Chambord castle?;4;3;10 years;15 years;20 years;25 years
+L;0;0;1;What is the first United States president to reside, in 1800, at the White House in Washington?;4;2;George Washington;John Adams;Thomas Jefferson;James Madison
+L;0;1;0;At what period was the massacre of the Armenians by the Turks?;2;1;During the first world war;During the second world war;;
+L;0;1;0;At what congress was the French Communist Party created in 1920?;4;2;Paris congress;Tours congress;Issy-les-Moulineaux congress;Epinay congress
+L;0;1;0;In which congress was François Mitterand elected the first secretary of the Socialist Party?;4;4;Paris congress;Tours congress;Issy-les-Moulineaux congress;Epinay congress
+L;0;0;1;What is the oldest French political party, created in 1901?;3;3;Socialist party;Communist party;Radical party;
+L;0;0;1;When was the Panama Canal constructon, started by Ferdinand de Lesseps, finished by the Americans;4;2;1907;1914;1920;1924
+L;1;0;0;What construction was the subject of a political scandal in France?;2;2;The construction of the Suez Canal;The construction of the Panama Canal;;
+L;0;0;1;How many presidents of the french third republic were murdered?;4;2;One;Two;Three;Four
+L;1;0;0;When was the french third republic proclaimed by Gambetta?;4;3;1860;1865;1870;1875
+L;0;0;1;On August 18, 1882, a military agreement called the Triple Alliance (or Triplice) was signed between Germany, Austria-Hungary and another country. What is this country?;4;2;England;Italy;Russia;Serbia
+L;0;0;1;When was the Confederation of Northern Germany created?;4;2;1856;1866;1876;1886
+L;0;1;0;Crimean War, with Alma battle victory, was a war of:;4;4;Louis XIII;Louis XIV;Napoleon I;Napoleon III
+L;1;0;0;How is called the period of prosperity in France before the First World War?;3;1;"La Belle époque";"Les Années folles";"Les Trente glorieuses";
+L;1;0;0;How is called the period in France after the First World War?;3;2;"La Belle époque";"Les Années folles";"Les Trente glorieuses";
+L;1;0;0;How is called the economic growth period between 1946 and 1975?;3;3;"La Belle époque";"Les Années folles";"Les Trente glorieuses";
+L;0;1;0;When started the first paid holidays in France?;4;2;1920;1936;1946;1954
+L;0;1;0;What was the duration of the first paid holidays in France obtained by the "Front populaire"?;4;2;One week per year;Two weeks per year;Three weeks per year;Four weeks per year
+L;0;0;1;Who was the president of the french republic when the Second World War started?;4;4;Alexandre Millerand;Gaston Doumergue;Paul Doumer;Albert Lebrun
+L;0;0;1;How many presidents the french fourth republic had?;4;2;One;Two;Three;Four
+L;0;0;1;Who was the last president of the french third republic?;4;2;Paul Doumer;Albert Lebrun;Vincent Auriol;René Coty
+L;0;0;1; Construction of Notre Dame cathedral in Paris started during the reign of:;4;2;Hugues Capet;Louis VII;Saint-Louis;François I
+L;0;1;0;Who was the first king of the french Carolingian dynasty?;4;3;Dagobert;Charles Martel;Pépin le Bref;Charlemagne
+L;1;0;0;Who was Charlemagne's father?;4;3;Dagobert;Charles Martel;Pépin le Bref;Louis Ier le Pieux
+L;0;1;0;The french law of Church and State separation signed on December 9, 1905 is not relevant in some French areas. What are these areas?;4;3;Corse;Aquitaine;Alsace et Lorraine;Languedoc-Roussillon
+L;1;0;0;What french politician man proposed the law of Church and State separation signed on December 9, 1905?;4;2;Jules Ferry;Aristide Briand;Waldeck-Rousseau;Jean Jaurès
+L;0;1;0;In what congress was the french socialist party created in 1969?;4;3;Paris congress;Tours congress;Issy-les-Moulineaux congress;Epinay congress
+L;0;0;1;What is the name of the new tax created in 1604 by Henri IV?;4;3;"gabelle";"taille";"Paulette";"cens"
+L;0;1;0;Who was king of France during the Saint-Barthélemy massacre of the protestants?;4;3;Henri II;François II;Charles IX;Henri III
+L;0;0;1;When was the Saint-Barthélemy massacre of the protestants?;4;3;August 24, 1552;August 24, 1562;August 24, 1572;August 24, 1582
+L;0;0;1;What event caused the Saint-Barthélemy massacre of the protestants?;4;2;The assassination of Henri de Guise;The attack on admiral de Coligny;The death of François d'Alençon;The Assassination of Henry III
+L;0;1;0;What treaty marked the end of the Thirty Years War in Europe?;4;1;Westphalie treaty;Ryswick treaty;Pyrénées treaty;Nimègue treaty
+L;0;0;1;What treaty marked the end of the League of Augsburg, opposing Louis XIV to a coalition of European states?;4;2;Westphalie treaty;Ryswick treaty;Pyrénées treaty;Nimègue treaty
+L;0;0;1;What treaty marked the end of the long Franco-Spanish war that began in 1635 during the Thirty Years War and continued during the Fronde?;4;3;Westphalie treaty;Ryswick treaty;Pyrénées treaty;Nimègue treaty
+L;0;0;1;What treaty marked the end of the war in Holland, opposing Louis XIV to the United Provinces and his allies, Spain and the Holy German Empire?;4;4;Westphalie treaty;Ryswick treaty;Pyrénées treaty;Nimègue treaty
+L;0;0;1;During what Louis XIV war did Turenne die hit by a cannon ball?;4;3;The Thirty Years war;The Augsburg League war;The Holland war;The spanish succession war
+L;1;0;0;Who assassinated Henry IV, on May 14, 1610?;4;2;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;0;1;0;Who assassinated Henry III, on August 1, 1589?;4;1;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;0;0;1;Who assassinated Louis d'Orléans, Charles VI 's brother, on November 23, 1404?;4;3;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;1;0;0;Who stabbed Marat in his bathtub, on July 13, 1793?;4;4;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;0;1;0;What is the first passengers railway line in France, inaugurated in 1837 and operated by steam locomotives?;4;2;Saint-Etienne to Andrézieux line;Paris to Saint-Germain-en-Laye line;Montpellier to Sète line;Nîmes to Beaucaire line
+L;0;0;1;What is the first railway line in France, where wagons were towed by horses?;4;1;Saint-Etienne to Andrézieux line;Paris to Saint-Germain-en-Laye line;Montpellier to Sète line;Nîmes to Beaucaire line
+L;0;0;1;The first railway accident occurred on May 8, 1842, at Meudon on Paris to Versailles line. How many people died during this accident?;4;3;15;25;55;85
+L;0;1;0;When, on an idea from the newspaper "L'Auto", was the cyclist "Tour de France" born?;4;1;1903;1923;1943;1953
+L;1;0;0;William the Conqueror, King of England 's cousin, became king of England after beating Harold Godwinson at the Hastings battle. He was Duke of:;4;3;Bourgogne;Anjou;Normandie;Aquitaine
+L;0;0;1;What was the last Hundred Years war battle?;4;4;Crécy battle;Pavie battle;Poitiers battle;Castillon battle
+L;0;0;1;What treaty, signed in 1559 between France and England, allowed France to recover Calais, which was annexed by England at the beginning of the Hundred Years War)?;4;2;Ryswick treaty;Cateau-Cambrésis treaty;Pyrénées treaty;Nimègue treaty
+L;0;0;1;What King of France built "the Palais de la Cité" Clock tower in Paris?;4;4;Philippe Auguste;Saint-Louis;Philippe IV le Bel;Jean II "the Good"
+L;1;0;0;What king of France built the "Sainte-Chapelle" in Paris?;4;2;Philippe Auguste;Saint-Louis;Philippe IV le Bel;Jean II "the Good"
+L;1;0;0;What king of France was surnamed "the universal spider"?;4;2;Charles VII;Louis XI;Charles VIII;Louis XII
+L;0;1;0;During the Crimean War (1853 - 1856) between France and Russia, what french general pronounced the sentence: "I am there, I remain there!"?;4;2;Bazaine general;Mac-Mahon general;Espinasse general;Trochu general
+L;0;1;0;When was slavery abolished by Victor Schoelcher in the French colonies?;4;4;1792;1802;1830;1848
+L;0;1;0;Slavery was abolished by Victor Schoelcher in the French colonies during:;4;2;The first republic;The second republic;The third republic;The fourth republic
+L;0;1;0;What politician received the Nobel Peace Prize in 1926 as a reward for his tireless commitment to peace and rapprochement with Germany?;4;1;Aristide Briand;Raymond Poincaré;Léon Blum;Maurice Thorez
+L;1;0;0;Thanks to what politician education became free, secular and mandatory in France?;4;2;Jules Grévy;Jules Ferry;Jules Favre;Jules Simon
+L;0;1;0;Charlemagne empire was divided into three kingdoms to be divided between its three grandsons. Who inherited Western France (future France)?;3;2;Lothaire Ier;Charles le Chauve;Louis le Germanique;
+L;0;1;0;Charlemagne empire was divided into three kingdoms to be divided between its three grandsons: Who inherited from eastern France (future Germany)?;3;3;Lothaire Ier;Charles le Chauve;Louis le Germanique;
+L;0;1;0;Charlemagne empire was divided into three kingdoms to be divided between its three grandsons: Who inherited median France?;3;1;Lothaire Ier;Charles le Chauve;Louis le Germanique;
+L;0;1;0;What Louis XVI minister was dismissed because he was too liberal?;4;1;Turgot;Necker;Calonnes;Brienne
+L;0;0;1;Who reigned over England during the First World War?;4;1;George V;George VI;Edouard VII;Edouard VIII
+L;0;1;0;Who was the Emperor of Germany during the First World War?;3;2;Guillaume Ier;Guillaume II;Frédéric III;
+L;0;1;0;Who was the United States president during the First World War?;4;2;Roosevelt;Wilson;Truman;Eisenhower
+L;0;1;0;Who was the Tsar of Russia during the First World War?;4;2;Nicolas Ier;Nicolas II;Alexandre II;Alexandre III
+L;1;0;0;What King of France married Marguerite de Valois, who became famous thanks to the movie "Queen Margot" with Isabelle Adjani?;4;4;Henri II;Charles IX;Henri III;Henri IV
+L;0;1;0;What was the congress where Napoleon winners reorganized Europe after his defeat?;4;3;London congress;Munich congress;Vienna congress;Moscow congress
+L;0;0;1;Who represented France at the Vienna congress where Napoleon winners reorganized Europe after his defeat?;4;1;Talleyrand;La Fayette;Mac-Mahon;Thiers
+L;1;0;0;Where exiled Victor Hugo after Louis-Napoleon Bonaparte coup d'etat (future Napoleon III)?;4;3;Belgium;England;Jersey;United States
+L;1;0;0;When was the law of separation of church and state voted in France?;4;2;1890;1905;1915;1925
+L;1;0;0;What politician voted in 1905 the law of separation of church and state in France?;4;1;Aristide Briand;Adolphe Thiers;Jules Ferry;Jean Jaurès
+L;0;1;0;In what city did Louis XIV and Maria Theresa of Austria (infanta of Spain) marry?;4;3;Versailles;Saint-Germain-En-Laye;Saint-Jean-de-Luz;Bayonne
+L;1;0;0;The "Maginot line" is a fortifications line built by France, between 1930 and 1936, along its borders with Germany. Where does its name come from?;3;3;From the name of an Alsace village;From the name of a Lorraine village;From the name of war minister André Maginot.;
+L;0;0;1;On August 27, 1928, a pact was signed by fifteen countries (including France, Germany, Italy, the United Kingdom) for a commitment for peace. What is this pact?;4;4;Le pacte Dawes;Le pacte Young;Le pacte de Locarno;Le pacte Briand-Kellog
+L;1;0;0;What was the first roman emperor to convert to Christianity?;4;3;Titus;Antonin le Pieux;Constantin Ier;Néron
+L;1;0;0;Marengo battle is a victory against Austrians won by:;4;3;Louis XIV;Louis XV;Napoleon Bonaparte (first Consul);Napoleon III
+L;1;0;0;In 451, what woman become the patron saint of Paris , after she exhorted the Parisians to resist and not to flee the city besieged by the Huns?;4;2;Sainte Thérèse;Sainte Geneviève;Sainte Clotilde;Sainte Marguerite
+L;1;0;0;What year marks the end of the Western Roman Empire?;4;3;276 AD;376 AD;476 AD;576 AD
+L;0;1;0;When was the Roman Empire divided into West Empire and East Empire?;4;2;294 AD;394 AD;494 AD;594 AD
+L;1;0;0;Who was the first Roman emperor?;4;3;Tibère;Caligula;Auguste;Néron
+L;0;0;1;Who was the last West Roman emperor?;4;2;Anthémius;Romulus Augustulus;Olybrius;Glycérius
+L;1;0;0;Who was the first East Roman emperor?;4;3;Julien;Carus;Constantin Ist;Quintillus
+L;0;0;1;When did the East Roman Empire disappear?;4;2;1353;1453;1553;1653
+L;0;0;1;When did the first football world cup take place?;4;3;1910;1920;1930;1950
+L;0;0;1;Who won the first football world cup in 1930?;4;2;Brazil;Uruguay;Argentin;France
+L;0;1;0;When started the 40-hour week in France?;4;2;1920;1936;1946;1954
+L;0;1;0;Who is the first king of France to be buried in Saint-Denis basilica?;4;2;Clovis;Dagobert Ist;Pépin le Bref;Hugues Capet
+L;1;0;0;Who was Clovis's wife?;4;1;Clotilde;Brunehaut;Frédégonde;Gomatrude
+L;0;0;1;Who was the last king of the french Merovingian dynasty?;4;2;Thierry  III;Childéric III;Childebert III;Dagobert III
+L;1;0;0;Who beat the Arabs in Poitiers in 732?;4;2;Dagobert;Charles Martel;Pépin le Bref;Charlemagne
+L;0;1;0;Who gave the pope lands which will become the States of the Church?;4;3;Dagobert;Charles Martel;Pépin le Bref;Charlemagne
+L;1;0;0;What was capital of the Carolingian Empire?;4;3;Paris;Reims;Aix-la-Chapelle;Soissons
+L;1;0;0;In what city did Pope Leo III crown Charlemagne?;4;2;Paris;Rome;Reims;Chartres
+L;0;1;0;What very popular Louis XVI minister was recalled twice by Louis XVI, in 1788 and in 1789?;4;2;Turgot;Necker;Calonnes;Brienne
+L;0;1;0;What was the name of Marie Antoinette's lover?;4;4;Jean-Baptiste de Gribeauval;Henry Cort;Georges Villiers;Axel de Fersen
+L;0;1;0;What was Axel de Fersen's nationality, Marie Antoinette's lover?;4;3;Austrian;Swedish;Danish;Belgian
+L;0;1;0;In the french revolutionary calendar, what is the winter month name for period  between December 21st to January 21st?;4;1;Nivôse;Pluviôse;Ventôse;Frimaire
+L;0;1;0;In the french revolutionary calendar, what is the winter month name for period between January 20 to February 18?;4;2;Nivôse;Pluviôse;Ventôse;Frimaire
+L;0;1;0;In the french revolutionary calendar, what is the winter month name for period between 19 February to 20 March?;4;3;Nivôse;Pluviôse;Ventôse;Frimaire
+L;0;1;0;In the french revolutionary calendar, what is the autumn month name for period between September 22 to October 21?;4;1;Vendémiaire;Brumaire;Frimaire;Nivôse
+L;0;1;0;In the french revolutionary calendar, what is the autumn month name for period between October 22 to November 20?;4;2;Vendémiaire;Brumaire;Frimaire;Nivôse
+L;0;1;0;In the french revolutionary calendar, what is the autumn month name for period between 21 November to 20 December?;4;3;Vendémiaire;Brumaire;Frimaire;Nivôse
+L;0;1;0;In the french revolutionary calendar, what is the spring month name for period between March 21 to April 19?;4;1;Germinal;Floréal;Prairial;Messidor
+L;0;1;0;In the french revolutionary calendar, what is the spring month name for period between April 20 to May 19?;4;2;Germinal;Floréal;Prairial;Messidor
+L;0;1;0;In the french revolutionary calendar, what is the spring month name for period between May 20 to June 18?;4;3;Germinal;Floréal;Prairial;Messidor
+L;0;1;0;In the french revolutionary calendar, what is the summer month name for period between June 19 to July 18?;4;1;Messidor;Thermidor;Fructidor;Vendémiaire
+L;0;1;0;In the french revolutionary calendar, what is the summer month name for period between 19 July to 17 August?;4;2;Messidor;Thermidor;Fructidor;Vendémiaire
+L;0;1;0;In the french revolutionary calendar, what is the summer month name for period between August 18 to September 16?;4;3;Messidor;Thermidor;Fructidor;Vendémiaire
+L;1;0;0;Who was appointed head of government in France after the "Front populaire" won the elections in 1936?;4;2;Aristide Briand;Léon Blum;Maurice Thorez;Jean Jaurès
+L;1;0;0;Maurice Thorez was a french politician during the third republic, what was his political party?;4;1;Parti communiste;Parti radical;SFIO;Alliance démocratique
+L;1;0;0;Léon Blum was a french politician during the third republic, what was his political party?;4;3;Parti communiste;Parti radical;SFIO;Alliance démocratique
+L;0;0;1;Edouard Daladier was a french politician during the third republic, what was his political party?;4;2;Parti communiste;Parti radical;SFIO;Alliance démocratique
+L;0;1;0;The first two weeks per year paid holidays were obtained in 1936 during the "Front populaire" administration in France. When was the third week awarded?;4;2;1946;1956;1960;1969
+L;0;1;0;The third week of paid holidays was obtained in 1956 in France during Guy Mollet administration. When was the fourth week awarded?;4;2;1966;1969;1975;1979
+L;1;0;0;The fourth week of paid holidays was obtained in 1969 during Maurice Couve de Murville administration. When was the fifth week awarded?;4;4;1975;1977;1979;1982
+L;1;0;0;What french republic president granted the fifth week of paid holidays in France?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;0;1;When were the unions legalized in France?;4;3;1830;1848;1884;1936
+L;0;0;1;When was the CGT created?;4;3;1848;1884;1895;1936
+L;0;0;1;When were voted the social insurance laws in France?;4;3;1830;1848;1930;1936
+L;0;1;0;What politician was recalled as head of french administration by Gaston Doumergue president to remedy the disastrous financial crisis?;4;3;Edouard Daladier;Léon Blum;Raymond Poincaré;Aristide Briand
+L;0;1;0;What king of France bought Corsica from Genoa republic?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;François I asked a great Italian artist to come in France, and stay at the Clos-Lucé manor (near Chateau d'Amboise castle). Who is this artist?;4;3;Botticelli;Raphaël;Léonard de Vinci;Michel-Ange
+L;1;0;0;François I asked a great Italian artist to come in France, and stay at the Clos-Lucé manor (near Chateau d'Amboise castle). Who is this artist?;4;3;Charles VIII;Louis XII;François I;Henri IV
+L;0;1;0;What King of France has founded the Royal College which will become the College of France?;4;1;François I;Henri IV;Louis XIII;Louis XIV
+L;1;0;0;What great victory, won by Philip Augustus, was decisive for the kingdom of France?;4;2;Bataille d'Hastings;Bataille de Bouvines;Bataille de Crécy;Bataille de Pavie
+L;1;0;0;At the beginning of the Hundred Years' War, what France city had to capitulate after a year's siege by the English?;4;3;Lille;Dunkerque;Calais;Boulogne
+L;1;0;0;What is the name of the first man who appeared on earth about 2 million years ago?;4;3;Cro-Magnon man;Neanderthal man;Homo habilis;Homo erectus
+L;1;0;0;What is the name of "homo habilis" successor, the first man to appear on earth about 2 million years ago?;4;1;Homo erectus;Cro-Magnon man;Neanderthal man;Australopithecus
+L;1;0;0;What is the name of the first "homo sapiens" who appeared on earth about 100,000 years ago?;4;4;Australopithèque;Homme de Tautavel;Homme de Cro-Magnon;Homme de Neandertal 
+L;1;0;0;What is the name of the Neanderthal man successor who appeared on earth about 35,000 years ago?;4;4;Australopithèque;Homme de Tautavel;Homo erectus;Homme de Cro-Magnon
+L;0;0;1;What is the weight of the largest menhir in Europe, located in Locmariaquer, in Brittany?;4;3;80 tonnes;180 tonnes;280 tonnes;380 tonnes
+L;0;0;1;What was the height (when it was still standing) of the largest menhir in Europe, located in Locmariaquer, in Brittany.;4;3;10,5 mètres;14,5 mètres;18,5 mètres;22,5 mètres
+L;0;1;0;At what period did the Celtic people invade France?;4;2;400 BC;800 BC;2000 BC;3000 BC
+L;0;1;0;At what period did the Greeks (who came from the city of Phocaea in Asia Minor) found Marseilles?;4;2;300 BC;600 BC;900 BC;1200 BC
+L;0;0;1;When did the Gauls plunder Rome after invading the north of Italy?;4;3;590 BC;490 BC;390 BC;290 BC
+L;0;0;1;In 121 BC, which Gallic people, assaulted by their neighbors (the Arvernes and the Allobroges), asked the Romans to defend them?;4;2;Vénètes;Eduens;Carnutes;Ligures
+L;1;0;0;Julius Caesar was murdered in 44 BC by conspirators including his adopted son. What was his name?;4;1;Brutus;Crassus;Octave;Pompée
+L;1;0;0;To what Gaulish people Vercingetorix belonged?;4;3;Vénètes;Eduens;Arvernes;Carnutes
+L;0;1;0;How is Vercingetorix dead?;4;2;During Alésia battle;Strangled in prison in Rome;He killed himself after his defeat at Alésia;He was killed by Caesar at the end of Alésia battle
+L;0;0;1;When was Vercingetorix defeated by Julius Caesar at Alesia?;4;4;58 BC;55 BC;54 BC;52 BC
+L;1;0;0;Who won Gergovia battle in 52 BC?;2;2;Jules César;Vercingétorix;;
+L;0;1;0;After the invasion of the Romans which city became the federal capital of the Gallic provinces?;4;2;Saintes;Lyon;Reims;Paris
+L;0;0;1;What Roman emperor permitted the entry into the Roman Senate of the Gauls most loyal to Rome?;4;3;Tibère;Caligula;Claude;Néron
+L;1;0;0;What is the name of the fortification line set up by the Romans along the Rhine to defend themselves against the invasion of the Germans?;2;1;Le limes;La ligne Maginot;;
+L;1;0;0;What is the name of the fortification line built by France, between 1930 and 1936, along its borders with Germany?;2;2;Le limes;La ligne Maginot;;
+L;0;1;0;On the 20th of June, 1789, in the Jeu de Paume room, who climbed on a table to ask the members swear not to separate before they had drafted a constitution?;4;3;Mirabeau;Danton;Bailly;Robespierre
+L;1;0;0;The "Grande Guerre" is the name given to:;3;2;The 1870 war;The first world war;The second world war;
+L;1;0;0;The "drôle de guerre"  is the name given to:;3;3;The 1870 war;The first world war;The beginning of the second world war;
+L;0;1;0;Léo Lagrange, politician of the third republic, is known for:;4;1;Obtaining low-fare rail tickets;His involvement with the 1905 law of separation of churches and the state;His law on the free, secular and mandatory primary school;His 1906 law on weekly rest
+L;0;1;0;In 1204, Philippe Auguste was able to recover Normandy, which was an english possession, thanks to the capture of a fortress built by Richard Cœur de Lion to protect his duchy. What is the name of this fortress?;4;3;Falaise Castle;Pirou Castle;"Château-Gaillard"  Castle;Domfront Castle
+L;0;1;0;In 1244, the royal army attacked a castle where the Cathars took refuge. After several months of siege, they surrender and, refusing to abjure, are burned alive. What is the name of this castle?;4;3;Aguilar Castle;Arques Castle;Montségur Castle;Padern Castle
+L;0;0;1;Who leaded the french administration after the resignation of Leon Blum when France declared war on Germany on September 3, 1939?;4;2;Pierre Laval;Edouard Daladier;Camille Chautemps;Paul Reynaud
+L;0;1;0;What event triggered on 3 September 1939 the declaration of war by France against Germany?;4;1;The invasion of Poland by Germany;Reunification of the German Reich and Austria;The remilitarization of the Rhineland by Germany;The annexation by Germany of the Sudetes land in Czechoslovakia
+L;0;0;1;During the Second World War, when did France declare war on Germany?;4;3;august 3, 1939;august 3, 1940;september 3, 1939;september 3, 1940
+L;0;0;1;During the First World War, when did Germany declare war on France?;4;1;august 3, 1914;august 3, 1915;september 3, 1914;september 3, 1915
+L;1;0;0;What is the name of the painting painted by Picasso in homage to the murderous bombing of a Spanish village by the Germans during the Spanish Civil War?;4;4;The tragedy;The war;Casagemas death;Guernica
+L;0;0;1;When did Hitler become chancellor of the Reich?;4;2;1930;1933;1936;1939
+L;1;0;0;On September 29, 1938, an agreement was signed between France, England, Germany and Italy, aimed at ending the German-Czech crisis and thus avoiding the outbreak of a conflict. What is this agreement?;4;1;The Munich Agreements;The Locarno Agreements;The Matignon Agreements;The Evian Agreements
+L;1;0;0;Compostela pilgrimage began after the discovery of the tomb of:;4;3;The Apostle John;The Apostle Matthew;The Apostle Jacques le Majeur;The Apostle Thomas
+L;0;1;0;A Germanic emperor joined the third crusade alongside Philip Augustus and Richard the Lionheart. What is this emperor?;4;1;Frédéric Ier, known as Barbarossa;Otton II;Otton III;Otton IV
+L;0;1;0;What is the name given to the fascist group founded by Mussolini in Italy in 1919?;4;2;The Red Shirts;The Black Shirts;The White Shirts;The Blue Shirts
+L;0;0;1;When did Mussolini become head of Italy administration?;4;1;1922;1926;1930;1934
+L;1;0;0;The tomb of the unknown soldier, placed under the Arc de Triomphe, is there to honor the dead soldiers:;2;1;During the First World War;During the Second World War;;
+L;0;0;1;What is called the Anschluss?;3;1;Annexation of Austria by Germany in March 1938;Annexation of the Sudete land by Germany in September 1938;Annexation of the free city of Danzig by Germany in August 1939;
+L;0;0;1;What was Mussolini's first name?;4;2;Alberto;Benito;Duccio;Gennaro
+L;0;0;1;When was the Munich Conference, which prevented the war when Germany was preparing to annexation of the Sudete land in Czechoslovakia?;4;3;august 29, 1938;august 29, 1939;september 29, 1938;september 29, 1939
+L;0;1;0;Who was the British Prime Minister at the beginning of the Second World War?;4;3;Ramsay MacDonald;Stanley Baldwin;Neville Chamberlain;Winston Churchill
+L;0;0;1;During what louis XIV war d'Artagnan died, hit by a musket bullet received in the head?;4;3;The thirty years war;The Augsburg league war;The Holland war;The spanish succession war
+L;0;0;1;The Gaul conquest by Caesar took place from 58 BC. to 51 BC. What was the first battle of this Gaulish war?;4;1;Avaricum battle;Bibracte battle;Gergovie battle;Uxellodunum battle
+L;0;0;1;What was the last Gaulish people to resist against Caesar when the whole of Gaul was conquered?;4;3;Venetes;Eduens;Cadurques;Ligures
+L;0;0;1;During what war, the Duke of Marlborough, made famous by the song "Malbrouk went to war", fought against Louis XIV.;4;4;The thirty years war;The Augsburg league war;The Holland war;The spanish succession war
+L;1;0;0;During what war, did the English conquer the rock of Gibraltar in 1704?;4;4;The thirty years war;The Augsburg league war;The Holland war;The spanish succession war
+L;0;0;1;What French pope ordered the construction of the Palace of the Popes in Avignon?;4;3;Clément IV;Clément V;Clément VI;Clément VII
+L;0;1;0;At Waterloo, Napoleon awaited the reinforcement of one of his marshals, and it was the Prussian Blücher who arrived. Who is this marshal?;4;3;Ney;Soult;Grouchy;Murat
+L;0;1;0;What Napoleon marshal led the last charges against the English during Waterloo battle?;4;1;Ney;Soult;Grouchy;Murat
+L;0;1;0;A former freed slave born in Santo Domingo fought for the independence of the island. Who is he?;4;2;Victor Schoelcher;Toussaint Louverture;François de Charrette;Jacques Cathelineau
+L;1;0;0;These four tanks have been used during the second world war.  Which one is german?;4;1;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;0;1;These four tanks have been used during the second world war.  Which one is french?;4;2;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;0;1;These four tanks have been used during the second world war.  Which one is american?;4;3;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;0;1;These four tanks have been used during the second world war.  Which one is russian?;4;4;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;1;0;Who assassinated the Archduke Francis Ferdinand in Sarajevo, which then led to the first world war?;4;3;Mark David Chapman;Lee Harvey Oswald;Gavrilo Princip;Jack Ruby
+L;1;0;0;How many articles contain the Declaration of the Rights of Man and of the Citizen adopted by the Constituent Assembly in France on august 26, 1789?;4;2;7 articles;17 articles;27 articles;37 articles
+L;1;0;0;In which room did the "états généraux" meet when they were summoned by Louis XVI on may 5, 1789?;4;1;"Menus-Plaisirs" room in Versailles;"jeu de paume" room in Versailles;Manege room in Paris;At Tuileries palacein Paris
+L;1;0;0;When did the opening session of the "états généraux" take place after their convocation by Louis XVI?;4;2;april 5, 1789;may 5, 1789;june 5, 1789;july 5, 1789
+L;1;0;0;What was the name of the german army during the second world war?;4;3;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;0;1;0;What was the name of the german Air Force during the second world war?;4;1;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;0;1;0;What is the german name for the "flash war" which was given to the german invasion in 1940?;4;4;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;1;0;0;Where were the french deputies of the "tiers états" when they swore not to separate before they had drafted a constitution?;4;2;"Menus-Plaisirs" room in Versailles;"jeu de paume" room in Versailles;Manege room in Paris;At Tuileries palacein Paris
+L;0;0;1;What animal did Mehemet Ali (viceroy of Egypt) offer to Charles X in 1827?;4;3;A crocodile;An elephant;A giraffe;A giraffe
+L;1;0;0;What was the king of France when Moliere wrote and played his comedies?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Jean-Baptiste Poquelin was the real name of:;4;3;Corneille;Racine;Molière;Chateaubriand
+L;0;1;0;How old was marshal Petain when he signed the armistice of 1940?;4;3;76 years;80 years;84 years;88 years
+L;0;0;1;When did General Pétain sign the armistice during the Second World War, recognizing the defeat of France?;4;1;june 22, 1940;june 22, 1941;september 22, 1940;september 22, 1941
+L;0;1;0;Where was signed the armistice of June 22, 1940, at the beginning of the Second World War?;4;3;Versailles castle;Louvre palace;In a wagon in the forest of Compiègne;Elysée
+L;1;0;0;What was the rank of de Gaulle at the beginning of the Second World War?;4;3;Captain;commanding officer;Colonel;General
+L;1;0;0;What battle of the first world war caused 20,000 deaths among the english soldiers, battle known as the "Verdun" for the english people?;4;4;The battle of the Borders;The Marne battle;The "chemin des Dames" battle;The Somme battle
+L;0;0;1;What writer became, from 1677, the historiographer of Louis XIV?;4;2;Corneille;Racine;Molière;La Fontaine
+L;1;0;0;Who was the "father", with D'Alembert, of the Encyclopaedia, the object of which was to gather all the knowledge accumulated by humanity?;4;1;Diderot;Voltaire;Rousseau;Buffon
+L;1;0;0;Who was the "father", with Diderot, of the Encyclopaedia, the object of which was to gather all the knowledge accumulated by humanity?;4;2;Voltaire;d'Alembert;Rousseau;Buffon
+L;1;0;0;What woman secretly married Louis XIV after the death of Maria Theresa of Austria?;4;2;Marie Mancini;Madame de Maintenon;Louise de La Vallière;Madame de Montespan
+L;1;0;0;What mistress of Louis XV was a prostitute?;4;3;Madame de Pompadour;Madame de Montmélas;Madame du Barry;Madame de Bonneval
+L;1;0;0;When did General de Gaulle launch a solemn call from the BBC studios in London to continue the fighting?;4;2;june 18, 1939;june 18, 1940;september 18, 1939;september 18, 1940
+L;0;1;0;The American National Day commemorates the day of the Declaration of Independence of the United States which took place on:;4;2;july 3, 1776;july 4, 1776;july 5, 1776;july 6, 1776
+L;0;0;1;Who wrote the Declaration of Independence of the United States which was adopted on 4 July 1776?;4;3;George Washington;John Adams;Thomas Jefferson;James Madison
+L;0;1;0;What king of France sent soldiers to help the Americans in their struggle for independence?;4;4;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;What French soldier went to America to help the insurgents in their struggle for independence?;4;2;Murat;La Fayette;Ney;Masséna
+L;0;1;0;What is the name of the show that Joséphine Baker danced in Paris in 1925 and which provoked a scandal because of his dress deemed too provocative?;4;2;"Paris aux étoiles" ;"Revue nègre";"Black birds";"La Belle de New York"
+L;1;0;0;What was the degree of kinship between Louis XVI and Louis XV?;3;2;Son;Grand-son;Great-grandson;
+L;1;0;0;What was the degree of kinship between Louis XV and Louis XIV?;3;3;Son;Grand-son;Great-grandson;
+L;1;0;0;What is the century of the Enlightenment philosophers?;4;3;16th century;17th century;18th century;19th century
+L;1;0;0;François-Marie Arouet was the real name of:;4;4;Corneille;Racine;Molière;Voltaire
+L;0;0;1;The king of Prussia, Frederick II., was an admirer and friend of a philosopher of the Enlightenment. Who is this philosopher?;4;1;Voltaire;d'Alembert;Rousseau;Buffon
+L;0;0;1;Who was Guy Môquet?;4;3;A french colonel during the first world war;A french colonel during the second world war;A communist militant shot by the Germans in 1941;Minister of the french third republic
+L;0;0;1;Que signifie en hébreu le mot "shoah"?;4;1;catastrophe;mort;assassinat;martyre
+L;0;0;1;When did the King of Germany, Otto 1st, found the Holy Roman Empire?;4;2;862;962;1062;1162
+L;0;1;0;Who was the first emperor of the Holy Roman Empire?;4;2;Henri I;Otton I;Otton II ;Otton III
+L;0;0;1;When did Napoleon dissolve the Holy Roman Empire to create the Confederation of the Rhine?;4;3;1802;1804;1806;1808
+L;0;1;0;Who dissolved the Holy Roman Empire to create the Confederation of the Rhine?;4;4;Louis XIV;Louis XV;Louis XVI;Napoleon
+L;0;1;0;At the Congress of Vienna in 1815, the Confederation of the Rhine, created by Napoleon in 1806, became:;4;3;The Holy Roman Empire;The German Confederation;The Confederation of Northern Germany;The Austro-Hungarian Empire
+L;0;1;0;When was Germany unified with the creation of the German Empire?;4;4;1806;1815;1830;1870
+L;0;1;0;What was the name of the political regime set up by Petain after the armistice of June 1940?;4;1;"The French State";"Patriotic France";"New Order";"New France"
+L;1;0;0;What was the motto of the Vichy regime set up by Petain after the armistice of June 1940?;4;3;"Order, Family, Nation";"Order, Work, Nation";"Work, Family, Homeland";"Order, Honor, Nation"
+L;0;0;1;During what Italy battle, did Chevalier Bayard save the king of France Charles VIII?;4;1;Fornoue battle;Ravenne battle;Marignan battle;Pavie battle
+L;0;0;1;What Italy battle was named "furia francese" because of the courage of the French soldiers?;4;1;Fornoue battle;Ravenne battle;Marignan battle;Pavie battle
+L;0;0;1;Which King of France was saved by Chevalier Bayard during the Battle of Pavia?;3;1;Charles VIII;Louis XII;François I;
+L;0;1;0;During what italy battle, was the king of France François I beaten and sent into captivity in Spain?;4;4;Fornoue battle;Ravenne battle;Marignan battle;Pavie battle
+L;0;0;1;What king of France built  Aigues-Mortes city in 1240?;4;2;Philippe Auguste;Louis IX;Philippe III le Hardi;Philippe IV le Bel
+L;1;0;0;In all France history, only one King of France has been canonized. Who is he?;4;4;Louis VI;Louis VII;Louis VIII;Louis IX
+L;1;0;0;What king of France is known for the image where he is seen rendering justice under an oak?;4;4;Louis VI;Louis VII;Louis VIII;Louis IX
+L;1;0;0;What King of France is better known as "Saint-Louis";4;4;Louis VI;Louis VII;Louis VIII;Louis IX
+L;1;0;0;Richelieu was a minister of:;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;Mazarin was a minister of:;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;What minister of a king of France had a city built to his glory having his name?;4;1;Richelieu;Mazarin;Colbert;Fouquet
+L;0;1;0;Who was Armand Jean du Plessis?;4;1;Cardinal de Richelieu;Cardinal Mazarin;Cardinal de Fleury;Cardinal de Rohan
+L;0;1;0;Which of these kings of France was stammering?;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;What minister of a king of France had a palace built in front of the Louvre palace which he bequeathed to the king and thus becomes the Royal Palace?;4;1;Richelieu;Mazarin;Colbert;Fouquet
+L;0;0;1;The castle of Richelieu, which the cardinal had built for his glory, no longer exists today because:;4;1;It was demolished to resell the materials;It was destroyed by fire;It was destroyed during the Revolution;It was bombed during the second world war
+L;0;1;0;What king of France had his mother exiled abroad;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;What king of France has submitted La Rochelle, a stronghold held by the Protestants, after a siege of more than a year?;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;0;1;During the second world war, Pierre Laval negotiated with Hitler a system called "la relève". What is it about?;4;1;Exchange of a french worker for a prisoner of war;Creation of a militia to replace the gestapo;Exchange of a german political refugee for a prisoner of war;Exchange of 100 Jews for a prisoner of war
+L;0;0;1;What code name was given to the round-up of the Vel d'Hiv in Paris on july 1942 during the german occupation?;4;2;"Mistral gagnant";"Vent printanier";"Souffle d'hiver";"Brise d'automne"
+L;0;0;1;How many Jews were arrested by the french police during the round-up of the Vel d'Hiv on july 1942?;4;3;3000;8000;13000;18000
+L;1;0;0;During the second world war, the Jews were forced to wear a star on their chest. What was the color of this star?;4;4;white;red;blue;yellow
+L;0;0;1;During the french revolution hundreds of towns and communes were renamed. How was Marseille renamed?;4;3;"Egalité-sur-Rhone";"Commune-Affranchie";"Ville-sans-nom";"Bonne Lande"
+L;0;0;1;During the french revolution hundreds of towns and communes were renamed. How was Lyon renamed?;4;2;"Egalité-sur-Rhone";"Commune-Affranchie";"Ville-sans-nom";"Bonne Lande"
+L;0;1;0;How many times did Henri IV change his religion, between Protestantism and Catholicism?;4;3;Twice;Four times;Six times;Eight times
+L;1;0;0;What is the degree of kinship between Henri IV and Henry III?;4;4;Son;Brother;Grandson;Cousin
+L;0;1;0;What King of France built the "Pont Neuf" in Paris, the first stone bridge in the capital?;4;1;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;1;0;What king of France built a square in Paris called "Place Royale" when it was built?;4;1;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;1;0;What is the oldest square in Paris, built by Henri IV?;4;2;Place Vendôme;Place des Vosges;Place des Victoires;Place Dauphine
+L;0;1;0;Who was the President of the United States during the second world war?;4;1;Roosevelt;Wilson;Truman;Eisenhower
+L;0;1;0;What king of France pronounced the sentence: "A court without women is like a garden without flowers"?;4;1;François I;Henri IV;Louis XIV;Louis XV
+L;1;0;0;What king of France built Chambord castle?;4;1;François I;Henri II;Henri IV;Louis XIV
+L;0;1;0;Who was the mother of François I ?;4;2;Marie de Clèves;Louise de Savoie;Claude de France;Jeanne III de Navarre
+L;0;1;0;Who was the mother of Henry IV?;4;4;Marie de Clèves;Louise de Savoie;Claude de France;Jeanne III de Navarre
+L;0;1;0;What was the size of François I ?;4;3;1,78 m;1,88 m;1,98 m;2,08 m
+L;0;1;0;What king of France signed Villers-Cotterets 's ordinance which made french the official language of the kingdom?;4;2;Louis XI;François I;Henri II;Henri III
+L;1;0;0;Who was the mother of Louis XIV?;4;2;Jeanne III de Navarre;Anne d'Autriche;Marie de Médicis;Marie-Thérèse d'Autriche
+L;0;1;0;In what castle was Louis XIV born?;4;3;Fontainebleau castle;Louvre palace;Saint Germain-en-Laye castle;Tuileries castle
+L;1;0;0;Who organized, in June 1942, the raid of the Vel 'd'Hiv?;4;3;Pierre-Etienne Flandin;François Darlan;René Bousquet;Xavier Vallat
+L;0;1;0;When was "social security" created in France?;2;2;In 1936, by the Popular Front;In 1945, at the end of the second world war;;
+L;0;0;1;What king of Prussia, a great friend of Voltaire, was called the "king philosopher"?;4;3;Frédéric I;Frédéric-Guillaume I;Frédéric II ;Frédéric-Guillaume II
+L;0;1;0;Who was the King of France during the seven years' war?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Who was the king of France during the "devolution" war with Spain?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;During what war France lost a large part of her colonial empire at the expense of England?;2;2;Augsburg league's war?;Seven years' war;;
+L;0;1;0;Who was the king of France during the Holland war?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Who was the king of France during the Augsburg league's war?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Who was the king of France during the Spain succession war?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Who was the king of France during the Poland succession war?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Who was the king of France during the Austria succession war?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Who is the author of the "chant des partisans", hymn of the french resistance during the second world war?;3;2;Rouget de Lisle;Joseph Kessel et Maurice Druon;Etienne Nicolas Méhul;
+L;1;0;0;When was the right to vote granted to women?;4;3;1792;1848;1944;1954
+L;1;0;0;When was the allies landing in Normandy during the second world war?;4;1;june 6, 1944;june 6, 1945;september 6, 1944;september 6, 1945
+L;0;1;0;What was the code name for the allied landing on June 6, 1944 in Normandy?;4;1;Overlord;Anvil;Dragoon;Otarie
+L;0;1;0;In the Middle Ages, what was called a steed?;4;3;An armor;A helmet;A war and tournament horse;A lance
+L;1;0;0;Who organized the Vel d'Hiv raid during the german occupation?;4;2;Philippe Henriot;René Bousquet;Jean Moulin;Joseph Darnand
+L;1;0;0;Who created the National Council of Resistance which federated all the movements of internal resistance during the german occupation?;4;2;Le colonel Fabien;Jean Moulin;Pierre Brossolette;Georges Guingouin
+L;0;0;1;In what city did Petain meet Hitler on October 24, 1940, to express his willingness to collaborate with Germany?;4;1;Montoire;Saint-Rimay;Villiersfaux;Ambloy
+L;0;0;1;What treaty marks the end of the first phase of the Hundred Years War?;3;3;Troyes treaty;Picquigny treaty;Brétigny treaty;
+L;0;0;1;Who was nicknamed the Black Prince during the Hundred Years War?;4;2;Edouard II's son;Edouard III's son;Edouard IV's son;Edouard V's son
+L;0;1;0;Who was King of England at the beginning of the Hundred Years War?;4;1;Edouard III;Richard II;Henri VI;Edouard IV
+L;0;0;1;Who was King of England at the end of the Hundred Years War?;4;3;Edouard III;Richard II;Henri VI;Edouard IV
+L;0;0;1;What king of France was held hostage in Spain when he was a child?;4;2;François I;Henri II;Henri III;Henri IV
+L;0;0;1;The Anet castle, located in Eure-et-Loir department, was ordered by a king of France for one of his mistresses. Who is she?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;0;0;1;A king of France had a mistress aged twenty years older than he. Who was she?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;0;0;1;A king of France had for his mistress a woman who was his governess when he was a child. Who was she?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;1;0;0;What queen was the mother of three kings of France?;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;1;0;0;What queen of France was found responsible for the St. Bartholomew massacre of protestants;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;0;1;0;What queen of France had the reputation of being an intriguer and a poisoner?;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;0;0;1;What mistress of a king of France has been surnamed "the most queen"?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;0;1;0;Nostradamus was the astrologer of a queen of France. Who is she?;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;1;0;0;When appeared the first man on earth, called homo habilis?;4;3;10 millions d'années avant J.C.;5 millions d'années avant J.C.;2 millions d'années avant J.C.;1 million d'années avant J.C.
+L;0;0;1;What code name was given to the USSR attack by Germany on June 1941?;4;2;Torch;Barbarossa;Blitz;Overload
+L;0;0;1;What code name was given to the Allied landings in North Africa on November 1943?;4;1;Torch;Barbarossa;Blitz;Overload
+L;0;0;1;What name was given to the bombing campaign of England by the German Air Force on September 1940 (Battle of England)?;4;3;Torch;Barbarossa;Blitz;Overload
+L;0;0;1;What code name was given to the Allied landings in Normandy on June 6, 1944?;4;4;Torch;Barbarossa;Blitz;Overload
+L;1;0;0;What is the name of the old stone age period in prehistory?;3;2;mesolithic;paleolithic;neolithic;
+L;1;0;0;What is the name of the stone age period after paleolithic?;3;3;mesolithic;paleolithic;neolithic;
+L;0;1;0;When did the Celts, coming from the Central Asia steppes, arrive in Western Europe?;4;4;1400 BC;1200 BC;1000 BC;800 BC
+L;1;0;0;What was the name of Lyons (capital of the three Gauls) at the time of Romans?;4;2;Massalia;Lugdunum;Burdigala;Divio
+L;1;0;0;What was the name of the chief of the Huns who crossed the Rhine to invade Gaulle in 451 BC?;4;2;Orgétorix;Attila;Aetius;Théodoric
+L;1;0;0;What City Clovis chose as capital of France?;4;2;Soissons;Paris;Reims;Poitiers
+L;1;0;0;What kings of France have been called "lazy kings"?;2;1;The Merovingian kings;The Carolingian kings;;
+L;0;1;0;What was the duration of the Capetian dynasty?;4;4;More than 500 years;More than 600 years;More than 700 years;More than 800 years
+L;1;0;0;In the Middle Ages, how was called the ceremony during which a young noble becomes a knight?;2;2;The tribute;the knighthood;;
+L;0;1;0;Who was the king of France when the Normans (Vikings) invaded France?;3;3;Charlemagne;Louis Ier le Pieux;Charles II le Chauve;
+L;0;0;1;When was Nantes cathedral burnt down by the Normans (Vikings)?;4;3;643;743;843;943
+L;0;1;0;What Viking leader took an oath of fidelity to King Charles III the simple, then baptized and married his daughter Gisele?;3;3;Ragnar Lodbrog;Siegfried;Rollon;
+L;0;0;1;Who was the last Carolingian king?;4;4;Charles III le Simple;Louis IV d'Outremer;Lothaire;Louis V le Fainéant
+L;0;1;0;Which pope called the first crusade in 1095 to deliver Jerusalem taken by the Muslim Turks?;4;4;Urbain II;Eugène III;Innocent III;Urbain IV
+L;1;0;0;What event commemorates the French national holiday?;4;4;The advent of King Louis VIII;The Saint-Germain edict;The storming of the Bastille on july 14, 1789;The festival of the Federation on july 14, 1790
+L;1;0;0;What message was broadcast to the BBC to announce to the French Resistance the imminence of the Allied landing of June 1944?;4;2;"Rien ne bougeait encore au front des palais …";"Les sanglots longs des violons de l'automne …";"Hélas! Je n'étais pas fait pour cette haine ...";"Dans ces bois qu'un nuage dore ..."
+L;1;0;0;Who was in charge of the "overload" operation, the Allied landing in Normandy on June 6, 1944?;4;2;Commander Montgomery;General Eisenhower;General de Gaulle;General Leclerc
+L;0;0;1;On 10 June 1944, a whole village in the Limousin was massacred by the SS, as a reprisal against the Resistance. What is this village?;4;3;Rochechouart;Jarnac;Oradour-sur-Glane;Pamproux
+L;0;1;0;Who succeeded Hugues Capet, the first Capetian king?;4;1;Robert II le Pieux;Henri I;Philippe I;Louis VI le Gros
+L;0;0;1;Hugues Capet, the first Capetian king, is the great-grandson of a Rhenish count who died fighting the Normans near Angers. Who is this count?;4;2;Eudes;Robert le Fort;Gohar;Nominoë
+L;0;0;1;What was the code name for the landing in Provence of the Americans and Frenchs on August 15, 1944?;4;3;Overlord;Anvil;Dragoon;Otarie
+L;0;0;1;Who was the king of France when Aix-la-Chapelle became again the capital of France after Paris?;4;2;Louis VI le Gros;Philippe II;Louis IX;Philippe IV le Bel
+L;1;0;0;The Cathars, a religious heretical movement of the Middle Ages, were also named:;4;3;Castrais;Montalbanais;Albigeois;Auscitains
+L;0;1;0;What king of France has taken over Normandy from king "John Lackland", who became King of England after the death of his brother Richard "the Lionhearted"?;4;3;Philippe I;Louis VII;Philippe Auguste;Louis IX (Saint-Louis)
+L;0;1;0;What was the rank of De Gaulle during the first world war?;4;1;Captain;Commanding officer;Colonel;General
+L;0;1;0;What was the rank of De Gaulle at the end of the second world war?;4;1;Brigadier General;Division general;Army corps general;Army general
+L;1;0;0;In what cathedral, Napoleon was crowned emperor of the French on December 2, 1804?;4;2;Reims cathedral;Paris Notre-Dame;Chartres cathedral;Ajaccio cathedral
+L;0;0;1;In the presence of which pope, Napoleon was crowned emperor of the French on December 2, 1804?;4;2;Pie VI;Pie VII;Pie VIII;Pie IX
+L;0;0;1;How many years did the Hundred Years War last?;4;3;96 years;106 years;116 years;126 years
+L;0;1;0;Which king of France named Bertrand du Guesclin the constable of France?;4;1;Charles V;Charles VI;Charles VII;Louis XI
+L;0;1;0;What King of France of the Renaissance participated in the first Italian War?;4;1;Charles VIII;Louis XII;François I;Henri II
+L;0;0;1;After the Renaissance wars of Italy, what is the treaty by which France renounced its rights over the Milanese and the kingdom of Naples;4;3;Brétigny treaty;Troyes treaty;Cateau-Cambrésis treaty;Picquigny treaty
+L;0;0;1;What is the treaty signed with the English by which Charles VI disinherited the dauphin and recognized the King of England as king of France?;4;2;Brétigny treaty;Troyes treaty;Cateau-Cambrésis treaty;Picquigny treaty
+L;0;1;0;During the Hundred Years War, which king of France disinherited his son and recognized the King of England as king of France?;4;2;Charles V;Charles VI;Charles VII;Louis XI
+L;0;1;0;During the Hundred Years War, who allied themselves with the English against the dauphin, future Charles VII, disinherited by his father Charles VI who had lost the reason?;2;2;The Armagnacs;The Bourguignons;;
+L;1;0;0;How did Hitler die at the end of the second world war?;4;3;He was killed during the bombing of Berlin;He was shot by the Allies;He committed suicide in his Berlin bunker;He was assassinated by an unbalanced man
+L;0;1;0;How many people died during the second world war?;4;3;About 5 million;About 25 million;About 45 million;About 65 million
+L;1;0;0;In which country did the most people die during the second world war?;4;4;France;Germany;England;The USSR
+L;1;0;0;During which war had the most deaths in France?;2;1;The first world war;The second world war;;
+L;1;0;0;What french general, head of the 2nd DB, liberated Paris on August 25, 1944?;4;3;General Giraud;General de Lattre de Tassigny;General Leclerc;General Koenig
+L;0;0;1;What French general resisted with heroism the German and Italian attacks at Bir Hakeim in the desert of Libya in June 1942?;4;4;General Giraud;General de Lattre de Tassigny;General Leclerc;General Koenig
+L;0;1;0;Which american president, elected in 1932, implemented the "New Deal", a vast program to fight the crisis?;4;2;Hoover;Roosevelt;Truman;Eisenhower
+L;0;0;1;Which american president, in office during the financial crisis of 1929, was defeated by Roosevelt in 1932?;4;4;Wilson;Harding;Coolidge;Hoover
+L;0;0;1;Al Capone was arrested by Eliot Ness and sentenced on October 24, 1931 to eleven years in prison and $ 80,000 for:;4;3;procurement;Smuggling of alcoho;Tax fraud;Murder
+L;0;0;1;The Weimar republic is the name given to the political regime adopted in Germany after the First World War. Why this name Weimar?;4;2;It is the name of the german political party that proclaimed the republic;It is the name of the city of Germany where the constitution was adopted;This is the name of the first president of the republic;It was the name of the SPD party leader who founded the republic
+L;0;0;1;What president of the Weimar republic, created after the first world war, appointed Hitler, on January 30, 1933, as Chancellor?;2;2;Friedrich Ebert;Paul von Hindenburg;;
+L;0;1;0;The dictatorial state, created by Hitler in 1933, was called;3;2;Second Reich;Third Reich;Fourth Reich;
+L;0;0;1;Hitler wrote his book "Mein Kampf":;4;2;When he was appointed Chancellor of the Reich in 1933;When he was in prison after his failed 1923 putsch;After the proclamation of the Weimar Republic in 1919;At the beginning of the second world war in 1939
+L;0;0;1;An artistic movement, born of intense disgust towards the war, appeared in 1916 during the First World War. What is it?;4;4;Cubism;Future;Expressionism;Dadaism
+L;0;0;1;Clémenceau was the great friend of a painter. Wo was this painter?;4;2;Auguste Renoir;Claude Monet;Edgar Degas;Paul Cézanne
+L;0;1;0;What king of France was knighted by Bayard;4;3;Charles VIII;Louis XII;François I;Henri II
+L;1;0;0;What woman was the mistress of two kings, father and son?;4;1;Diane de Poitiers;Gabrielle d’Estrées;Charlotte de Montmorency;marquise de Montespan
+L;0;0;1;What king of France promulgated the Pragmatic Sanction of Bourges which greatly limits the interventions of the pope in the appointment of the clergy of France?;4;1;Charles VII;Charles VIII;Louis XII;François I
+L;0;1;0;What King of France signed the Concordat of Bologna with Pope Leo X?;4;4;Charles VII;Charles VIII;Louis XII;François I
+L;1;0;0;When was the first metro line inaugurated in Paris?;4;2;1895;1900;1905;1910
+L;0;1;0;How long was the construction of the first line of the Paris metro inaugurated on July 19, 1900?;4;2;1 year;1 year and a half;2 years;2 years and a half
+L;1;0;0;What King of France has organized the sumptuous "camp du Drap d'or" with the King of England Henry VIII?;4;3;Charles VIII;Louis XII;François I;Henri II
+L;0;1;0;What king of France, in open conflict with Pope Boniface VIII, sent his soldiers who molest him and kept him prisoner in his residence at Agnani?;4;4;Louis VIII;Louis IX;Philippe III le Hardi;Philippe IV le Bel
+L;0;0;1;What pope, in open conflict with Philip the Fair, was molested and held prisoner in his residence at Agnani by the king's soldiers?;4;1;Boniface VIII;Benoît XI;Clément V;Jean XXII
+L;0;0;1;What German military leader of the Second World War was nicknamed the "Desert Fox"?;4;2;Fritz Bayerlein;Erwin Rommel;Hermann Göring;Heinrich Himmler
+L;1;0;0;In which city was the great majority of the kings of France crowned?;4;2;Paris;Reims;Chartres;Soissons
+L;1;0;0;In which city was Clovis baptized, a city chosen by the great majority of the kings of France for their coronation?;4;2;Paris;Reims;Chartres;Soissons
+L;0;1;0;Who is the first king of France to have been sacred?;4;1;Pépin le Bref;Charles le Chauve;Louis II le Bègue;Hugues Capet
+L;1;0;0;Only one king of France was sacred to Chartres. Who is he?;4;4;Hugues Capet;Robert II;Louis VI;Henri IV
+L;1;0;0;Only one king of France, since Hugh Capet, has not been sacred. Who is he?;4;3;François II;Henri IV;Louis XVIII;Charles X
+L;0;1;0;What English marshal beat Rommel's Africa Korps at El-Alamein in the Libyan desert in October 1942 during the second world war?;4;2;Wavell;Montgomery;Alexander;Auchinleck
+L;0;0;1;What French soldier, commander-in-chief of the Vichy forces, turned around and allied himself with the Allies when they landed in North Africa in November 1942?;4;3;Pierre Boisson;Henri Dentz;François Darlan;Henri Giraud
+L;0;0;1;Who created, under the Vichy regime, the French Militia who collaborated with the Gestapo to track down the Jews and the Resistance?;4;2;François Darlan;Joseph Darnand;René Bousquet;Henri Giraud
+L;0;0;1;During the german occupation, which French resistance was the author of the first attack against a german soldier?;4;1;Colonel Fabien;Jean Moulin;Georges Guingouin;Henri Rol-Tanguy
+L;0;0;1;Who represented France in Berlin on May 8, 1945, when the capitulation of Nazi Germany was signed?;3;2;General de Gaulle;General de Lattre de Tassigny;General Leclerc;
+L;0;0;1;In what city was the first german capitulation on may 7, 1945 signed?;4;2;Paris;Reims;Strasbourg;Berlin
+L;0;1;0;In which city was signed the second german capitulation on may 8, 1945?;4;3;Reims;Strasbourg;Berlin;Moscou
+L;1;0;0;Which of these kings of France changed religion six times?;4;3;Louis XIII;Louis XII;Henri IV;Henri III
+L;0;1;0;Elysée palace is the official residence of the presidents of the french republic since:;4;1;The second Republic;The third Republic;The fourth republic;The fifth republic
+L;0;1;0;Who was the first president of the french republic to live in Elysee palace;4;1;Louis Napoleon Bonaparte;Adolphe Thiers;Vincent Auriol;Charles de Gaulle
+L;0;0;1;Where did Napoleon sign his act of abdication after his defeat at the battle of Waterloo?;4;1;Elysée palace;Louvre palace;Saint Germain-en-Laye castle;Fontainebleau castle
+L;0;0;1;Elysee palace was bought by the mistress of a king of France who gave his name to one of his rooms. Who is she?;4;3;Charlotte de Montmorency;La marquise de Montespan;La marquise de Pompadour;La comtesse du Barry
+L;0;0;1;Elysee palace was bought by the wife of a Napoleon marshal who gave his name to the Council of Ministers room. Who is this marshal?;4;2;Berthier;Murat;Ney;Masséna
+L;1;0;0;At the end of the second world war, the germans used their new ballistic missiles V1 and V2 to bombard;4;2;Paris;Londres;Strasbourg;Moscou
+L;0;0;1;What was the name of the Albigensians, followers of Catharism, a heretical religious movement in the Middle Ages?;4;3;The "humble";The "poor";The "perfect";The "charitable"
+L;0;0;1;What pope launched the crusade against the Albigenses in 1207?;4;3;Urbain II;Eugène III;Innocent III;Urbain IV
+L;1;0;0;In what region of France was born Catharism, this heretical religious movement of the Middle Ages?;4;1;Languedoc;Provence;Bretagne;Aquitaine
+L;0;1;0;What was the rank of Philippe Pétain at the beginning of the first world war?;4;3;Captain;Commanding officer;Colonel;General
+L;0;0;1;What king of France led in 1226 the crusade against the Albigenses which stopped the Cathare movement;4;2;Philippe Auguste;Louis VIII;Louis IX;Philippe III le Hardi
+L;0;1;0;Françoise Athénaïs de Rochechouart de Mortemart, favorite of Louis XIV, is better known by the name of:;4;1;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;1;0;0;Françoise d'Aubigne, second wife of Louis XIV, is better known under the name of:;4;2;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;0;1;0;Jeanne-Antoinette Poisson, favorite of Louis XV, is better known under the name of:;4;3;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;0;1;0;Jeanne Bécu, favorite of Louis XV, is better known under the name of:;4;4;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;1;0;0;Who is the aviator who crossed the english Channel first?;4;3;Lindbergh ;Nungesser;Blériot;Mermoz
+L;0;1;0;When did Louis Blériot cross the english Channel?;4;2;1899;1909;1919;1929
+L;1;0;0;What was the nationality of Marie Leszczynska, the wife of Louis XV?;4;1;Polish;Russian;Austrian;Finnish
+L;1;0;0;What king of France was nicknamed the "Beloved"?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Who was called "Monsieur" during the Ancien Régime?;3;1;The king's brother;The eldest son of the king;The younger brother of the king's eldest son;
+L;0;0;1;Who set up in France a system of government by councils called polysynody?;3;3;Richelieu;Mazarin;The Regent Philippe d'Orléans;
+L;0;1;0;What was the degree of kinship between Louis XV and Philippe d'Orléans who was the regent at the beginning of his reign?;2;2;His uncle;His cousin;;
+L;0;1;0;How old was Louis XV when his great-grandfather Louis XIV died?;4;1;5 years;8 years;12 years;14 years
+L;0;1;0;How old was Louis XIV at the death of his father Louis XIII?;4;1;5 years;8 years;12 years;14 years
+L;0;1;0;How did Louis XVIII nicknamed the first chamber of deputies because of the large number of ultra-royalist deputies?;4;3;The "ultra chamber";The "white chamber";The "introuvable chamber";The "surprise chamber"
+L;0;1;0;When was Charlemagne crowned Emperor by Pope Leo III?;4;1;December 25, 800;December 24, 800;November 4, 800;August 15, 800
+L;0;0;1;When was the famous victory of François I in Marignan?;4;1;September 14, 1515;September 21, 1515;September 28, 1515;October 5, 1515
+L;1;0;0;What happened in Paris on August 1, 1589?;2;1;Henri III is assassinated by Jacques Clément;Henry IV is assassinated by Ravaillac;;
+L;1;0;0;What happened in Paris on May 14, 1610?;2;2;Henri III is assassinated by Jacques Clément;Henry IV is assassinated by Ravaillac;;
+L;1;0;0;When was the abolition of feudal privileges voted by the deputies of the National Assembly?;4;1;On the night of august 4,1789;On the night of august 5,1789;On the night of august 6,1789;On the night of august 7,1789
+L;0;1;0;When did Louis XIV revoke the Edict of Nantes?;4;1;October 18, 1685;December 25, 1661;September 1, 1715;September 5, 1715
+L;0;1;0;When was the second Empire proclaimed in France?;4;4;December 2, 1851;November 2, 1850;December 2, 1849;December 2, 1852
+L;0;1;0;When was the french third Republic proclaimed?;4;1;September 4, 1870;july 14, 1871;September 31, 1869;January 1, 1872
+L;0;1;0;France was born:;4;1;By Verdun treaty on 843;At the beginning of the Middle Ages;At the end of the Roman Empire;By Paris treaty on 1259
+L;0;0;1;When did Jeanne d'Arc defeat the English in Orleans?;4;3;1409;1419;1429;1439
+L;1;0;0;In what city was Jeanne d'Arc burned for heresy by the English?;4;3;Paris;Bourges;Rouen;Caen
+L;1;0;0;For what country was Captain Dreyfus wrongly accused of espionage?;4;3;England;Italy;Germany;Spain
+L;1;0;0;When did the french fifth republic begin?;4;1;1958;1946;1968;1981
+L;0;1;0;How long was the Commune revolt, where the Parisians revolt against Thiers government?;4;3;100 days;7 years;70 days;1 week
+L;0;1;0;During the second world war, when was Paris liberated?;4;1;August 25, 1944;November 23, 1944;May 25, 1945;November 23, 1945
+L;0;0;1;During the second world war, when was Strasbourg liberated?;4;2;August 25, 1944;November 23, 1944;May 25, 1945;November 23, 1945
+L;0;1;0;Who was Saint-Louis?;4;4;Louis VI;Louis V;François II;Louis IX
+L;1;0;0;Who succeeded Louis XII?;4;3;Louis XIII;Henri II;François I;Charles X
+L;0;0;1;How old was Louis XVI when he was guillotined?;4;3;67 years;77 years;39 years;49 years
+L;1;0;0;What was the nickname of louis XI;4;1;The universal spider;The little manitou;Tonton Louis;Loulou Bécane
+L;0;0;1;What king of France lived from 1356 to 1360 in a gilded prison in London?;4;4;Philippe VI de Valois;Charles V;Philippe I;Jean II "the Good"
+L;0;0;1;The Lycee Louis-le-Grand in Paris was originally a college founded by the Jesuits. What was its name?;4;1;Clermont college;Paris college;College of Jesuits;Saint-Jacques college
+L;0;1;0;What event was called the "Black Thursday"?;3;1;The Stock exchange Crisis of 1929;The financial crisis of 2008;The defeat of Waterloo;
+L;0;0;1;Louis XIII had his mother's counsellor murdered. Who is he?;4;1;Concino Concini;Father Joseph;Sully Prudhomme;Charles de Luynes
+L;1;0;0;What was the nickname of Richelieu?;4;2;The cavalier ankle;The hand of iron in a glove of velvet;The hand of velvet in an iron glove;The bull's foot in a pumpkin
+L;0;0;1;In 52 BC, Vercingetorix defeated Julius Caesar at Gergovie, which was at the site of:;4;3;Dijon;Besançon;Clermont-Ferrand;Perpignan
+L;0;0;1;Where is the rocky peak of Montsegur, stronghold of the last Cathars?;4;2;In the Ardeche;In the Ariège;In the Pyrénées-Atlantiques;In the Somme
+L;0;1;0;Nelson defeated the French fleet on October 21, 1805, during the Battle of Trafalgar. Where is located Trafalgar?;4;2;Off the Azores;Off the coast of southern Spain;Near Gris-Nez cape;Offshore Alexandria
+L;0;0;1;How Lavoisier died in 1794?;4;4;Killed during Austria war;Tuberculosis;He fell during a hunting accident;He was Guillotine
+L;1;0;0;Who invented the stethoscope in 1816?;4;3;Marcel Debalbec;Yann Poullaouec;René Laennec;Jean Charcot
+L;1;0;0;Louis Pasteur discovered the vaccine against:;4;3;Plague;Cholera;rabies;Tetanus
+L;0;1;0;At Waterloo, Napoleon thought the French reinforcements of marshal Grouchy would arrive, but it was the troops of:;4;2;Marshal Nouvoy-Lha;Blücher;Moincherch;Marlborough
+L;1;0;0;François I won the battle of Marignan. But where is Marignan?;4;1;Near Milan, Italy;Near Zermatt, Switzerland;In Liechtenstein;South of Innsbruck, Austria
+L;1;0;0;In 1588, the invincible Armada, 130 ships and 30,000 men, was a total failure. It was launched by:;4;4;The French against the Spaniards;The Spaniards against the French;The English against the Spaniards;The Spaniards against the English
+L;0;0;1;The Duke of Marlborough wrote the famous children's song: "Marlborough is Going to War". He is the ancestor of:;4;1;Winston Churchill;Margaret Thatcher;Arnold Schwarzenegger;Mickey Rooney
+L;0;0;1;"Messieurs les Anglais, tirez les premiers!" At the beginning of what battle was this sentence pronounced?;4;4;Waterloo;Austerlitz;Wagram;Fontenoy
+L;1;0;0;Wagram is a battle won by:;4;4;Louis XIII;Louis XIV;Louis XV;Napoleon
+L;1;0;0;Where did Napoleon dead:;3;2;On Elba island;On Sainte-Hélène island;At Waterloo battle;
+L;0;1;0;During the second world war, when did the general Leclerc second DB entered Paris?;4;2;August 25, 1945;August 25, 1944;September 25, 1945;September 25, 1944
+L;0;1;0;Which american president gave the order to drop an atomic bomb on Hiroshima on August 6, 1945, then on Nagasaki on August 9, 1945?;4;2;Franklin Roosevelt;Harry Truman;Calvin Coolidge;Herbert Hoover
+L;0;0;1;What is the code name of the atomic bomb that was dropped on Hiroshima on August 6, 1945?;4;3;Dracula;Fat man;Little Boy;Jaguar
+L;0;0;1;What is the code name of the atomic bomb that was dropped on 9 August 1945 on Nagasaki?;4;2;Dracula;Fat man;Little Boy;Jaguar
+L;0;1;0;Which city of Russia was called Petrograd from 1914 to 1924, then Leningrad from 1924 to 1991, before returning to its original name following a referendum in 1991?;3;1;Saint-Péterbourg;Stalingrad;Volgograd;
+L;0;1;0;What city of Russia, formerly Tsaritsyn, was called Stalingrad from 1925 to 1961?;3;3;Saint-Péterbourg;Léningrad;Volgograd;
+L;1;0;0;Which Soviet leader participated in December 1943 at the Tehran conference with Churchill and Roosevelt where it was decided the disembarkation operation in Normandy?;3;2;Lenin;Stalin;Trotsky;
+L;0;1;0;What interallied conference, held in February 1945, defined the conditions for the reconstruction of post-war Europe?;4;4;Casablanca conference;Cairo conference;Teheran conference;Yalta conference
+L;0;1;0;At what conference, held in December 1943, was decided the landing of the Allied forces in Normandy?;4;3;Casablanca conference;Cairo conference;Teheran conference;Yalta conference
+L;1;0;0;What event triggered the entry of the United States into the second world war?;4;2;The attack of the USSR by the Germans in June 1941;The Japanese attack at Pearl Harbor in December 1941;The bombing of England by the Germans in August 1940;The invasion of Yugoslavia by the Germans in April 1941
+L;1;0;0;What was the code name for the Japanese attack on the US base at Pearl Harbor in December 1941?;4;3;Barbarossa;Cannibal;Tora, tora, tora!;Kamikaze
+L;1;0;0;During second world war, what american general was the commander-in-chief of the american forces in Europe?;2;2;Mac Arthur general;Eisenhower general;;
+L;1;0;0;During the second world war, what american general was the commander-in-chief of the american forces in the Far East?;2;1;Mac Arthur general;Eisenhower general;;
+L;1;0;0;Who was the famous Henry IV minister who believed in agriculture?;4;3;Richelieu;Mazarin;Sully;Necker
+L;0;1;0;From 1716 to 1720, a scottish financier created a speculative bubble in France by means of paper money. Who is he?;4;3;Averell Dalton;John Silver;John Law;Johnny Walker
+L;1;0;0;What french scientist, guillotined during the Revolution, pronounced the sentence: "Nothing is lost, nothing is created, everything is transformed"?;4;2;Coulomb;Lavoisier;Gay-Lussac;Berthier
+L;0;1;0;Leonardo da Vinci designed the plans of a castle just before he died. What is this castle?;4;3;Chenonceaux castle ;Azay-le-Rideau castle;Chambord castle;Blois castle
+L;0;0;1;How many years did the french fourth republic last?;4;3;4 years;8 years;12 years;16 years
+L;0;0;1;How many governments have succeeded each other during the twelve years of the french fourth republic?;4;4;10 governments;15 governments;20 governments;25 governments
+L;1;0;0;Who took power in Russia after his coup in October 1917?;3;2;Stalin;Lenin;Trotsky;
+L;1;0;0;After Lenin's death in 1924, who succeeded him as leader of the USSR?;2;1;Stalin;Trotsky;;
+L;0;0;1;What speech did General de Gaulle give on June 16, 1946, to explain his ideas on the new constitution he wanted for France?;4;1;Bayeux speech;Caen speech;Cherbourg speech;Rouen speech
+L;0;0;1;What event was the trigger of the 1870 war between France and Prussia?;4;1;The diplomatic incident of the Ems dispatch;Assassination attempt of the french Ambassador in Prussia;Assassination attempt of the prussian ambassador in France;The invasion of Alsace by Prussia
+L;0;1;0;Henri Matisse exhibited his paintings in 1905 at the Grand Palais. What new style of painting did he create?;4;2;Cubism;Fauvism;Realism;Impressionism
+L;0;1;0;Braque and Picasso worked together from 1908 to 1914. What new style of painting did they create?;4;1;Cubism;Fauvism;Realism;Impressionism
+L;1;0;0;In 1918, André Citroën transformed his ammunition factory which he had founded in 1915 in car factory. Where was located this factory?;2;1;Quai de Javel in Paris;On Seguin Island in Boulogne-Billancourt;;
+L;1;0;0;In 1929, Louis Renault founded a car factory. Where was located this factory?;2;2;Quai de Javel in Paris;On Seguin Island in Boulogne-Billancourt;;
+L;1;0;0;After the death of Louis XIV, what was the name of the regent who governed France until the majority of Louis XV?;4;4;Louis d'Orléans;Charles d'Orléans;Gaston d'Orléans;Philippe d'Orléans
+L;0;0;1;What is the name of the french political party created in november 1944 by Georges Bidault, who became famous during the french fourth republic?;4;2;The Radical Party;The popular republican movement;The democratic alliance;The national republican league
+L;0;1;0;When did Father Pierre launch a radio call to denounce the housing problems and generate the generosity of the population?;4;3;1950;1952;1954;1956
+L;0;0;1;What is the name of the political party created on April 14, 1947 by General de Gaulle?;3;3;Rally for France;Rally for the Republic;Rally of the French people;
+L;1;0;0;During what war did the battle of Dien Bien Phu take place?;4;3;Vietnam war;Korean war;Indochina war;Algerian war
+L;0;0;1;When was the SMIG created in France?;4;3;1920;1936;1947;1954
+L;0;1;0;Who is the initiator with Jean Monnet of the ECSC (European Coal and Steel Community), which gave him the title of "father of Europe"?;4;4;Pierre Mendès-France;René Pleven;Guy Mollet;Robert Schuman
+L;0;0;1;The United Nations was created on October 24, 1945. It now comprises 193 member states. How many member states did it have when it was created?;4;2;Forty;Fifty;Sixty;Seventy
+L;1;0;0;The United Nations was created on October 24, 1945. How many permanent members had its Security Council when it was created?;4;1;Five;Ten;Fifteen;Twenty
+L;0;1;0;The United Nations was created on 24 October 1945. Its Security Council has 5 permanent members. How many non-permanent members, elected for 2 years, does it include?;4;1;Ten;Twenty;Thirty;Forty
+L;1;0;0;The United Nations was created on October 24, 1945. Where are located its headquarters?;4;2;Paris;New York;Bruxelles;Genève
+L;0;0;1;Who was the Gestapo and SS leader during the Second World War?;4;1;Heinrich Himmler;Hermann Göring;Erwin Rommel;Sepp Dietrich
+L;0;0;1;Who was in charge of the Afrikakorps (German army of North Africa) during the Second World War?;4;3;Heinrich Himmler;Hermann Göring;Erwin Rommel;Sepp Dietrich
+L;0;0;1;Who was the Luftwaffe leader (German Air Force) during the second world war?;4;2;Heinrich Himmler;Hermann Göring;Erwin Rommel;Sepp Dietrich
+L;0;1;0;After the Second World War, which used for the first time the word "iron curtain" to designate the symbolic border between Europe, the United States and European states under Soviet influence.;4;1;Winston Churchill;Le général de Gaulle;Harry Truman;Joseph Staline
+L;1;0;0;What wall has been nicknamed the "Wall of shame"?;4;1;The Berlin wall;The Wailing wall in Jerusalem;The Federated wall in Paris;The Atlantic wall
+L;0;1;0;When was the Berlin wall built?;4;4;1918;1946;1954;1961
+L;0;1;0;When was the Berlin wall destroyed?;4;3;1971;1979;1989;1995
+L;1;0;0;How was called the aid plan given by the Americans to the European countries after the Second World War?;4;3;The Truman plan;The Byrnes plan;The Marshall plan;The Roosevelt plan
+L;1;0;0;What president of the french republic abolished the death penalty in France?;4;3;Charles de Gaulle;Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;When was the death penalty abolished in France?;4;3;1969;1975;1981;1988
+L;1;0;0;Who was appointed head of the provisional government of the french republic at the end of the second world war?;3;1;General de Gaulle;General de Lattre de Tassigny;General Leclerc;
+L;0;1;0;Who was the first president of the french fourth republic?;4;3;Paul Doumer;Albert Lebrun;Vincent Auriol;René Coty
+L;0;1;0;Who was the second and last president of the french fourth republic?;4;4;Paul Doumer;Albert Lebrun;Vincent Auriol;René Coty
+L;0;0;1;When was NATO (North Atlantic Treaty Organization) created?;4;2;1946;1949;1952;1955
+L;0;0;1;When was Germany divided into two states: the FRG and the GDR?;4;2;1946;1949;1952;1955
+L;0;0;1;What name was given to the reunification in 1938 of the german Reich and of Austria wished by Hitler before the second world war?;4;2;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;0;1;0;When was the People's Republic of China proclaimed?;4;2;1938;1949;1953;1962
+L;0;0;1;One of these African countries was not colonized by France in the 19th century. Which country is it?;4;4;Gabon;Chad;The Ivory Coast;Ghana
+L;0;0;1;The "placards affair" marked the beginning of the repression against the Protestants. A "placard" was even found nailed to the door of the french king's bedroom. Who is this king?;4;1;François I;Henri II;Charles IX;Henri III
+L;0;1;0;A campaign of political banquets to show discontent with the government was the prelude to:;3;3;The 1789 revolution;The 1830 revolt;The 1848 revolution;
+L;0;0;1;Who was the french president when the SMIG was created?;4;1;Vincent Auriol;Charles de Gaulle;Giscard d'Estaing;François Mitterrand
+L;0;1;0;What was the responsibility of the "mayor of the palace" at the end of the Merovingian dynasty in France?;4;4;King's domestic affairs;King's military affairs;King's diplomatic affairs;He governed in place of the king
+L;0;1;0;During the Merovingian dynasty, a "mayor of the palace" was elected king of the Franks. Who is he?;4;2;Charles Martel;Pépin le Bref;Charlemagne;Louis le Pieux
+L;0;1;0;What did the king of France "Charles le Chauve" offer to the Viking leader Rollon in 911?;4;2;A ransom to spare Paris;A territory that will become Normandy;To marry his daughter;The Throne of France
+L;1;0;0;The People's Republic of China was proclaimed on october 1, 1949. Who was its first president of the republic?;4;2;Tchang Kaï-Chek;Mao Zedong;Liu Shaoqui;Xi Jinping
+L;0;0;1;In 1921, a double-lane road of 10 kilometers long was inaugurated. In what country was this first highway built?;4;2;France;Germany;Italy;England
+L;0;0;1;When did Tunisia obtain its independence?;4;3;1947;1952;1956;1962
+L;0;0;1;When did Morocco obtain its independence?;4;3;1947;1952;1956;1962
+L;0;1;0;When did Algeria obtain its independence?;4;4;1947;1952;1956;1962
+L;0;1;0;What was the purpose of the Bandung conference, which brought together twenty-nine leaders of African, Asian and Middle Eastern states in 1955?;3;3;Establish an economic alliance system;Establishing a common military defense system;Promoting anti-colonialism, peace and development;
+L;0;0;1;When did India and Pakistan gain their independence?;4;1;1947;1952;1956;1962
+L;0;0;1;When did the Dutch Indies proclaim their independence with the name of the republic of Indonesia?;4;1;1945;1947;1952;1956
+L;0;1;0;From which country was the republic of Indonesia a colony until its independence after the second world war?;4;4;France;England;Portugal;The Netherlands
+L;0;0;1;Who was Richard the Lionheart 's mother?;4;1;Aliénor d'Aquitaine;Jeanne de Kent;Blanche de Castille;Elisabeth Woodville
+L;0;1;0;When did David Ben-Gurion proclaimed the state of Israel?;4;2;1919;1948;1956;1962
+L;1;0;0;Who was Israel prime minister after his proclamation in 1948?;4;2;Moshé Sharett;Ben Gourion;Golda Meir;Yitzhak Shamir
+L;0;1;0;Why was the Queen of England Mary Tudor nicknamed "the bloody"?;4;4;She murdered her children;She was cruel with her children;She persecuted Catholics;She persecuted the Protestants
+L;0;1;0;What agreements signed on march 18, 1962 marked the end to the Algerian war?;4;1;Evian agreements;Locarno agreements;Matignon agreements;Genève agreements
+L;0;0;1;When was VAT introduced in France?;4;4;1919;1936;1946;1954
+L;1;0;0;What is the name of the edict signed by Henry IV on April 13, 1598, which marked the end of the religion wars?;4;3;Edict of Saint-Germain;Edict of Poissy;Edict of Nantes;Edict of Blois
+L;0;1;0;During the Ancien regime in France, what was called a "letter of seal"?;4;2;A letter of love sent secretly;A letter serving for the transmission of an order from the king;A letter from the king to pardon in death sentence;An order for the death sentence without prior trial
+L;0;0;1;When did Gutenberg print his first bible?;4;3;1251;1351;1451;1551
+L;0;1;0;What was Robespierre's first name?;4;2;Georges;Maximilien;Jean-Paul;Antoine
+L;0;1;0;What was Danton's first name;4;1;Georges;Maximilien;Jean-Paul;Antoine
+L;0;0;1;What was Fouquier-Tinville's first name?;4;4;Georges;Maximilien;Jean-Paul;Antoine
+L;0;0;1;What was Marat's first name?;4;3;Georges;Maximilien;Jean-Paul;Antoine
+L;0;1;0;Who was the first president of Tunisia after its independence in 1956?;4;2;Ben Ali;Bourguiba;Mebazaa;Marzouki
+L;1;0;0;What global organization was created at the end of the first world war?;2;2;The United Nations;The League of Nations;;
+L;1;0;0;What global organization was created at the end of the second world war?;2;1;The United Nations;The League of Nations;;
+L;1;0;0;When was the United Nations created?;4;2;1936;1945;1952;1962
+L;1;0;0;Marat was a radical revolutionary during the French Revolution. How did he die?;4;4;Guillotined with Robespierre;Killed during the war against Austria;Tuberculosis;Stabbed in his bathtub
+L;0;1;0;What disease spread at the end of the first world war and caused several million deaths?;4;1;Spanish flu;Syphilis;smallpox;Tuberculosis
+L;1;0;0;In the Middle Ages, what was the name of the tax paid to the Church?;4;2;"gabelle";"dîme";"cens";"octroi"
+L;0;0;1;How did Charlemagne die?;4;4;infarct;Plague;Apoplexy;Pleurisy
+L;0;0;1;What king of France has granted Normandy to the Vikings?;4;1;Charles le Chauve;Charles le Gros;Charles III le Simple;Louis II le Bègue
+L;0;0;1;What king of France founded the "Quinze-Vingts" hospital for the blind people?;4;3;Henri IV;Louis XIV;Saint Louis;François I
+L;0;0;1;How many years did the Algerian war last?;4;3;4 years;6 years;8 years;10 years
+L;0;1;0;Which president of the french fourth republic asked General de Gaulle to resolve the Algerian crisis?;2;2;Vincent Auriol;René Coty;;
+L;0;0;1;The "car sticker" was created in France to finance a national solidarity fund for the elderly. When was it created?;4;4;1926;1936;1946;1956
+L;0;1;0;Who married Elizabeth of France, the daughter of Henry II?;4;1;Philip II of Spain;Charles Quint;Henri de Navarre;Henri de Guise
+L;1;0;0;What international organization was the forerunner of the United Nations?;4;1;The League of Nations;The Little Entente;The ICPC;The international
+L;0;1;0;What was, in the 1920s, the new district of fashionable Paris, frequented by writers and artists?;4;3;Montmartre;Saint-Germain-des-Prés;Montparnasse;Saint-Michel
+L;0;1;0;Edith Piaf began her career on the stage of Gerny's, a cabaret in the Champs-Elysées. What was Edith Piaf's real name?;4;1;Edith Gassion;Edith Moineau;Edith Gaspar;Edith Leplée
+L;1;0;0;What is the name that Madame "Coco" Chanel gave to her first perfume created in 1921 by Ernest Beaux?;4;4;Number 1;Number 2;Number 3;Number 4
+L;0;0;1;What was the company of the Peugeot brothers, created in 1832, before launching into the automobile industry?;4;2;Garden tools;Coffee grinders;Irons;Knives
+L;0;1;0;What queen of England was called the "Virgin Queen"?;4;4;Marie Stuart;Anne Boleyn;Marie Ist;Elisabeth Ist
+L;1;0;0;Who were called the harkis?;4;4;The French of Algeria who wanted Algeria to remain french;The French of Algeria who wanted the independence of Algeria;The Algerians who fought for the independence of Algeria;The Algerians who allied with the French so that Algeria remains french.
+L;0;1;0;The Suez crisis was triggered when the Egyptian president announced the nationalization of the Suez Canal, which was under the control of the British and French. Who was this president?;4;1;Gamal Abdel Nasser;Anouar el-Sadate;Hosni Moubarak;Mohamed Morsi
+L;0;1;0;On August 22, 1962, General de Gaulle narrowly escaped an attack carried out by OAS supporters in the southern suburbs of Paris. Where was this attack committed?;4;2;Antony;Petit-Clamart;Massy;Corbeil-Essonnes
+L;1;0;0;What treaty created the European Economic Community (EEC) on 25 March 1957?;4;2;Berlin treaty;Rome treaty;Paris treaty;Maastricht treaty
+L;0;1;0;How many countries included the European Economic Community (EEC) when it was created in 1957?;4;2;4;6;8;10
+L;1;0;0;How many times did Napoleon abdicate?;4;2;Once;Twice;Three times;Four times
+L;0;1;0;Among these Napoleon battles, which one was a defeat?;4;1;Leipzig;Wagram;Friedland;Iena
+L;0;0;1;What was the nickname of Charles Quint's mother?;2;2;Jeanne the Catholic;Jeanne the Mad;;
+L;0;0;1;What were the initials of Hitler's party?;4;1;N.S.D.A.P;D.N.P;K.N.D;N.A.Z.I
+L;0;1;0;How long did the reign of Louis XIV last?;4;4;48 years;55 years;66 years;72 years
+L;1;0;0;Where was Henry IV assassinated?;4;2;Nantes;Paris;Rouen;Blois
+L;0;0;1;When was the Republic of Turkey founded replacing the Ottoman Empire?;4;2;1919;1923;1935;1945
+L;0;0;1;Who was the first president of the Republic of Turkey after his proclamation in 1923?;4;3;Abdullah Gul;Cemal Gursel;Mustafa Kemal;Kenan Evren
+L;1;0;0;When was Germany reunited with the integration of the GDR into the FRG?;4;3;1962;1972;1990;2002
+L;1;0;0;What was the FRG capital before the reunification of Germany?;4;2;Berlin;Bonn;Munich;Francfort
+L;0;1;0;In 1949, what will be the consequence for Germany of the blockade of West Berlin imposed by the Russians;3;3;Germany is divided into 4 zones of occupation;Germany joins the UN;Germany is divided into 2 states: RDA and RFA;
+L;1;0;0;What is the name of the military defense system between the USSR and its communist allies?;3;2;The Atlantic Alliance;The Warsaw Pact;NATO;
+L;1;0;0;From April 1915 to July 1916 the Ottoman Empire was responsible for one of the most important genocides of the 20th century. What was the target population?;4;4;The Jews;The Greeks;The Gypsies;The Armenians
+L;0;0;1;What German industrial city was destroyed by the Allied bombardments on 13, 14 and 15 February 1945?;3;3;Berlin;Munich;Dresde;
+L;0;1;0;The coronation of Napoleon in Paris Notre-Dame, was immortalized by the painter:;4;3;Paul Cézanne;Claude Monet;Jacques-Louis David;Edgar Degas
+L;0;1;0;What was Louis X's nickname?;4;2;"Le Mal Aimé";"Le Hutin";"Le Long";"Le Bel"
+L;0;1;0;What was Philip IV's nickname?;4;1;"Le Bel";"Le Jeune";"Le Long";"Le Hutin"
+L;0;1;0;What was the degree of kinship between Louis XVIII and Louis XVI?;4;2;His son;His brother;His grand-son;His cousin
+L;1;0;0;Who was appointed king of the French after the 1830 revolt?;3;3;Louis XVIII;Charles X;Louis-Philippe;
+L;0;1;0;Who was the last king of France of the Bourbon dynasty?;4;3;Louis XVI;Louis XVIII;Charles X;Louis-Philippe
+L;1;0;0;Who was the last French king, with the title of "king of the French"?;4;4;Louis XVI;Louis XVIII;Charles X;Louis-Philippe
+L;1;0;0;What French politician was nicknamed the "lame devil"?;4;2;The Abbé Sieyés;Talleyrand;Mirabeau;Robespierre
+L;1;0;0;Who de Gaulle commissioned to prepare the constitution of the Fifth Republic in 1958?;4;1;Michel Debré;Guy Mollet;Jacques Chaban-Delmas;Georges Pompidou
+L;1;0;0;Who was the first president of the french fifth republic?;4;3;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;1;0;0;Who was the first prime minister of General de Gaulle?;4;2;Georges Pompidou;Michel Debré;Maurice Couve de Murville;Jacques Chaban-Delmas
+L;0;0;1;At the beginning of the french fifth republic the president of the republic was elected by indirect universal suffrage. When did de Gaulle propose, by referendum, his election by direct universal suffrage?;4;4;1959;1960;1961;1962
+L;1;0;0;What is the first president of the french republic to carry out a mandate of 5 years, the previous duration being 7 years?;4;3;Valéry Giscard d'Estaing;François Mitterrand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;Who is the president of the french republic who amended by referendum the duration of the presidential term from 7 years to 5 years?;4;3;Valéry Giscard d'Estaing;François Mitterrand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;What is the section of the constitution of the french fifth republic that allows the government to commit its responsibility on a law project?;4;3;Section 49.1;Section 49.2;Section 49.3;Section 49.4
+L;1;0;0;Who was Vladimir Ilyich Ulyanov?;3;1;Lenin;Stalin;Trotsky;
+L;0;1;0;When did Jacques Chirac amend by referendum the duration of the presidential term from 7 years to 5 years?;4;2;1996;2000;2004;2007
+L;1;0;0;What is the political party founded in 1958 to support General de Gaulle's return to power?;4;2;RPF;UNR;UMP;RPR
+L;0;1;0;In which country did France perform its first atomic bomb tests?;4;1;Algeria;Morocco;Tunisia;French Polynesia
+L;1;0;0;Which President of the french republic initiated the Franco-British Concorde project?;4;2;René Coty;Charles de Gaulle;Georges Pompidou;Valéry Giscard d'Estaing
+L;1;0;0;When did France acquire the atomic bomb?;4;1;1960;1965;1970;1975
+L;1;0;0;What President of the republic endowed France with the atomic bomb?;4;2;René Coty;Charles de Gaulle;Georges Pompidou;Valéry Giscard d'Estaing
+L;1;0;0;What nickname did the French give to the wife of General de Gaulle?;4;3;Aunt Lucie;Cousin Odette;Aunt Yvonne;Cousin Yvonne
+L;0;1;0;When was the Citroën 2 CV presented at the Paris car show?;4;1;1948;1955;1960;1965
+L;0;1;0;When was Citroën's DS presented at the Paris car show?;4;2;1948;1955;1960;1965
+L;1;0;0;What is the name of the first french artificial satellite launched on November 26, 1965?;4;1;Astérix;Obélix;Tintin;Haddock
+L;0;1;0;When was US President John Fitzgerald Kennedy assassinated in Dallas?;4;2;1960;1963;1968;1972
+L;0;1;0;When was the African American pastor Martin Luther King murdered in Memphis?;4;3;1960;1963;1968;1972
+L;1;0;0;Who was responsible for the assassination of President John Fitzgerald Kennedy?;4;2;James Earl Ray;Lee Harvey Oswald;Gavrilo Princip;Jack Ruby
+L;1;0;0;Against whom was Victor Hugo in conflict when he exiled himself in Jersey?;4;4;Louis XVIII;Charles V;Louis-Philippe;Louis-Napoleon Bonaparte
+L;1;0;0;Who uttered the sentence: "The reform yes, the mess, no!"?;4;1;Charles de Gaulle;Georges Pompidou;François Mitterand;Nicolas Sarkozy
+L;0;1;0;What sentence does General de Gaulle pronounce?;3;2; "The reform yes, the anarchy, no!"; "The reform yes, the mess, no!"; "The reform yes, the revolution, no!";
+L;1;0;0;Who was the Prime Minister of General de Gaulle during the May 68 protest movement?;4;2;Michel Debré;Georges Pompidou;Maurice Couve de Murville;Jacques Chaban-Delmas
+L;0;1;0;The revolutionary Marxist Ernesto Guevara, known as "Che", was captured and assassinated in October 1967 by:;4;3;The ecuadorian army;The chilean Army;The bolivian army;The argentine Army
+L;0;0;1;What was the birth nationality of Ernesto Guevara, known as "Che"?;4;1;Argentina;Cuban;Chilean;Bolivian
+L;1;0;0;The korean war, which took place from 1950 to 1953, was triggered by:;2;2;The invasion of north Korea by south Korea;The invasion of south Korea by north Korea;;
+L;1;0;0;During the korean war, which took place from 1950 to 1953, the United States, mandated by the United Nations, helped:;2;1;South Korea;North Korea;;
+L;1;0;0;During the korean war, which took place from 1950 to 1953, the USSR and China helped:;2;2;South Korea;North Korea;;
+L;1;0;0;What is the name of the political-military movement that defended french Algeria?;3;1;OAS;FLN;The Secret Army;
+L;1;0;0;What is the name of the movement that led the rebellion in Algeria?;3;2;OAS;FLN;The Secret Army;
+L;0;1;0;On October 9, 1890, Clément Ader succeeded in making a motorized vehicle fly a few tens of meters. What was his "aircraft" called?;4;2;Alizé;Eole;Ouragan;Mistral
+L;0;0;1;Two countries are members of the Schengen area without being members of the European Union. What are these countries?;4;2;Sweden and Switzerland;Norway and Switzerland;Sweden and Norway;Norway and Finland
+L;0;0;1;The NATO Palace that was the headquarters of the organization located in Paris until 1957, became:;4;1;The Paris Dauphine University Center;The Paris Descartes University Center;The Paris Diderot University Center;The Pierre and Marie Curie University Center
+L;0;1;0;The NATO headquarters was in Paris until 1957, when France left the organization. Where is it today?;4;2;Berlin;Brussels;Luxembourg;London
+L;0;1;0;In the 1965 presidential election, which lost against General de Gaulle in the second round?;4;2;Jean-Marie Le Pen;François Mitterrand;Jean Lecanuet;Jean-Louis Tixier-Vignancour
+L;0;0;1;What Minister of Finance of General de Gaulle was at the origin of the creation of the "New Franc" on january 1st, 1960?;4;3;Valéry Giscard d'Estaing;Michel Debré;Antoine Pinay;Maurice Couve de Murville
+L;0;1;0;When was the "New Franc" created in France?;4;2;January 1st, 1955;January 1st, 1960;January 1st, 1965;January 1st, 1970
+L;1;0;0;Who was the president when the "New Franc" was created in France?;4;2;René Coty;Charles de Gaulle;Georges Pompidou;Valéry Giscard d'Estaing
+L;0;0;1;Who was the president when the third week of paid leave was granted in France?;4;1;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;0;0;1;Who was the president when the fourth week of paid leave was granted in France?;4;3;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;0;0;1;Who is the author of the Petit-Clamart attack that nearly killed General de Gaulle in 1962?;4;4;Thierry Paulin;Pierre Chanal;Michel Fourniret;Jean Bastien-Thiry
+L;0;1;0;Why did General de Gaulle resign in 1969?;4;2;For health reasons;"Because the French said ""no"" to the referendum on regionalization";Because he was charged for cheating in the last election;Because he felt too old to finish his term
+L;0;1;0;What president of the french third republic was assassinated?;4;1;Sadi Carnot;Emile Loubet;Félix Faure;Gaston Doumergue
+L;0;0;1;When were the first TV news broadcast in France?;4;2;1946;1949;1953;1959
+L;0;0;1;En quelle année la redevance télévisuelle a-t'elle été crée en France?;4;2;1946;1949;1953;1959
+L;0;1;0;What wife of president of the french Republic was the godmother of the liner France?;4;2;Mrs Germaine Coty;Mrs Yvonne de Gaulle;Mrs Claude Pompidou;Mrs Anne-Aymone Giscard d'Estaing
+L;0;1;0;What was the first name of General de Gaulle's wife?;4;4;Germaine;Jeanne;Henriette;Yvonne
+L;0;0;1;Which president of the french third republic was single at his election and married only twelve days before the end of his seven-year term?;4;3;Félix Faure;Paul Deschanel;Gaston Doumergue;Paul Doumer
+L;0;0;1;In which university did the student protest movement on May 1968 begin?;4;2;Paris Sorbonne University;Nanterre University;Paris Dauphine University;Pierre and Marie Curie University
+L;0;1;0;When did General de Gaulle resign and leave political life?;4;2;1968;1969;1970;1971
+L;1;0;0;Which president of the french senate has twice assumed the interim at the head of the State without ever being elected?;4;3;Gaston Monnerville;René Monory;Alain Poher;Christian Poncelet
+L;0;0;1;What name was given to the american military operation that triggered the Vietnam war?;4;3;"Torch";"Barbarossa";"Rolling Thunder";"Overload"
+L;0;1;0;What american president triggered the vietnam war by bombing North Vietnam, which supported the south vietnamese communist guerrillas?;4;3;Dwight David Eisenhower;John Fitzgerald Kennedy;Lyndon Baines Johnson;Richard Nixon
+L;0;0;1;When was Vietnam reunified into a single communist state after the end of the war with the Americans?;4;3;1965;1969;1976;1980
+L;0;0;1;"Mohandas Gandhi fought against the British presence and militated for the independence of India. He was called ""Mahatma"", which means:";4;3;Dressed in white;Lord;The Great Soul;Savior
+L;1;0;0;Who was the first president of the french republic?;4;2;Adolphe Thiers;Louis-Napoleon Bonaparte;Patrice de Mac Mahon;Jules Grévy
+L;0;1;0;The Markovic case is a French criminal case that was linked to a sexual scandal aimed at:;4;2;Yvonne de Gaulle;Claude Pompidou;Anne-Aymone Giscard d'Estaing;Danielle Mitterrand
+L;1;0;0;"Change in continuity" was the campaign slogan of a president of the french republic. Which president?;4;1;Georges Pompidou;François Mitterrand;Jacques Chirac;Valery Giscard d'Estaing
+L;1;0;0;"The Quiet Force" was the campaign slogan of a president of the french republic. Which president?;4;2;Georges Pompidou;François Mitterrand;Jacques Chirac;Valery Giscard d'Estaing
+L;0;0;1;Who was the president of the french republic when the European aeronautical consortium Airbuswas  was created?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;0;1;Who was the president of the french republic when the first Alstom TGV prototype began its tests?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;0;1;When did the first Alstom TGV prototype start testing?;4;1;1972;1975;1978;1981
+L;0;0;1;When was the European aeronautical consortium Airbus created?;4;1;1970;1975;1980;1985
+L;0;0;1;Who was the president of the french republic when the european space program Ariane was launched?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;0;1;When was the european Ariane space program launched?;4;1;1973;1976;1979;1982
+L;0;0;1;In April 1961, Cuban exiles, supported by the United States, landed in a bay of Cuba in order to overthrow the regime of Fidel Castro. What is the name of this bay?;4;3;The bay of monkeys;The bay of the cows;The bay of pigs;The bay of sheep
+L;0;0;1;On what land did Christopher Columbus land the first time when he discovered the american continent on October 28, 1492?;4;4;Jamaica;Haiti;Puerto Rico;Cuba
+L;0;0;1;Who was the president of the United States during the cuban crisis that raised fears of a nuclear conflict between the United States and the USSR?;4;3;Harry Truman;Dwigt Eisenhower;John Kennedy;Lyndon Johnson
+L;0;0;1;Who was the leader of the USSR during the cuban crisis that raised fears of a nuclear conflict between the United States and the USSR?;4;2;Staline;Khrouchtchev;Brejnev;Andropov
+L;0;0;1;When was the crisis in Cuba where an American spy plane spotted rockets launching nuclear weapons on Cuba?;4;3;1954;1958;1962;1966
+L;0;1;0;Who was the president of the United States when the korean war began with the invasion of South Korea (supported by the United States) by North Korea (supported by the USSR and China)?;4;1;Harry S. Truman;Dwigt D. Eisenhower;John F. Kennedy;Lyndon B. Johnson
+L;0;1;0;Who was the leader of the USSR when the korean war began with the invasion of South Korea (supported by the United States) by North Korea (supported by the USSR and China)?;4;1;Staline;Khrouchtchev;Brejnev;Andropov
+L;1;0;0;How did the Korean war between South Korea (supported by the United States) and North Korea (supported by the USSR and China) end in 1953?;2;2;Reunification of Korea in one state;Korea remains divided into two states separated by a demilitarized zone;;
+L;0;0;1;How long did the Vietnam war last?;4;4;One year;Three years;Five years;Ten years
+L;0;0;1;How long did the Korean war last?;4;3;One year;Two years;Three years;Four years
+L;1;0;0;During what war did the Americans pour millions of liters of napalm to destroy the vegetation that was used to shelter their opponents?;4;4;The first world war;The second world war;The Korean war;The Vietnam war
+L;1;0;0;What king of France appointed Mazarin as chief minister of state in 1642?;4;3;Louis XIV;Louis XV;Louis XIII;Henri IV
+L;1;0;0;Gustave Eiffel built the Eiffel Tower in Paris but also:;4;2;The tower of Pisa;Statue of Liberty;The Arc de Triomphe;Notre-Dame cathedral
+L;0;1;0;What was the most violent crisis of the Cold War?;4;4;The Berlin crisis;The London crisis;The United States crisis;The Cuba crisis
+L;1;0;0;What was the title of the Regent of Algiers under the domination of the Ottoman Empire from 1671 to 1830?;4;3;The Caid;The raïs;The dey;The Caliph
+L;0;1;0;What was the nickname of Edward of Woodstock, the son of King Edward III., King of England, who beat and captured "John II the Good"?;4;3;The Black Duke;The Black Count;The Black Prince;The black Knight
+L;0;1;0;Why was the Black Prince, son of Edward III king of England, so nicknamed?;2;1;Because of the color of his armor;Because of the color of his horse;;
+L;0;0;1;When did France move from the Julian calendar to the Gregorian calendar?;4;2;1482;1582;1682;1782
+L;0;0;1;What king of France decided to adopt the Gregorian calendar instead of the Julian calendar?;4;2;François I;Henri III;Louis XIII;Louis XV
+L;0;0;1;During the change from the Julian calendar to the Gregorian calendar:;4;4;We won 5 days;We won 10 days;We lost 5 days;We lost 10 days
+L;0;0;1;What name was given to the bay of New York when it was discovered in 1524?;4;1;New Angouleme;New Amsterdam;New Venice;New London
+L;0;1;0;Which American president was present at the Camp David accords followed by the signature of the first peace treaty between Israel and an Arab country: the Israeli-Egyptian peace treaty of March 1979?;4;3;Richard Nixon;Gerald Ford;Jimmy Carter;Ronald Reagan
+L;1;0;0;What Egyptian president won the Nobel Peace Prize following the signature in March 1979 of the peace treaty between Egypt and Israel?;4;2;Gamal Abdel Nasser;Anouar el-Sadate;Soufi Abou Taleb;Hosni Moubarak
+L;0;1;0;The Yom Kippur war was an Arab-Israeli war, which took place in 1973, which led to an increase in the price of oil by OPEC. What is Yom Kippur?;4;4;The territory of Syria where the conflict took place;The territory of Lebanon where the conflict took place;The territory of Jordan where the conflict took place;The name of the Jewish feast day where the conflict began
+L;1;0;0;What president of the french republic decided the construction of the Beaubourg center in Paris?;4;1;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;0;1;When was the SMIC created in France?;4;4;1947;1954;1968;1970
+L;0;0;1;Who was the president of the french republic when the SMIC was created in France?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;1;0;When did a woman stood for the first time for the presidential election in France?;4;2;1969;1974;1981;1988
+L;1;0;0;Who was the first woman to stand for the presidential election in France?;4;1;Arlette Laguiller;Huguette Bouchardeau;Marie-France Garaud;Dominique Voynet
+L;0;1;0;Arlette Laguiller is the first woman to stand for the presidential election in France. How many times did she stand for this election?;4;3;4;5;6;7
+L;0;1;0;When did OPEC members increase for the first time the price of oil in reaction to the Western position during the Yom Kippur war?;4;2;1967;1973;1979;1985
+L;0;1;0;When, following the Iranian revolution, did the price of oil increase for the second time (second oil shock)?;4;3;1967;1973;1979;1985
+L;1;0;0;Who created the Comédie-Française?;4;2;Louis XIII;Louis XIV;Louis XV;Napoleon
+L;0;0;1;When did the Russian tanks enter Budapest to stop by force the revolt against the communist regime?;4;3;1948;1952;1956;1960
+L;0;1;0;During the french revolution, which pronounced this sentence to its executioner before being guillotined: "You will show my head to the people, it is worth it"?;4;1;Danton;Robespierre;Mirabeau;Camille Desmoulins
+L;0;0;1;When did the papacy move from Vatican to Avignon?;4;3;1109;1209;1309;1409
+L;0;1;0;Giscard d'Estaing was the youngest president of the fifth republic. How old was he when he was elected?;4;2;43;48;53;58
+L;0;1;0;When was the time change adopted in France?;4;2;1973;1976;1979;1982
+L;1;0;0;Which president of the fifth french republic was the victim of the Bokassa diamonds affair?;4;2;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Who was the president of the republic when the age of majority was lowered to 18 years in France?;4;2;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Who was the president of the republic when the law "Veil" legalizing abortion was voted in France?;4;2;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;Who is the first man to fly in space?;4;4;Neil Armstrong;Alexei Leonov;Alan Shepard;Youri Gagarine
+L;1;0;0;What president of the United States launched the Apollo program in response to the Soviets who have just succeeded in the first manned flight in space, whose purpose is to pose a man on the moon before the end of the decade?;4;2;Dwight David Eisenhower;John Fitzgerald Kennedy;Lyndon Baines Johnson;Richard Nixon
+L;0;1;0;When did the first manned flight in space take place?;4;2;1958;1961;1964;1967
+L;1;0;0;When did the first man walk on the moon?;4;3;1965;1967;1969;1971
+L;1;0;0;Who is the man to walk on the moon?;4;1;Neil Armstrong;Edwin Aldrin;Michael Collins;Charles Conrad
+L;0;1;0;During what Apollo mission did the man walk on the moon for the first time?;4;3;Apollo 9;Apollo 10;Apollo 11;Apollo 12
+L;1;0;0;What animal did the Russians send into space in 1957?;4;1;A dog;A cat;A monkey;A pig
+L;0;0;1;What US president signed the first SALT (SALT I) agreements with the USSR in 1972 on the limitation of strategic armaments?;4;2;Lyndon B. Johnson;Richard Nixon;Gerald Ford;Jimmy Carter
+L;0;0;1;What US President signed the second SALT (SALT II) agreements with the USSR in 1979 on the limitation of strategic armaments?;4;4;Lyndon B. Johnson;Richard Nixon;Gerald Ford;Jimmy Carter
+L;0;0;1;What Soviet leader signed with the United States the SALT (SALT and SALT II) agreements on the limitation of strategic armaments?;4;3;Staline;Khrouchtchev;Brejnev;Andropov
+L;1;0;0;What president of the french republic had the longest term?;4;3;Vincent Auriol;Charles de Gaulle;François Mitterand;Jacques Chirac
+L;0;1;0;When did the weekly working time change from 40 hours to 39 hours in France?;4;1;1982;1984;1986;2000
+L;0;1;0;When did the weekly working time change from 39 hours to 35 hours in France?;4;4;1982;1984;1986;2000
+L;0;1;0;Who was the president of the republic when the weekly working time change from 40 hours to 39 hours in France?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Who was the president of the republic when the weekly working time change from 39 hours to 35 hours in France?;4;4;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;When did the retirement age change from 65 to 60?;4;1;1982;1984;1986;2000
+L;1;0;0;When did the retirement age change from 60 to 62?;4;3;1986;2000;2010;2014
+L;1;0;0;Who was the president of the republic when the age of retirement change from 65 to 60 in France?;4;2;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;Who was the president of the republic when the age of retirement change from 60 to 62 in France?;4;4;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;1;0;When was the minimum income for integration (RMI) introduced in France?;4;4;1982;1984;1986;1988
+L;1;0;0;Who was the president of the republic when the minimum income for integration (RMI) was introduced in France?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;When was the wealth tax (IGF) created in France?;4;1;1982;1984;1986;1988
+L;0;1;0;When was the solidarity tax on wealth (ISF) created?;4;4;1982;1984;1986;1988
+L;1;0;0;Who was the president of the republic when wealth tax (IGF) was created in France?;4;2;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;Who was the president of the republic when the solidarity tax on wealth (ISF) was created in France?;4;2;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;0;1;When was the General Social Contribution (CSG) created in France?;4;4;1982;1984;1986;1988
+L;0;0;1;Who was the president of the republic when the General Social Contribution (CSG) was created in France?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;What code name was given to the military operation triggered by an international coalition led by the United States against Iraq following its annexation of Kuwait in January 1991?;4;4;Eagle Claw;Barracuda;Odyssey Dawn;Desert storm
+L;0;1;0;During the 1984-1988 period in New Caledonia, what was the name of the party of the independantists?;2;1;Le FLNKS;Le RPCR;;
+L;0;1;0;During the 1984-1988 period in New Caledonia, what was the name of the party of those who wanted New Caledonia to remain in the french republic?;2;2;Le FLNKS;Le RPCR;;
+L;0;1;0;During the 1984-1988 period in New Caledonia, who was the leader of the FLNKs, the party of the independentists?;2;1;Jean-Marie Tjibaou;Jacques Lafleur;;
+L;0;1;0;During the 1984-1988 period in New Caledonia, who was the leader of the RPCR, the party of those who wanted New Caledonia to remain in the french republic?;2;2;Jean-Marie Tjibaou;Jacques Lafleur;;
+L;0;0;1;The Treaty of the Pyrenees, which ended nearly twenty-five years of war between France and Spain, was signed on 7 November 1659 on a small island in the middle of the Bidassoa coastal river between France and Spain. What is the name of this island?;4;1;The pheasants island;The partridges island;The sparrow Island;The ducks island
+L;0;1;0;On May 18, 1990, the TGV Atlantique broke the world record of speed on rail by reaching the speed of:;4;3;315 km/h;415 km/h;515 km/h;615 km/h
+L;0;1;0;When did the TGV Atlantique defeat the world speed record on reaching the speed of 515 km/h in France?;4;4;1975;1980;1985;1990
+L;1;0;0;Which President of the United States was forced to resign after the Watergate scandal?;4;1;Richard Nixon;Gerald Ford;Jimmy Carter;Ronald Reagan
+L;0;0;1;When did the USSR disappear to be replaced by the Commonwealth of Independent States (CIS)?;4;2;1989;1991;1993;1995
+L;1;0;0;In what country hundreds of thousands of Tutsis were assassinated in 1994 by the Hutus?;4;2;Uganda;Rwanda;Tanzania;Burundi
+L;0;0;1;What event triggered in 1994 the genocide in Rwanda where hundreds of thousands of Tutsis were assassinated by the Hutus?;2;1;The assassination of Rwandan President Juvénal Habyarimana;An attempted coup by the Tutsis;;
+L;1;0;0;Who was the president of the french republic at the time of the Berlin Wall fall in 1989?;4;3;Charles de Gaulle;Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Who was chancellor of the federal republic of Germany at the time of the Berlin Wall fall in 1989?;4;3;Willy Brandt;Helmut Schmidt;Helmut Kohl;Gerhard Schröde
+L;0;0;1;Who was the leader of the USSR when the Berlin Wall was built in 1961?;4;2;Joseph Staline;Nikita Khrouchtchev;Léonid Brejnev;Iouri Andropov
+L;0;1;0;Who was chancellor of the federal republic of Germany at the time of the reunification of Germany in 1990?;4;3;Willy Brandt;Helmut Schmidt;Helmut Kohl;Gerhard Schröde
+L;0;1;0;With what german chancellor did François Mitterrand celebrate, on 22 September 1984 at the Verdun Memorial, the memory of the french and german soldiers who die during the second world war?;4;3;Willy Brandt;Helmut Schmidt;Helmut Kohl;Gerhard Schröde
+L;0;0;1;Who was the leader of the USSR when it broke up in 1991?;4;3;Nikita Khrouchtchev;Léonid Brejnev;Mikhaïl Gorbatchev;Boris Eltsine
+L;0;1;0;What leader of the USSR carried out a policy aimed at modernizing the country called "Perestroika"?;4;3;Nikita Khrouchtchev;Léonid Brejnev;Mikhaïl Gorbatchev;Boris Eltsine
+L;1;0;0;During the Israeli-Arab wars, what was the name of the Palestinians fighting against the Israelis?;2;2;The Mujahideen;The fedayins;;
+L;1;0;0;How were the Afghan resistants called during the invasion of Afghanistan by the USSR from 1979 to 1989?;2;1;The Mujahideen;The fedayins;;
+L;0;1;0;In 1978, what arab country leader signed the Camp David agreements with israeli prime minister Menahem Begin in the presence of US president Jimmy Carter?;3;2;Nasser;Anouar el-Sadate;Yasser Arafat;
+L;0;0;1;In 1978, what israeli leader signed the Camp David agreements with egyptian president Anouar el-Sadate in the presence of US president Jimmy Carter?;4;3;Golda Meir;Yitzhak Rabin;Menahem Begin;Shimon Peres
+L;0;0;1;When were the Camp David agreements signed, which led to the signature of the first peace treaty between Israel and an arab country?;4;3;1968;1973;1978;1983
+L;0;0;1;In June 1982, the Israelis invaded southern Lebanon to eliminate the Palestinian resistance and to force Syria to leave Lebanon. What name was given to this military operation?;4;2;Desert Storm;Peace in Galilee;Peace in Lebanon;Liberation of Lebanon
+L;0;0;1;In what country was the Shiite movement called Hezbollah founded?;4;2;Egypt;Lebanon;Syria;Iran
+L;0;1;0;On January 28, 1986, what American Space Shuttle exploded in flight a few seconds after its launch?;4;4;Columbia;Discovery;Atlantis;Challenger
+L;0;0;1;When did the Americans initiate the war in Vietnam by bombing North Vietnam, which supported the communist guerrilla warfare in South Vietnam?;4;2;1962;1965;1968;1971
+L;0;0;1;When were the Paris agreements signed, ending the American commitment to the war in Vietnam?;4;3;1967;1970;1973;1976
+L;0;0;1;Which american president decided the withdrawal of US troops from Vietnam ending US engagement in the Vietnam war?;4;4;Dwight David Eisenhower;John Fitzgerald Kennedy;Lyndon Baines Johnson;Richard Nixon
+L;0;0;1;Who is the first woman in history to have been elected head of government?;4;1;Sirimavo Bandaranaike;Indira Gandhi;Magaret Thatcher;Golda Meir
+L;1;0;0;After the second world war, nazi crimes were tried in a historical trial, which the court was held in:;4;2;Berlin;Nuremberg;Francfort;Munich
+L;0;1;0;The Evian agreements, signed in 1962, marked the end of:;4;1;The algerian war;The indochina war;The vietnam war;The korean war
+L;0;0;1;The Paris agreements, signed in 1973, marked the end of:;4;3;The algerian war;The indochina war;The vietnam war;The korean war
+L;0;1;0;The Geneva agreements, signed in 1954, marked the end of:;4;2;The algerian war;The indochina war;The vietnam war;The korean war
+L;0;1;0;In 1882, Germany, Austria-Hungary and Italy signed a defensive agreement named:;2;1;The Triple Alliance;The Triple Entente;;
+L;0;1;0;What is the name of the agreement between France, England and Russia before the First World War?;2;2;The Triple Alliance;The Triple Entente;;
+L;0;1;0;When was the new franc created in France?;4;2;1955;1960;1965;1970
+L;0;1;0;Who was the president of the republic when the new franc was created in France?;4;3;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;0;0;1;When did the franc become the new currency in France to replace the pound?;4;1;1795;1815;1835;1855
+L;1;0;0;When did the euro become the new currency in France to replace the franc?;4;2;1997;1999;2003;2005
+L;1;0;0;Who was the president of the republic when the euro become the new currency in France to replace the franc?;4;3;Valéry Giscard d'Estaing;François Mitterrand;Jacques Chirac;Nicolas Sarkozy
+L;0;0;1;When was an islamic republic created in Iran marking the end of the imperial state led by the shah Mohammad Reza Pahlavi?;4;2;1975;1979;1983;1987
+L;0;1;0;What happened to the shah of Iran after the islamic revolution of 1979?;4;4;He committed suicide;He was assassinated by an islamic revolutionary;He was tried and imprisoned by the new regime;He went into exile in Egypt
+L;0;0;1;Who was the shah of Iran during the islamic revolution of 1979?;4;3;Ahmad Shah Qajar;Reza Chah;Mohammad Reza Pahlavi;Reza Pahlavi
+L;0;1;0;Who was the Supreme Leader of the revolution after the establishment of the Islamic republic in Iran in 1979?;4;1;Rouhollah Khomeini;Ali Khamenei;Mohammad Ali Rajai;Hassan Rohani
+L;0;1;0;Ayatollah Khomeini was the leader of the revolution in Iran after the islamic revolution of 1979. What was his confession?;2;1;shiite;sunnite;;
+L;0;0;1;In which country was Ayatollah Khomeini when he returned to Iran after the departure of the shah in 1979 to become the supreme leader of the islamic revolution?;4;4;Egypt;England;Germany;France
+L;0;0;1;What event contributed to the first oil shock of 1973?;2;1;The Yom Kippur war;The islamic revolution in Iran;;
+L;0;0;1;What event contributed to the second oil shock of 1979?;2;2;The Yom Kippur war;The islamic revolution in Iran;;
+L;0;0;1;On September 8, 1978, riots were violently repressed in Tehran. How was called this day which was the starting point of the Islamic revolution?;4;4;Black monday;Black tuesday;Black thursday;Black Friday
+L;0;0;1;The war between Iran and Iraq began in 1980. How many years did it last?;4;4;Five years;Six years;Seven years;Eight years
+L;0;1;0;When did Algeria war begin?;4;4;1945;1947;1951;1954
+L;0;0;1;What king of France was nicknamed "The father of the People"?;4;2;Louis XI;Louis XII;Henri II;Henri III
+L;0;0;1;What king of France was nicknamed "The cautious"?;4;1;Louis XI;Louis XII;Henri II;Henri III
+L;0;1;0;What king of France was nicknamed "The Restorer of Letters"?;4;1;François I;Henri IV;Louis XIII;Louis XIV
+L;0;0;1;What king of France was nicknamed "The Just One"?;4;3;François I;Henri IV;Louis XIII;Louis XIV
+L;1;0;0;What king of France was nicknamed "The Beloved"?;4;4;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;What king of France was nicknamed "The Sun King"?;4;3;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;0;1;Who was the Soviet leader when the USSR invaded Afghanistan in 1979?;4;3;Stalin;Khrouchtchev;Brejnev;Andropov
+L;0;1;0;Ahmad Shah Massoud was one of the leaders of the rebellion when USSR invaded his country in 1979. Which country is it?;4;3;Turkmenistan;Tajikistan;Afghanistan;Pakistan
+L;0;0;1;How many years was the Soviet occupation in Afghanistan started in 1979?;4;4;Four years;Six years;Eight years;Ten years
+L;0;0;1;Who was the Soviet leader when the USSR withdrew from Afghanistan after ten years of occupation?;4;4;Khrouchtchev;Brejnev;Andropov;Gorbatchev
+L;0;1;0;When did the Soviets withdraw from Afghanistan after ten years of occupation?;4;3;1979;1984;1989;1994
+L;0;1;0;When did the Battle of Verdun take place?;4;3;1914;1915;1916;1917
+L;0;1;0;Who was president of the council in France during the first world war?;4;1;Georges Clémenceau;Raymond Poincaré;Gaston Doumergue;Félix Faure
+L;0;0;1;When was signed the treaty of Versailles that ended the first world war?;4;4;November 1919;December 1918;April 1918;June 1919
+L;0;1;0;Who was the prime minister of India when it became independent in 1947?;4;3;Tito;Nasser;Nehru;Gandhi
+L;0;0;1;When were Savoy and the county of Nice, which belonged to the kingdom of Piedmont-Sardinia, attached to France?;4;3;1850;1855;1860;1865
+L;0;0;1;Who obtained the incorporation of Savoy and County of Nice to France?;4;4;Louis XIV;Napoleon I;Louis-Philippe;Napoleon III
+L;0;1;0;In 1930, how is called the Gandhi march for independence of India?;4;1;The salt march;The march of hope;The long walk;The march for freedom
+L;0;1;0;Gandhi was the leader of the Indian nationalist movement and apostle of non-violence? How did he die?;4;1;He was murdered;He died of tuberculosis;He died in prison;He committed suicide
+L;0;0;1;When did East Pakistan become independent under the name of Bangladesh?;4;4;1947;1954;1962;1971
+L;1;0;0;What battle of Napoleon was nicknamed the "battle of the three emperors"?;4;1;Austerlitz battle;Wagram battle;Friedland battle;Leipzig battle
+L;0;0;1;What battle of Napoleon was called the battle of the Nations?;4;4;Austerlitz battle;Wagram battle;Friedland battle;Leipzig battle
+L;0;0;1;During the hundred years war, which king of France appointed Bertrand du Guesclin constable of France?;4;2;Jean II "the Good";Charles V;Charles VI;Charles VII
+L;1;0;0;Who was the first surgeon to perform a heart transplant in 1967?;3;3;Norman Shumway;Christian Cabrol;Chris Barnard;
+L;0;0;1;When did Coluche create Les "Restaurants du cœur" in France?;4;3;1979;1982;1985;1988
+L;1;0;0;Which president of the french republic signed the Maastricht treaty leading to the creation of the European Union?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;0;1;When was signed the Maastricht treaty which will lead to the creation of the European Union?;4;2;1989;1992;1995;1998
+L;1;0;0;What is the treaty, signed in 1992, which will lead to the creation of the European Union?;4;3;Rome treaty;Paris treaty;Maastricht treaty;Lisbonne treaty
+L;1;0;0;What is the name of the agreement signed in 1985 which established the free movement of persons between signatory states?;4;4;Munich agreement;Locarno agreement;Matignon agreement;Schengen agreement
+L;0;0;1;When was compulsory military service abolished in France?;4;3;1991;1994;1997;2000
+L;0;1;0;Who the president of the republic when the compulsory military service was abolished in France?;4;3;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;0;1;In 1995, the serbian army massacred the muslim population in the city of:;4;1;Srebrenica;Sarajevo;Pristina;Podgorica
+L;1;0;0;What state of the former Yugoslavia is the last state to have obtained its independence in 2008, independence contested by Serbia and Russia?;4;4;Slovenia;Croatia;Montenegro;Kosovo
+L;1;0;0;Who was the leader of the confederation of Yugoslavia during the massacres by the Serbs of the Croat and Muslim populations?;4;1;Milosevic;Tito;Tomic;Milutinovic
+L;1;0;0;What is the war during the "glorious thirties" period which caused the greatest protest movement?;4;3;The Biafran war;The Korean war;The Vietnam war;The six day war
+L;0;0;1;The chilean president Salvador Allende was brought down in 1973 by a coup led by Augusto Pinochet. How did Salvador Allende died?;4;1;He committed suicide;He died in prison;He was shot;He was killed during his escape during the coup
+L;1;0;0;Who instituted a dictatorial regime in Chile in 1973 after overthrowing the president Salvador Allende?;4;2;Fidel Castro;Augusto Pinochet;Oliveira Salazar;Francisco Franco
+L;1;0;0;Who led the Cuban revolution which overthrew in 1959 the dictatorial regime of General Fulgencio Batista?;4;1;Fidel Castro;Augusto Pinochet;Oliveira Salazar;Francisco Franco
+L;1;0;0;Who led from 1939 to 1975 a dictatorial political regime in Spain with the title of Caudillo?;4;4;Fidel Castro;Augusto Pinochet;Oliveira Salazar;Francisco Franco
+L;0;0;1;From 1979 onwards, which Chinese leader made China's economy evolve towards capitalism and liberalism while maintaining strong state control?;4;4;Chiang Kai-shek;Mao Zedong;Zhou Enlai;Deng Xiaoping
+L;0;0;1;Who is the first American who flew around the earth in 1962 almost 10 months after the inaugural flight of the Soviet Yuri Gagarin?;4;1;John Glenn;Michael Collins;Neil Armstrong;Buzz Aldrin
+L;0;0;1;When was Hong Kong given back to China by the British?;4;3;1990;1994;1997;2000
+L;0;1;0;The Khmer Rouge were communist guerrillas in:;4;2;China;Cambodia;Korea;Burma
+L;1;0;0;Who was called the Caudillo?;4;4;Mussolini;Che Guevara;Salazar;Franco
+L;0;1;0;In which country was Salazar a dictator?;4;3;Spain;Chili;Portugal;Mexico
+L;0;0;1;When was the Civil Solidarity Pact (PACS) created in France?;4;2;1995;1999;2003;2006
+L;0;0;1;When was the CMU (Universal Medical Coverage) created in France?;4;2;1995;2000;2005;2010
+L;0;1;0;When was the french political party RPR (Rally for the Republic)?;4;1;1976;1989;2002;2007
+L;1;0;0;Who founded the french political party RPR (Rally for the Republic) in 1976?;4;3;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;1;0;When was the french political party RPR dissolved into the UMP (Union for a Popular Movement)?;4;3;1976;1989;2002;2007
+L;0;1;0;When was the french political party UDF (Union for Democracy) created?;4;1;1978;1989;2002;2007
+L;0;0;1;Who founded the french political party UDF (Union for French Democracy) in 1978?;4;1;Michel Poniatowski;Valéry Giscard d'Estaing;François Bayrou;Jacques Chirac
+L;0;1;0;When was the french political party UDF dissolved into the MoDem (Democratic Movement)?;4;4;1976;1989;2002;2007
+L;1;0;0;Who founded the french political party MoDem (Democratic Movement) in 2007?;4;2;Valéry Giscard d'Estaing;François Bayrou;Jacques Chirac;Nicolas Sarkozy
+L;0;1;0;What treaty, signed in 2007, allowed the european process to be revived after the non-ratification by the member countries of the european constitutional treaty?;4;4;Rome treaty;Paris treaty;Nice treaty;Lisbonne treaty
+L;1;0;0;Who was the president of the republic in France when the Lisbon treaty was signed?;4;3;François Mitterrand;Jacques Chirac;Nicolas Sarkozy;François Hollande
+L;1;0;0;In January 1910, what catastrophe affected the city of Paris?;4;2;A fire;A flood;An earthquake;An epidemic
+L;1;0;0;What was the name of Charlemagne's sword?;4;2;The invincible;The Joyful;The justice;The liberty
+L;1;0;0;Who painted the fresco of the Sistine Chapel ceiling in Rome?;4;4;Donatello;Leonardo DeVinci;Raphael;Michelangelo
+L;0;1;0;Which of these kings of France is not a Henry II 's son?;4;3;Henri III;François II;Louis XII;Charles IX
+L;0;0;1;Who was the main instigator of the 1955 Bandung conference whose aim was to promote anti-colonialism, peace and development in the dominated countries?;4;2;Tito;Nehru;Nasser;Zhou Enlai
+L;0;1;0;In which country took place the 1955 Bandung conference, whose aim was to promote anti-colonialism, peace and development in the dominated countries?;4;3;India;China;Indonesia;Egypt
+L;0;0;1;How many countries attended the 1955 Bandung conference, whose aim was to promote anti-colonialism, peace and development in the dominated countries?;4;3;9;19;29;39
+L;0;0;1;When did the Bandung conference took place, whose aim was to promote anti-colonialism, peace and development in the dominated countries, take place?;4;2;1945;1955;1965;1975
+L;1;0;0;Who was the USSR leader during the second world war?;4;3;Trotski;Lenin;Stalin;Khrouchtchev
+L;1;0;0;Who was the USSR leader after Stalin's death in 1953?;4;2;Lenin;Khrouchtchev;Brejnev;Andropov
+L;0;0;1;When did Colonel Nasser, leader of the Free Officers Movement, overthrow King Farouk and proclaim the Republic of Egypt?;4;2;1922;1953;1958;1961
+L;0;0;1;When did Egypt become an independent kingdom by ending the British protectorate in force since 1882?;4;1;1922;1953;1958;1961
+L;0;0;1;When did Indonesia become independent under the name of the republic of Indonesia?;4;2;1922;1949;1958;1961
+L;1;0;0;Who occupied Indonesia before its independence in 1949?;4;3;The French;The British;The Dutch;The Americans
+L;0;1;0;Which of these Africa states was not a former french colony?;4;3;Mauritania;Chad;Angola;Niger
+L;0;1;0;What empire was called "Middle Kingdom"?;4;4;The Russian Empire;The Japan empire;The Ottoman empire;The China empire
+L;0;0;1;Who is the Qin dynasty last China emperor, who had to abdicate in 1912?;4;2;Nurhachi;Puyi;Huang Taiji;Kangxi
+L;0;1;0;What name was given to the retreat of Mao and his communist supporters in the direction of northern China to escape the nationalist regime of Chiang Kai-shek?;4;3;The salt march;The march of hope;The long march;The march for freedom
+L;0;1;0;Who was the China leader after Mao Zedong's death in 1976?;4;2;Chiang Kai-shek;Deng Xiaoping;Liu Shaoqi;Xi Jinping
+L;0;1;0;Which leader was nicknamed the "Great Helmsman"?;4;2;Chiang Kai-shek;Deng Xiaoping;Liu Shaoqi;Xi Jinping
+L;0;1;0;What is the name of the program launched by Mao Zedong in 1958 to revive the Chinese economy, which ended in a real disaster?;4;1;The great leap forward;The cultural revolution;The long march;The great jump to modernization
+L;0;0;1;What is the name of the geostationary satellite launched on 24 December 1979 by the first european rocket Ariane 1?;4;2;Asterix;Obelix;Tintin;Haddock
+L;0;0;1;What is the latest version of the european Ariane rocket?;4;3;Ariane 3;Ariane 4;Ariane 5;Ariane 6
+L;0;0;1;When did the european rocket Ariane 1 launch its first satellite?;4;2;1973;1979;1985;1990
+L;0;0;1;What was commander Massoud nickname during the invasion of Afghanistan by the USSR in 1979?;4;2;The Lion of the Desert;The lion of Panshir;The afghan tiger;The fighter of faith
+L;0;1;0;During the third french republic, french Indochina was composed of the following countries:;4;1;Vietnam, Laos, Cambodia;Vietnam, Laos, Thailand;Vietnam, Cambodia, Thailand;Laos, Cambodia, Thailand
+L;0;0;1;When did Cambodia, a french protectorate since 1863, become independent?;4;2;1946;1953;1960;1967
+L;0;0;1;French protectorate since 1863, who was the king of Cambodia when his country become independent in 1953?;4;4;Norodom Ist;Sisowath;Monivong;Sihanouk
+L;1;0;0;What are the names of the boats used by South Vietnamese to flee their country after the fall of South Vietnam in 1975?;3;1;The boat-people;The liberty-boat;The crossing-boat;
+L;1;0;0;What american president abolished slavery in the United States?;4;3;George Washington;Thomas Jefferson;Abraham Lincoln;Franklin D. Roosevelt
+L;0;0;1;How many presidents of the United States were murdered during their term?;4;2;Two;Four;Eigth;Twelve
+L;0;0;1;Who is the first president of the United States who was murdered?;4;2;James Abram Garfield;Abraham Lincoln;John Fitzgerald Kennedy;William McKinley
+L;0;0;1;During the United States Civil War, how many states in the south seceded to form a "Confederation of American States"?;4;2;Five;Eleven;Eighteen;Twenty five
+L;1;0;0;Who was the president of the United States during the Civil War?;4;3;George Washington;Thomas Jefferson;Abraham Lincoln;Franklin D. Roosevelt
+L;1;0;0;Who made it possible through its mobilization and its fight the prohibition of discrimination and segregation in the United States?;4;2;Benjamin Franklin;Martin Luther King;Nelson Mandela;Abraham Lincoln
+L;1;0;0;In which city was the president of the United States John Fitzgerald Kennedy assassinated in 1963?;4;3;Denver;Detroit;Dallas;New-York
+L;0;0;1;Che Guevara was taken prisoner and executed in 1967 by:;4;3;The chilean army;The brazilian army;The bolivian army;The argentine army
+L;1;0;0;What soviet dissident won the Nobel Prize for Literature in 1970?;4;3;Mikhaïl Kukobaka;Andrei Sakharov;Alexandre Soljenitsyne;Viatcheslav Igrunov
+L;1;0;0;What soviet dissident won the Nobel Peace Prize in 1975?;4;2;Mikhaïl Kukobaka;Andrei Sakharov;Alexandre Soljenitsyne;Viatcheslav Igrunov
+L;1;0;0;In which country is the Chernobyl nuclear power plant, with one reactor exploded in 1986 causing an unprecedented disaster?;4;2;Romania;Ukraine;Poland;Russia
+L;0;1;0;When was the explosion of a Chernobyl nuclear power plant reactor causing a catastrophe of unprecedented magnitude?;4;3;1972;1980;1986;1995
+L;0;0;1;When took place the demonstrations in Tian'anmen Square in Beijing which ended in violent repression and hundreds of deaths?;4;3;1975;1982;1989;1995
+L;0;0;1;Who was the USSR leader during the demonstrations in Tian'anmen Square in Beijing which ended in violent repression and hundreds of deaths?;4;3;Nikita Khrushchev;Leonid Brezhnev;Mikhail Gorbachev;Boris Yeltsin
+L;0;1;0;Which French colony was sold to the United States by Napoleon ?;3;1;Louisiana;Quebec;West Indies;
+L;0;1;0;What king of England founded the anglican church because he wanted to divorce?;4;2;Henri VII;Henri VIII;Edouard V;Edouard VI
+L;1;0;0;What woman succeeded Michel Rocard in 1991 and became the first woman prime minister in France?;4;2;Elisabeth Guigou;Edith Cresson;Françoise Giroud;Simone Veil
+L;1;0;0;When were the RTT (reductions in working time) created in France?;4;1;1998;2002;2007;2012
+L;1;0;0;When did France become the world's first football champion?;4;3;1990;1994;1998;2002
+L;1;0;0;When did the Concorde crash after taking off from Roissy with 113 victims?;4;2;1995;2000;2005;2010
+L;1;0;0;When did the twin towers of the World Trade Center in New York collapse after being struck by two airliners?;4;3;september 11, 1999;september 11, 2000;september 11, 2001;september 11, 2002
+L;1;0;0;When did a tsunami cause a serious nuclear accident in Fukushima, Japan?;4;3;2003;2007;2011;2015

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">History Questions</string>
+    <string name="description">
+        The aim of the game is to answer correctly a series of questions related to France history and the contemporary world, with variable difficulties
+(easy, medium, difficult), to obtain the best score and improve your record.
+\n\nThe game has a limited duration.
+\n\nYou receive at the beginning of the Quiz a number of units.
+\n\nEach correct answer increases your score by a number that depends on the difficulty of the question and adds that same number to your number of units.
+On the other hand, if the answer is incorrect, this number is subtracted from your number of units.
+\n\nYou also have the ability to skip a predetermined number of questions and there is a voice synthesis option that you can activate or not.
+\n\nThe Quiz ends at the end of the allotted time or when you have no more units.
+    </string>
+    <string name="bienvenue"> Welcome to History Questions \n\nBe the fastest to get the best score and improve your record</string>
+    <string name="cadeau">Good! You can download \nmon \"Histoire de France\"\n\n
+     http://aperrault.atspace.cc\n
+     Access code: Machupichu</string>
+    <string name="winner">Good! \nYou broke your previous record</string>
+    <string name="winner2">Good! \nYou matched your previous record</string>
+    <string name="looser">Record not beaten \nContinue!</string>
+    <string name="partager">Make this\n application known</string>
+    <string name="mailSubject">Discover History Questions</string>
+    <string name="mailText">History Questions is a Quiz for smartphone and tablet Android. With its thousand questions about history of France and contemporary world, this free game will entertain you for many hours</string>
+    <string name="param">Settings</string>
+    <string name="help">About the game</string>
+    <string name="Jouez">PLAY</string>
+    <string name="duree">Quiz duration in minutes: </string>
+    <string name="unites">Units initial number: </string>
+    <string name="autres">Authorized question changes: </string>
+    <string name="son">With speech synthesis</string>
+    <string name="raz">Reset last highest score</string>
+    <string name="sauvegarder">Save</string>
+    <string name="annuler">Cancel</string>
+    <string name="score">"Score: "</string>
+    <string name="last_score">[Last highest Score: ]</string>
+    <string name="desactivater_son">Disable sound</string>
+    <string name="activater_son">Enable sound</string>
+    <string name="temps">Time: 0</string>
+    <string name="unites_restantes">Units: 0</string>
+    <string name="facile">easy</string>
+    <string name="moyen">medium</string>
+    <string name="difficile">difficult</string>
+    <string name="chargement">Loading ...</string>
+    <string name="valider">Valid</string>
+    <string name="autre">Other</string>
+    <string name="suite">Next</string>
+    <string name="pause">Pause</string>
+    <string name="fin">End of the Quiz</string>
+    <string name="repOk">"Correct answers: "</string>
+    <string name="best_score">"Last highest Score: "</string>
+    <string name="oui">yes</string>
+    <string name="non">no</string>
+</resources>

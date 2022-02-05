@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="aperr.android.questionsdhistoire.Question"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_gradient"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/QH_image1"
+            android:layout_width="162dp"
+            android:layout_height="55dp"
+            android:src="@drawable/qh_image"/>
+
+        <ImageView
+            android:id="@+id/QH_image2"
+            android:layout_width="162dp"
+            android:layout_height="55dp"
+            android:src="@drawable/qh_image"/>
+
+        <ImageView
+            android:id="@+id/QH_image3"
+            android:layout_width="162dp"
+            android:layout_height="55dp"
+            android:src="@drawable/qh_image"/>
+
+        <ImageView
+            android:id="@+id/QH_image4"
+            android:layout_width="162dp"
+            android:layout_height="55dp"
+            android:src="@drawable/qh_image"/>
+
+        <ImageView
+            android:id="@+id/QH_image5"
+            android:layout_width="162dp"
+            android:layout_height="55dp"
+            android:src="@drawable/qh_image"/>
+
+        <ImageView
+            android:id="@+id/QH_image6"
+            android:layout_width="162dp"
+            android:layout_height="55dp"
+            android:src="@drawable/qh_image"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/bienvenue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:paddingTop="10dp"
+        android:gravity="center_horizontal"
+        android:text="@string/bienvenue"
+        android:textSize="16sp"
+        android:textColor="#ffffff"
+        android:background="@drawable/question_box"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonParam"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/param"
+            android:textColor="#ffffff"
+            android:background="@drawable/button_gris"/>
+
+        <Button
+            android:id="@+id/buttonApropos"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/help"
+            android:textColor="#ffffff"
+            android:background="@drawable/button_gris"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonJouez"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/Jouez"
+        android:textColor="#000000"
+        android:background="@drawable/button_green"/>
+
+
+</LinearLayout>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Questions d\'Histoire</string>
+    <string name="description">
+        Le but du jeu est de répondre correctement à une suite de questions d\'histoire de France et du monde contemporain, de difficultés variables (facile, moyen, difficile),
+        pour obtenir le meilleur score et améliorer votre record.
+        \n\nLa partie a une durée limitée.
+        \n\nVous recevez au début du Quiz un capital initial d\'unités.
+        \n\nChaque réponse correcte augmente votre score d\'un nombre qui dépend de la difficulté de la question et ajoute ce même nombre à votre
+        capital d\'unités. Par contre si la réponse est incorrecte ce nombre se retranche de votre capital d\'unités.
+        \n\nVous avez aussi la possibilité de sauter un nombre prédéterminé de questions et il existe une option de synthèse vocale que vous pouvez activer ou non.
+        \n\nLe Quiz se termine à la fin du temps imparti ou quand vous n\'avez plus d\'unités.
+    </string>
+    <string name="bienvenue"> Bienvenue sur Questions d\'Histoire\n\nSoyez le plus rapide pour obtenir le meilleur score et améliorer votre record</string>
+    <string name="cadeau">Bravo! Vous pouvez télécharger\nmon \"Histoire de France\"\n\n
+    http://aperrault.atspace.cc\n
+    code d\'accès: Machupichu</string>
+    <string name="winner">Bravo!\nVous avez battu le record</string>
+    <string name="winner2">Bravo!\nVous avez égalé le record</string>
+    <string name="looser">Record non battu\nPersévérez!</string>
+    <string name="partager">Faîtes connaître\ncette application</string>
+    <string name="mailSubject">Découvrez Questions d\'Histoire</string>
+    <string name="mailText">Question d\'Histoire est un jeu Quiz de rapidité pour smartphone et tablette Androïd. Avec ses mille questions portant sur
+    l\'histoire de France, couvrant toutes les époques, ainsi que celle du monde contemporain, ce jeu gratuit pourra vous distraire mais également vous instruire pendant de nombreuses heures </string>
+    <string name="param">Paramètres</string>
+    <string name="help">A propos du jeu</string>
+    <string name="Jouez">JOUEZ</string>
+    <string name="duree">Durée du Quiz en minutes: </string>
+    <string name="unites">Nombre initial d\'unités: </string>
+    <string name="autres">Changements de question autorisés: </string>
+    <string name="son">Avec synthèse vocale</string>
+    <string name="raz">RAZ dernier meilleur score</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="annuler">Annuler</string>
+    <string name="score">"Score: "</string>
+    <string name="last_score">[Dernier meilleur Score: ]</string>
+    <string name="desactivater_son">Désactiver le son</string>
+    <string name="activater_son">Activer le son</string>
+    <string name="temps">Temps: 0</string>
+    <string name="unites_restantes">Unités: 0</string>
+    <string name="facile">facile</string>
+    <string name="moyen">moyen</string>
+    <string name="difficile">difficile</string>
+    <string name="chargement">Chargement ...</string>
+    <string name="valider">Valider</string>
+    <string name="autre">Autre</string>
+    <string name="suite">Suite</string>
+    <string name="pause">Pause</string>
+    <string name="fin">Fin du Quiz</string>
+    <string name="repOk">"Réponses correctes: "</string>
+    <string name="best_score">"Dernier meilleur score: "</string>
+    <string name="oui">oui</string>
+    <string name="non">non</string>
+</resources>

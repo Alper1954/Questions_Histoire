@@ -1,0 +1,1000 @@
+﻿L;0;0;1;Le capitaine Charles de Gaulle a été blessé et fait prisonnier en mars 1916, pendant la première guerre mondiale, en défendant:;3;2;Le fort de Vaux;Le fort de Douaumont;Le Mort-homme;
+L;1;0;0;Les pantalons des uniformes des soldats français en 1914 étaient de couleur:;4;3;bleu;maron;rouge;noir
+L;0;0;1;Le gaz asphyxiant utilisé par les Allemands pendant la première guerre mondiale s'appelait gaz ypérite. Quelle est l'origine de ce nom?;3;1;De la ville Ypres où ce gaz a été utilisé pour la première fois;De son inventeur, Ypérite;Du produit chimique qu'il contient;
+L;0;1;0;Quelle a été la durée de la bataille de Verdun?;4;4;2 mois;6 mois;8 mois;10 mois
+L;0;1;0;Comment s'appelait le gouverneur de Paris qui eut l'idée en septembre 1914, pendant la première guerre mondiale, d'utiliser les taxis parisiens pour conduire les soldats français au front:;4;1;Le général Gallieni;Le général Nivelle;Le général Pétain;Le général Joffre
+L;1;0;0;Comment s'appelait l'avion avec lequel Nungesser et Coli tentèrent la traversée de l'Atlantique de Paris à New York le 8 mai 1927?;4;2;Spirit of Saint Louis;L'Oiseau blanc;L'Oiseau marin;Jenny
+L;1;0;0;Comment s'appelait l'avion avec lequel Charles Linbergh a réussi la traversée de l'Atlantique de New York à Paris le 21 mai 1927?;4;1;Spirit of Saint Louis;L'Oiseau blanc;L'Oiseau marin;Jenny
+L;0;0;1;Combien de temps a mis Charles Lindbergh pour traverser l'atlantique à bord de son avion le "Spirit of Saint Louis"?;4;4;5 heures;13 heures;26 heures;33 heures
+L;1;0;0;Quel était le degré de parenté de Charles X par rapport à Louis XVIII?;4;2;Fils;Frère;Neveu;Petit-fils
+L;1;0;0;Quel était le degré de parenté de Napoléon III par rapport à Napoléon Ier?;4;3;Fils;Frère;Neveu;Petit-fils
+L;1;0;0;Pour commémorer quel événement fut érigé la Colonne de Juillet avec à son sommet le Génie de la Liberté située place de la Bastille à Paris?;4;3;La prise de la Bastille de 1789;La révolution de 1848;La révolution des "trois Glorieuses" de 1830;Les victoires Napoléoniennes
+L;0;0;1;Qui a vendu la Louisiane aux Américains?;4;2;Louis XVI;Napoléon Ier;Napoléon III;Louis-Philippe
+L;0;1;0;Pour célébrer quel événement la Tour Eiffel a t'elle été construite?;2;1;L'exposition universelle de 1889;L'exposition universelle de 1900;;
+L;0;1;0;Dans quelle guerre des véhicules blindés à chenilles (tanks) ont-ils été utilisés pour la première fois?;3;2;La guerre de 1870 avec la Prusse;La première guerre mondiale;La seconde guerre mondiale;
+L;0;0;1;Qui a prononcé ces mots célèbres pendant la première guerre mondiale: "Courage, on les aura!"?;4;4;Le général Joffre;Le général Foch;Le général Nivelle;Le général Pétain
+L;1;0;0;Pendant la bataille de Verdun (première guerre mondiale), qui a organisé le ravitaillement et le remplacement régulier des unités (le "tourniquet") par la Voie sacrée?;4;2;Le général Nivelle;Le général Pétain;Le général Joffre;Le général Foch
+L;0;1;0;Qui fut le premier président de la troisième république?;4;2;Jules Grévy;Adolphe Thiers;Sadi Carnot;Félix Faure
+L;0;0;1;Quel président de la république française n'est resté que six mois au pouvoir?;4;3;Emile Loubet;Armand Fallières;Jean Casimir-Perier;Paul Deschanel
+L;0;1;0;Quel roi de France est devenu fou pendant son règne?;4;2;Charles V;Charles VI;Charles VII;Charles VIII
+L;0;0;1;En quelle année débuta le grand schisme d'Occident où on eut deux papes, l'un siègeant à Rome et l'autre à Avignon?;3;2;1303;1378;1417;
+L;1;0;0;Quelle femme fut reine de France puis reine d'Angleterre?;3;1;Aliénor d'Aquitaine;Anne de Bretagne;Marie Stuart;
+L;1;0;0;Quelle femme épousa deux rois de France?;3;2;Aliénor d'Aquitaine;Anne de Bretagne;Marie Stuart;
+L;0;1;0;Quel pont de Paris a été construit avec des pierres de la Bastille?;4;2;Le Pont Neuf;Le Pont de la Concorde;le Pont Alexandre III;le Pont de l'Alma
+L;1;0;0;Quels pays se sont alliés aux empires centraux (Prusse, Autriche/hongrie) contre la France et ses alliés pendant la première guerre mondiale?;4;1;La Bulgarie et l'empire ottoman;La Roumanie et la Serbie;La Roumanie et l'empire ottoman;La Serbie et l'empire ottoman
+L;0;1;0;Qui a fondé l'Académie française?;4;1;Louis XIII et Richelieu;Louis XIV;Napoléon Ier;Napoléon III
+L;0;0;1;Pendant la première guerre mondiale, la bataille du Chemin des Dames fut un échec sanglant où plus de 200 000 soldats français et anglais trouvèrent la mort. Qui a commandé cette meutrière offensive?;4;4;Le général Joffre;Le général Foch;Le général Pétain;Le général Nivelle
+L;1;0;0;Pendant la Révolution française, qui prononça cette phrase célèbre: "Nous sommes là par la volonté du peuple et n'en sortirons que par la force des baïonnettes"?;4;3;Danton;Robespierre;Mirabeau;Marat
+L;1;0;0;Pendant la Révolution française, qui prononça cette phrase célèbre: "Pour vaincre l'ennemi, il faut de l'audace, encore de l'audace, toujours de l'audace et la France est sauvée"?;4;1;Danton;Robespierre;Mirabeau;Marat
+L;0;1;0;Qui fit construire la muraille qui entourait Paris, appelé le "Mur des Fermiers généraux"?;4;4;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;A quoi servait la muraille qui entourait Paris appelé le "Mur des Fermiers généraux"?;2;2;Protéger Paris;Percevoir des impôts;;
+L;0;1;0;Pendant le siège de Paris par les Prussiens en 1971, qui quitta Paris en ballon pour tenter de réorganiser la défense à partir de la province?;4;3;Thiers;Mac-Mahon;Gambetta;Jules Favre
+L;0;1;0;Comment est mort le roi Henri II?;4;2;Assassiné;En participant à un tournoi;De la tuberculose;En se cognant la tête contre un linteau d'une porte
+L;0;1;0;Comment est mort le roi Charles VIII?;4;4;Assassiné;En participant à un tournoi;De la tuberculose;En se cognant la tête contre un linteau d'une porte
+L;1;0;0;La rencontre du camp du Drap d'or fut une rencontre entre le roi d'Angleterre Henri VIII et un roi de France. Lequel?;4;4;Louis XI;Charles VIII;Louis XII;François Ier
+L;1;0;0;Quel château parisien fut incendié pendant la révolte de la Commune en 1871?;2;2;Le chateau de Saint-Cloud;Le château des Tuileries;;
+L;1;0;0;Quel château parisien a été bombardé et incendié pendant la guerre franco-allemande de 1870?;2;1;Le chateau de Saint-Cloud;Le château des Tuileries;;
+L;0;1;0;Dans quel château le IIème Reich allemand a-t'il été proclamé après la défaite de la France lors de la guerre franco-allemande de 1870?;4;2;Le château de Saint-Germain;Le château de Versailles;Le château de Saint-Cloud;Le château des Tuileries
+L;0;0;1;La tour Eiffel fut construite pour l'exposition universelle de 1889. En combien de temps fut-elle construite?;4;1;2 ans et 2 mois;4 ans et 5 mois;6 ans et 8 mois;10 ans et 3 mois
+L;1;0;0;Qui était la femme d'Henri II?;4;1;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;1;0;0;Qui était la femme d'Henri IV?;4;2;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;1;0;0;Qui était la femme de Louis XIII?;4;3;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;1;0;0;Qui était la femme de Louis XIV?;4;4;Catherine de Médicis;Marie de Médicis;Anne d'Autriche;Marie-Thérèse d'Autriche
+L;0;0;1;La fille d'un roi de France, Elisabeth, épousa le roi d'Espagne Philippe II. Lequel?;4;1;Henri II;Henri IV;Louis XIII;Louis XIV
+L;1;0;0;Quel homme politique de la troisième république fut surnommé "le Tigre"?;4;3;Léon Gambetta;Adolphe Thiers;Georges Clémenceau;Jules Ferry
+L;1;0;0;Quel homme politique de la troisième république reçut le titre de "Père la victoire"?;4;3;Léon Gambetta;Adolphe Thiers;Georges Clémenceau;Jules Ferry
+L;1;0;0;Quel homme politique de la troisième république créa "les brigades du Tigre"?;4;3;Léon Gambetta;Adolphe Thiers;Georges Clémenceau;Jules Ferry
+L;0;1;0;Quel général Français signa le 11 novembre 1918 l'armistice de la première guerre mondiale avec les Allemands?;4;4;Joffre;Pétain;Gallieni;Foch
+L;1;0;0;Qui était surnommé la "Grosse Bertha"?;3;3;La femme de Bismarck;La femme d'Hitler;Un canon allemand utilisé pendant la première guerre mondiale;
+L;0;0;1;Quel roi de France a été roi de Pologne avant de monter sur le trône?;3;3;François II;Charles IX;Henri III;
+L;0;1;0;Qui était président de la république pendant la première guerre mondiale?;4;2;Georges Clémenceau;Raymond Poincaré;Gaston Doumergue;Félix Faure
+L;0;1;0;Quel président de la troisième république est mort à l'Elysée d'une congestion cérébrale après la visite de sa maîtresse?;4;3;Sadi Carnot;Emile Loubet;Félix Faure;Gaston Doumergue
+L;0;0;1;Quel traité, signé le 10 mai 1871 entre la France et l'Allemagne, a mis fin à la guerre avec l'Allemagne?;4;2;Traité de Brétigny;Traité de Francfort;Traité des Pyrénées;Traité de Campo-Formio
+L;0;1;0;Quel traité, signé entre la France et l'Autriche après la campagne victorieuse de Bonaparte en Italie, a mis fin au conflit de la France révolutionnaire avec l' Autriche?;4;4;Traité de Brétigny;Traité de Francfort;Traité des Pyrénées;Traité de Campo-Formio
+L;1;0;0;Quel traité, signé le 28 juin 1919, entre les Alliés et l'Allemagne a mis fin à la première guerre mondiale?;4;3;Traité de Brétigny;Traité de Francfort;Traité de Versailles;Traité de Campo-Formio
+L;0;0;1;Quel traité, signé le 25 août 1475 entre la France et l'Angleterre, marque la fin officielle de la guerre de Cent Ans?;4;1;Traité de Picquigny;Traité de Francfort;Traité des Pyrénées;Traité de Campo-Formio
+L;0;0;1;Quel traité, signé le 10 février 1763 entre la France, l'Angleterre et l'Espagne, a mis fin à la guerre de Sept Ans? ;4;4;Traité de Picquigny;Traité de Francfort;Traité des Pyrénées;Traité de Paris
+L;0;0;1;Qui fit revenir les cendres de Napoléon Ier de Sainte-Hélène à Paris?;4;1;Louis-Philippe;Napoléon III;Adolphe Thiers;Georges Clémenceau
+L;1;0;0;Quel fut le premier roi de France de la branche des Valois?;4;2;Charles IV le Bel;Philippe VI de Valois;Charles VI ;Charles VII
+L;0;1;0;Quel fut le premier roi de France de la branche des Bourbons?;4;2;Henri III;Henri IV;Louis XIII;Louis XIV
+L;0;0;1;Quel était le roi de France au début de la guerre de Cent Ans?;4;1;Philippe VI de Valois;Charles V;Charles VI ;Charles VII
+L;0;0;1;Qui était roi de France quand la fin de la guerre de Cent Ans fut signé entre la France et l'Angleterre (traité de Picquigny)?;4;2;Charles VII;Louis XI;Charles VIII;Louis XII
+L;0;0;1;Quel fut le dernier roi de France de la branche des Capétiens directs?;4;4;Philippe IV le Bel;Louis X le Hutin;Philippe V le Long;Charles IV le Bel
+L;0;1;0;Quel roi de France a fait brûlé Jacques de Molay, le grand Maître de l'ordre des Templiers?;3;3;Philippe II (Philippe Auguste);Philippe III le Hardi;Philippe IV le Bel;
+L;0;0;1;Quel roi de France maria sa fille avec le roi d'Angleterre, ce qui entraînera le début de la guerre de cent ans lorsque son fils revendiquera la couronne de France?;4;2;Philippe III le Hardi;Philippe IV le Bel;Philippe V le Long;Philippe VI de Valois
+L;0;1;0;Quel roi de France était entouré de favoris qu'on appelait ses "mignons" en raison de leurs tendances efféminées.;4;2;Henri II;Henri III;Henri IV;Louis XIII
+L;0;0;1;Quelle église fut édifiée après la Commune de Paris de 1871 dont le but était d'expier les fautes des Parisiens commises pendant cette révolte?;4;3;L'église de la Madeleine;L'église Saint-Roch;Basilique du Sacré Cœur;L'église Saint-Gervais
+L;0;1;0;Quel est le plus ancien grand magasin de Paris, fondé en 1852 ?;4;1;Bon Marché;Bazar de l'Hôtel de Ville;Printemps;Samaritaine
+L;0;0;1;Quel est le plus récent (fondé en 1869) de ces quatre grands magasins?;4;4;Bon Marché;Bazar de l'Hôtel de Ville;Printemps;Samaritaine
+L;1;0;0;Quel roi de France révoqua l'édit de Nantes?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Henriette d'Entragues fut la maîtresse d'un roi de France. Lequel?;4;1;Henri IV;Louis XIV;Louis XV;Henri II
+L;1;0;0;Quel roi de France avait pour maîtresse la marquise de Montespan?;4;2;Henri IV;Louis XIV;Louis XV;Henri II
+L;1;0;0;Quel roi de France avait pour maîtresse Madame de Pompadour?;4;3;Henri IV;Louis XIV;Louis XV;Henri II
+L;1;0;0;Quel roi de France avait pour maîtresse Diane de Poitiers?;4;4;Henri IV;Louis XIV;Louis XV;Henri II
+L;0;0;1;Quel roi de France partit en croisade avec Richard Cœur de Lion?;4;3;Philippe Ier;Louis VII;Philippe Auguste;Louis IX (Saint-Louis)
+L;1;0;0;Qui était la mère de Charlemagne?;4;2;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;1;0;0;Qui était la mère de Louis IX (Saint-Louis)?;4;3;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;1;0;0;Qui était la mère de Louis XIII?;4;1;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;1;0;0;Qui était la mère d'Henri II?;4;4;Marie de Médicis;Berthe au "grand pied";Blanche de Castille;Claude de France
+L;0;0;1;Quel fut le dernier tsar de Russie?;4;2;Nicolas Ier;Nicolas II;Alexandre II;Alexandre III
+L;0;0;1;Combien de rois de France sont morts assassinés?;4;2;Un;Deux;Trois;Quatre
+L;1;0;0;Comment se prénommait Louis XIV?;4;3;Louis Charles;Louis Henri;Louis Dieudonné;Louis Philippe
+L;0;1;0;A quel age est mort Louis XIV?;4;3;57 ans;67 ans;77 ans;87 ans
+L;0;0;1;Au traité de Versailles qui a mis fin à la première guerre mondiale, quel président représentait les Etats-Unis?;4;2;Roosevelt;Wilson;Truman;Eisenhower
+L;1;0;0;Quel événement a été le déclencheur de la première guerre mondiale?;4;3;L'assassinat de l'ambassadeur de France;L'assassinat de l'ambassadeur d'Allemagne;L'assassinat de l'archiduc d'Autriche François-Ferdinand;L'invasion de la Croatie par la Serbie
+L;0;0;1;Après combien d'années de mariage entre Louis XIII et Anne d'Autriche, le petit Louis Dieudonné, futur Louis XIV est-il né?;4;4;7 ans;12 ans;17 ans;23 ans
+L;0;1;0;Ou a été signé le traité qui mit fin à la première guerre mondiale?;4;1;Au château de Versailles;Au palais du Louvre;Dans un wagon dans la forêt de Compiègne;A l'Elysée
+L;0;0;1;Combien de croisades ont été conduites en orient (entre 1095 et 1270)?;4;3;Trois;Cinq;Huit;Onze
+L;0;0;1;Pendant quelle croisade Louis IX (Saint-Louis) est-il mort?;4;4;La première croisade;La troisième croisade;La cinquième croisade;La huitième et dernière croisade
+L;1;0;0;Lequel de ces hommes ne fut pas un ministre de Louis XVI?;4;2;Turgot;Colbert;Necker;Brienne
+L;1;0;0;Lequel de ces rois de France ne fut pas sacré à Reims mais à Chartres?;4;3;François Ier;Louis XI;Henri IV;Henri III
+L;0;1;0;Quel roi de France fonda un collège qui deviendra la Sorbonne?;4;1;Saint-Louis;François Ier;Richelieu;Napoléon Ier
+L;0;1;0;Qui permis à Charles VII, exilé à Bourges pendant la guerre de Cent Ans, de récupérer son trône?;4;2;Bertrand du Guesclin;Jeanne d'Arc;Charles le Téméraire;Jacques Cœur
+L;0;1;0;Quel roi de France fut capturé par les Anglais pendant la guerre de Cent Ans et demeura en captivité en Angleterre pendant 6 ans?;4;1;Jean II le Bon;Charles V;Charles VI;Charles VII
+L;1;0;0;A quelle date Napoléon Ier fut sacré empereur à la cathédrale de Paris, en présence du pape Pie VII?;4;1;2 décembre 1804;21 octobre 1805;2 décembre 1805;18 juin 1815
+L;1;0;0;A quelle date eut lieu la victoire de Napoléon Ier à Austerlitz?;4;3;2 décembre 1804;21 octobre 1805;2 décembre 1805;18 juin 1815
+L;1;0;0;A quelle date eut lieu la défaite de Napoléon Ier à Waterloo?;4;4;2 décembre 1804;21 octobre 1805;2 décembre 1805;18 juin 1815
+L;0;0;1;A quelle date eut lieu la défaite de Trafalgar?;4;2;2 décembre 1804;21 octobre 1805;2 décembre 1805;18 juin 1815
+L;0;0;1;Une de ces batailles n'a pas eu lieu pendant la guerre de Cent Ans. Laquelle?;4;2;Bataille de Crécy;Bataille de Pavie;Bataille de Poitiers;Bataille de Castillon
+L;0;1;0;A quelle date Louis XVI a-t'il été guillotiné?;4;3;4 août 1789;20 septembre 1792;21 janvier 1793;16 octobre 1793
+L;0;0;1;A quelle date Marie-Antoinette a-t'elle été guillotinée?;4;4;4 août 1789;20 septembre 1792;21 janvier 1793;16 octobre 1793
+L;0;1;0;Quel roi de France a été battu à Pavie et envoyé en captivité en Espagne;4;3;Charles VIII;Louis XII;François Ier;Henri II
+L;0;0;1;L'affaire Dreyfus a divisé la population en deux camps: Les dreyfusards et les antidreyfusards. Parmi ces quatre personnalités, laquelle est un antidreyfusard.;4;3;Emile Zola;Georges Clémenceau;Maurice Barrès;Jean Jaurès
+L;0;0;1;Quel frère de Napoléon Ier a épousé Hortense, la fille de Joséphine de Beauharnais?;4;3;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;Qui est la mère du fils (légitime) de Napoléon Ier?;4;3;Joséphine de Beauharnais;Eugénie de Montijo;Marie-Louise d'Autriche;Anne d'Autriche
+L;0;0;1;Quel frère de Napoléon Ier a été roi de Naples, puis roi d'Espagne?;4;1;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;Quel frère de Napoléon Ier a été roi de Hollande?;4;3;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;Quel frère de Napoléon Ier a été roi de Westphalie?;4;4;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;Quel frère de Napoléon Ier n'a pas eu de trône en Europe?;4;2;Joseph;Lucien;Louis;Jérôme
+L;0;0;1;Quel maréchal de Napoléon Ier a épousé sa sœur Caroline?;4;2;Berthier;Murat;Ney;Masséna
+L;0;0;1;Un maréchal de Napoléon est devenu roi de Suède. Lequel?;4;3;Berthier;Lannes;Bernadotte;Brune
+L;0;0;1;Combien de frères avait Napoléon Ier?;4;4;Un;Deux;Trois;Quatre
+L;0;0;1;Combien de sœurs avait Napoléon Ier?;4;3;Une;Deux;Trois;Quatre
+L;0;0;1;A la fin de la première guerre mondiale, quel traité, signé le 10 septembre 1919 entre les Alliés et l'Autriche,  a mis fin à l'empire Austro-hongrois?;4;2;Traité de Versailles;Traité de Saint-Germain-en-Laye;Traité de Sèvres;Traité du Trianon
+L;0;0;1;A la fin de la première guerre mondiale, quel traité, signé le 10 août 1920, a mis fin à l'Empire ottoman?;4;3;Traité de Versailles;Traité de Saint-Germain-en-Laye;Traité de Sèvres;Traité du Trianon
+L;0;0;1;Quelle est la plus ancienne gare de Paris?;4;1;Gare Saint-Lazare;Gare de Lyon;Gare de l'Est;Gare du Nord
+L;0;1;0;Quelle révolution a mis fin au règne de Charles X?;4;2;La révolution de 1789;Les "Trois Glorieuses";La révolution de 1848;La Commune de Paris
+L;0;1;0;Quelle révolution a mis fin au règne de Louis-Philippe?;4;3;La révolution de 1789;Les "Trois Glorieuses";La révolution de 1848;La Commune de Paris
+L;1;0;0;Le "mur des Fédérés"  est le nom donné à l'enceine d'un cimetière parisien où les derniers "communards" furent fusillés le 27 mai 1871 par la troupe sur ordre du général Mac-Mahon. Quel est ce cimetière?;4;2;Cimetière de Montmartre;Cimetière du Père-Lachaise;Cimetière de Montparnasse;Cimetière du Calvaire
+L;1;0;0;La Fronde est une révolte des Parlements et des princes contre:;4;2;Richelieu et le roi Louis XIII;Mazarin et la régente Anne d'Autriche;Louis XIV;Louis XV
+L;1;0;0;Quel roi de France remporta en 1214 la bataille de Bouvines contre une coalition rassemblée par le roi d'Angleterre?;4;2;Philippe Ier;Philippe Auguste;Saint-Louis;Philippe III le Hardi
+L;0;0;1;Dans quelle cathédrale fut sacré Hugues Capet, le premier roi de la dynastie des Capétiens?;4;3;Cathédrale de Reims;Cathédrale de Chartres;Cathédrale de Noyon;Basilique de Saint-Denis
+L;0;1;0;Quel massacre des protestants, en 1562, marqua le début des guerres de religions?;2;2;Massacre de la Saint-Barthélemy;Massacre de Wassy;;
+L;1;0;0;En quelle année François Ier a-t'il été assassiné par Ravaillac?;4;3;1562;1589;1610;1685
+L;0;1;0;Qui a fait construire l'Opéra Garnier à Paris?;4;3;Louis XIV;Napoléon Ier;Napoléon III;Louis-Philippe
+L;0;0;1;En quelle année l'unification italienne a-t'elle été réalisée avec la création du royaume d'Italie?;4;1;1861;1871;1919;1946
+L;0;0;1;En quelle année l'Italie est-elle devenue une République?;4;4;1861;1871;1919;1946
+L;0;1;0;A quelle époque les départements français ont-ils été crées?;4;1;A la révolution française;Sous Napoléon Ier;Sous Napoléon III;Sous Louis-Philippe
+L;0;0;1;Aujourd'hui la France compte 101 départements. Combien y avait il de départements lors de leur création en 1790?;4;1;83 départements;86 départements;90 départements;130 départements
+L;1;0;0;Qui a crée la légion d'honneur, destinée à récompenser les militaires et les civils des services rendus à la nation?;4;2;Louis XIV;Napoléon Ier;Napoléon III;Louis-Philippe
+L;1;0;0;Qui a crée le code civil, celui qui règle les relations des citoyens entre eux?;4;2;Louis XIV;Napoléon Ier;Napoléon III;Louis-Philippe
+L;0;1;0;Parmi les quatre villes suivantes, quelle est celle dont le métro est le plus ancien?;4;3;Paris;Berlin;Londres;New York
+L;0;1;0;Quel ingénieur français a conçu le métro parisien?;4;2;Eiffel;Bienvenue;Haussman;Garnier
+L;0;1;0;A qui l'Egypte a-t'elle fait cadeau de l'obélisque de la place de la Concorde?;4;4;Napoléon Ier;Napoléon III;Louis XVIII;Louis-Philippe
+L;0;1;0;Combien de temps a-t'il fallu pour ramener l'obélisque d'Egypte et le mettre en place sur la place de la Concorde à Paris?;4;3;2 ans;3 ans;5 ans;8 ans
+L;1;0;0;Un président de la troisième république est tombé sur la voie au cours d'un voyage en train. Qui est-il?;4;3;Felix Faure;Gaston Doumergue;Paul Deschanel;Paul Doumer
+L;1;0;0;Qui a été à l'origine de la création, en 1894, des Jeux olympiques?;4;2;Auguste Delaune;Pierre de Coubertin;Roland Garros;Ernest Wallon
+L;0;0;1;Quel est le premier tunnel, construit sous les Alpes en 1871, reliant la France à l'Italie?;4;2;tunnel du Saint-Gothard;tunnel du Mont-Cenis;tunnel du Mont-Blanc;tunnel du col de Tende
+L;0;1;0;Qui inventa, en 1800, la pile électrique?;4;2;Luigi Galvani;Alessandro Volta;Thomas Edison;André-Marie Ampère
+L;0;1;0;De quelle nationalité était le physicien Ampère connu pour ses travaux dans le domaine de l'électromagnétisme avec sa fameuse "loi d'Ampère"?;4;3;Belge;Suisse;Français;Américain
+L;0;0;1;Qui a failli être tué par l'explosion de la "machine infernale" rue Saint-Nicaise à Paris?;4;1;Napoléon Bonaparte;Napoléon III;Louis-Philippe;Sadi Carnot
+L;1;0;0;Qui a été le premier président des Etats-Unis?;4;2;Abraham Lincoln;George Washington;Franklin Pierce;Theodore Roosevelt
+L;1;0;0;Quelle date est la fête nationale des Etats-Unis qui commémore sa Déclaration d'indépendance?;4;2;04-juil;05-juil;06-juil;07-juil
+L;1;0;0;En quelle année est mort Louis XIV après 54 années de règne?;4;2;1643;1715;1774;1793
+L;0;0;1;Combien d'années a duré la construction du château de Versailles?;4;4;8 ans;18 ans;28 ans;38 ans
+L;0;0;1;Combien d'années a duré la construction du château de Chambord?;4;3;10 ans;15 ans;20 ans;25 ans
+L;0;0;1;Quel est le premier président des états-Unis à résider, en 1800, à la Maison Blanche à Washington?;4;2;George Washington;John Adams;Thomas Jefferson;James Madison
+L;0;1;0;A quelle époque a eu lieu le massacre des Arméniens par les Turcs?;2;1;Pendant la première guerre mondiale;Pendant la deuxième guerre mondiale;;
+L;0;1;0;Lors de quel congrès le parti communiste français a-t'il été crée en 1920?;4;2;Congrès de Paris;Congrès de Tours;Congrès d'Issy-les-Moulineaux;Congrès d'Epinay
+L;0;1;0;Lors de quel congrès François Mitterand a-t'il été élu premier secrétaire du parti socialiste?;4;4;Congrès de Paris;Congrès de Tours;Congrès d'Issy-les-Moulineaux;Congrès d'Epinay
+L;0;0;1;Quel est le plus ancien parti politique français, crée en 1901?;3;3;Le parti socialiste;Le parti communiste;Le parti radical;
+L;0;0;1;En quelle année le canal de Panama, commencé par Ferdinand de Lesseps, a-t'il été terminé par les Américains?;4;2;1907;1914;1920;1924
+L;1;0;0;Quelle construction, entreprise par Ferdinand de Lesseps, a fait l'objet d'un scandale politique en France?;2;2;La construction du canal de Suez;La construction du canal du Panama;;
+L;0;0;1;Combien de présidents de la troisième république ont été assassinés?;4;2;Un;Deux;Trois;Quatre
+L;1;0;0;En quelle année la troisième république a-t'elle été proclamée par Gambetta?;4;3;1860;1865;1870;1875
+L;0;0;1;Le 18 août 1882, un accord militaire appelé la Triple-Alliance (ou Triplice) est signé entre l'Allemagne, l'Autriche-Hongrie et un autre pays. Quel est-il?;4;2;L'Angleterre;L'Italie;La Russie;La Serbie
+L;0;0;1;En quelle année la Confédération de l'Allemagne du Nord, réalisant l'unité allemande, a-t'elle été crée?;4;2;1856;1866;1876;1886
+L;0;1;0;La guerre de Crimée avec la victoire de la bataille de l'Alma est une guerre de:;4;4;Louis XIII;Louis XIV;Napoléon Ier;Napoléon III
+L;1;0;0;Comment a-t'on appelé la période de prospérité d'avant la première guerre mondiale?;3;1;La Belle époque;Les Années folles;Les Trente glorieuses;
+L;1;0;0;Comment a-t'on appelé la période après la première guerre mondiale?;3;2;La Belle époque;Les Années folles;Les Trente glorieuses;
+L;1;0;0;Comment a-t'on appelé la période de forte croissance économique comprise entre 1946 et 1975?;3;3;La Belle époque;Les Années folles;Les Trente glorieuses;
+L;0;1;0;De quand datent les premiers congés payés en France?;4;2;1920;1936;1946;1954
+L;0;1;0;Quelle était la durée des premiers congés payés en France obtenus par le Front populaire?;4;2;Une semaine par an;Deux semaines par an;Trois semaines par an;Quatre semaines par an
+L;0;0;1;Qui était président de la république quand la deuxième guerre mondiale a éclaté?;4;4;Alexandre Millerand;Gaston Doumergue;Paul Doumer;Albert Lebrun
+L;0;0;1;Combien de présidents y a-t'il eu pendant la quatrième république?;4;2;Un;Deux;Trois;Quatre
+L;0;0;1;Qui fut le dernier président de la troisième république?;4;2;Paul Doumer;Albert Lebrun;Vincent Auriol;René Coty
+L;0;0;1;Sous le règne de quel roi de France, la construction de la cathédrale Notre Dame de Paris a-t'elle débutée?;4;2;Hugues Capet;Louis VII;Saint-Louis;François Ier
+L;0;1;0;Qui a été le premier roi carolingien?;4;3;Dagobert;Charles Martel;Pépin le Bref;Charlemagne
+L;1;0;0;Qui était le père de Charlemagne?;4;3;Dagobert;Charles Martel;Pépin le Bref;Louis Ier le Pieux
+L;0;1;0;La loi de séparation des églises et de l'état du 9 décembre 1905 ne s'applique pas dans certaines régions françaises. Lesquelles?;4;3;Corse;Aquitaine;Alsace et Lorraine;Languedoc-Roussillon
+L;1;0;0;Qui a fait voté, le 9 décembre 1905, la loi de séparation des églises et de l'état?;4;2;Jules Ferry;Aristide Briand;Waldeck-Rousseau;Jean Jaurès
+L;0;1;0;Lors de quel congrès le Parti socialiste français a-t'il été crée en 1969?;4;3;Congrès de Paris;Congrès de Tours;Congrès d'Issy-les-Moulineaux;Congrès d'Epinay
+L;0;0;1;Comment s'appelle le nouvel impôt crée en 1604 par Henri IV?;4;3;La gabelle;La taille;La Paulette;Le cens
+L;0;1;0;Qui était roi de France lors du massacre des protestants de la Saint-Barthélemy?;4;3;Henri II;François II;Charles IX;Henri III
+L;0;0;1;A quelle date a eu lieu le massacre des protestants de la Saint-Barthélemy?;4;3;24 août 1552;24 août 1562;24 août 1572;24 août 1582
+L;0;0;1;Quel événement a déclenché le massacre des protestants le jour de la Saint-Barthélemy?;4;2;L'assassinat d'Henri de Guise;L'attentat contre l'amiral de Coligny;La mort de François d'Alençon;L'assassinat d'Henri III
+L;0;1;0;Quel traité a mis fin à la guerre de Trente Ans qui a déchiré l'Europe de 1618 à 1648?;4;1;Les traités de Westphalie;Les traités de Ryswick;le traité des Pyrénées;Le traité de Nimègue
+L;0;0;1;Quel traité a mis fin à la guerre de la ligue d'Augsbourg, opposant Louis XIV à une coalition d'états européens?;4;2;Les traités de Westphalie;Les traités de Ryswick;le traité des Pyrénées;Le traité de Nimègue
+L;0;0;1;Quel traité a mis fin à la longue guerre franco-espagnole qui a commencé en 1635 pendant la guerre de Trente Ans et s'est continué durant la Fronde?;4;3;Le traité de Westphalie;Le traité de Ryswick;Le traité des Pyrénées;Le traité de Nimègue
+L;0;0;1;Quel traité a mis fin à la guerre de Hollande, opposant Louis XIV aux Provinces Unies et à ses alliés, l'Espagne et le Saint Empire Germanique?;4;4;Les traités de Westphalie;Les traités de Ryswick;le traité des Pyrénées;Le traité de Nimègue
+L;0;0;1;Durant quelle guerre, sous Louis XIV, Turenne est-il mort, atteint par un boulet de canon?;4;3;La guerre de Trente Ans;La guerre de la ligue d'Augsbourg;La guerre de Hollande;La guerre de succession d'Espagne
+L;1;0;0;Qui a assassiné Henri IV, le 14 mai 1610?;4;2;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;0;1;0;Qui a assassiné Henri III, le 1er août 1589?;4;1;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;0;0;1;Qui a assassiné Louis d'Orléans, le frère de Charles VI, le 23 novembre 1404?;4;3;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;1;0;0;Qui a poignardé Marat dans sa baignoire, le 13 juillet 1793?;4;4;Jacques Clément;François Ravaillac;Jean sans Peur;Charlotte Corday
+L;0;1;0;Quelle est la première ligne de chemin de fer en France, inaugurée en 1837, conçue pour le transport des voyageurs et exploitée à l'aide de locomotives à vapeur?;4;2;La ligne Saint-Etienne à Andrézieux;La ligne Paris à Saint-Germain-en-Laye;La ligne Montpellier à Sète;La ligne Nîmes à Beaucaire
+L;0;0;1;Quelle est la première ligne de chemins de fer mise en service en France? Les wagons étaient tractés par des chevaux.;4;1;La ligne Saint-Etienne à Andrézieux;La ligne Paris à Saint-Germain-en-Laye;La ligne Montpellier à Sète;La ligne Paris à Versailles
+L;0;0;1;Le premier accident ferroviaire se produisit le 8 mai 1842 à hauteur de Meudon sur la ligne reliant Paris à Versailles. Combien cet accident fit-il de morts?;4;3;15 morts;25  morts;55  morts;85  morts
+L;0;1;0;En quelle année, sur une idée du journal L'Auto, le tour de France cycliste est-il né?;4;1;1903;1923;1943;1953
+L;1;0;0;Guillaume le conquérant, cousin du roi d'Angleterre, devient roi d'Angleterre à la mort de ce dernier après avoir battu Harold Godwinson à la bataille de Hastings. Il était Duc de:;4;3;Bourgogne;Anjou;Normandie;Aquitaine
+L;0;0;1;Quelle est la dernière bataille de la Guerre de Cent Ans qui permit à Charles VII de reprendre la Guyenne aux Anglais?;4;4;Bataille de Crécy;Bataille de Pavie;Bataille de Poitiers;Bataille de Castillon
+L;0;0;1;Quel traité, signé en 1559 entre la France et l'Angleterre, a permis à la France de récupérer Calais qui était aux mains des Anglais depuis 1347 (début de la guerre de Cent Ans)?;4;2;Le traité de Ryswick;Le traité de Cateau-Cambrésis;le traité des Pyrénées;Le traité de Nimègue
+L;0;0;1;Quel roi de France a fait construire la tour de l'Horloge du Palais de la Cité?;4;4;Philippe Auguste;Saint-Louis;Philippe IV le Bel;Jean II le Bon
+L;1;0;0;Quel roi de France a fait construire la Sainte-Chapelle pour abriter la couronne du Christ rachetée à l'empereur d'Orient?;4;2;Philippe Auguste;Saint-Louis;Philippe IV le Bel;Jean II le Bon
+L;1;0;0;Quel roi de France, surnommé par ses ennemis "l'universelle araignée", a passé une grande partie de son règne à lutter contre Charles le Téméraire?;4;2;Charles VII;Louis XI;Charles VIII;Louis XII
+L;0;1;0;Pendant la guerre de Crimée (1853 - 1856) opposant la France à la Russie, quel général a prononcée la phrase "J'y suis, j'y reste!"?;4;2;Le général Bazaine;Le général Mac-Mahon;le général Espinasse;le général Trochu
+L;0;1;0;En quelle année l'esclavage a-t'il été aboli par Victor Schoelcher dans les colonies françaises?;4;4;1792;1802;1830;1848
+L;0;1;0;Sous quelle République l'esclavage a-t'il été aboli par Victor Schoelcher dans les colonies françaises?;4;2;Première République;Deuxième République;Troisième République;Quatrième République
+L;0;1;0;Quel homme politique a reçu en 1926 le prix Nobel de la paix en récompense de son inlassable engagement en faveur de la paix et du rappochement avec l'Allemagne?;4;1;Aristide Briand;Raymond Poincaré;Léon Blum;Maurice Thorez
+L;1;0;0;Quel homme politique français a rendu l'enseignement primaire gratuit, laïque et obligatoire?;4;2;Jules Grévy;Jules Ferry;Jules Favre;Jules Simon
+L;0;1;0;L'empire de Charlemagne a été découpé en trois royaumes pour être partagé entre ses trois petit-fils. Qui a hérité de la France occidentale (territoire qui deviendra la France)?;3;2;Lothaire Ier;Charles le Chauve;Louis le Germanique;
+L;0;1;0;L'empire de Charlemagne a été découpé en trois royaumes pour être partagé entre ses trois petit-fils: Qui a hérité de la France orientale (territoire qui préfigure la future Allemagne)?;3;3;Lothaire Ier;Charles le Chauve;Louis le Germanique;
+L;0;1;0;L'empire de Charlemagne a été découpé en trois royaumes pour être partagé entre ses trois petit-fils: Qui a hérité de la France médiane (qui s'appellera ensuite la Lotharingie dont est issu le nom de Lorraine)?;3;1;Lothaire Ier;Charles le Chauve;Louis le Germanique;
+L;0;1;0;Quel ministre de Louis XVI, adepte du "laissez faire, laisser passer", a été renvoyé à cause de l'impopularité de ses mesures libérales?;4;1;Turgot;Necker;Calonnes;Brienne
+L;0;0;1;Qui régnait sur l'Angleterre pendant la première guerre mondiale?;4;1;George V;George VI;Edouard VII;Edouard VIII
+L;0;1;0;Qui était l'empereur d'Allemagne pendant la première guerre mondiale?;3;2;Guillaume Ier;Guillaume II;Frédéric III;
+L;0;1;0;Qui était le président des Etats-Unis pendant la première guerre mondiale?;4;2;Roosevelt;Wilson;Truman;Eisenhower
+L;0;1;0;Qui était le tsar de Russie pendant la première guerre mondiale?;4;2;Nicolas Ier;Nicolas II;Alexandre II;Alexandre III
+L;1;0;0;Quel roi de France a épousé Marguerite de Valois, rendue célèbre par le film "la Reine Margot" avec Isabelle Adjani?;4;4;Henri II;Charles IX;Henri III;Henri IV
+L;0;1;0;Quel est le congrès au cours duquel les vainqueurs de Napoléon Ier ont réorganisé l'Europe après sa défaite?;4;3;Congrès de Londres;Congrès de Munich;Congrès de Vienne;Congrès de Moscou
+L;0;0;1;Qui représenta la France au Congrès de Vienne au cours duquel les vainqueurs de Napoléon Ier ont réorganisé l'Europe après sa défaite?;4;1;Talleyrand;La Fayette;Mac-Mahon;Thiers
+L;1;0;0;Ou s'est exilé Victor Hugo après le coup d'Etat de Louis-Napoléon Bonaparte qui deviendra Napoléon III?;4;3;En Belgique;En Angleterre;A Jersey;Aux Etats-Unis
+L;1;0;0;En quelle année,  la loi de séparation des églises et de l'état a-t'elle été votée?;4;2;1890;1905;1915;1925
+L;1;0;0;Quel homme politique a fait voté en 1905 la loi de séparation des églises et de l'état?;4;1;Aristide Briand;Adolphe Thiers;Jules Ferry;Jean Jaurès
+L;0;1;0;Dans quelle ville se sont mariés Louis XIV et Marie-Thérèse d'Autriche, l'infante d'Espagne?;4;3;Versailles;Saint-Germain-En-Laye;Saint-Jean-de-Luz;Bayonne
+L;1;0;0;La ligne Maginot est une ligne de fortifications construite par la France, entre 1930 et 1936, le long de ses frontières avec l'Allemagne. D'où provient son nom?;3;3;Du nom d'un village d'Alsace;Du nom d'un village de Lorraine;Du nom du ministre de la guerre André Maginot.;
+L;0;0;1;Le 27 août 1928, un pacte a été signé par lequel quinze pays (dont la France, l'Allemagne, l'Italie, le Royaume-Uni) s'engagent à ne jamais se faire la guerre. Quel est ce pacte?;4;4;Le pacte Dawes;Le pacte Young;Le pacte de Locarno;Le pacte Briand-Kellog
+L;1;0;0;Quel empereur Romain a été le premier empereur à se convertir au christianisme?;4;3;Titus;Antonin le Pieux;Constantin Ier;Néron
+L;1;0;0;La bataille de Marengo est une victoire contre les Autrichiens remportée par:;4;3;Louis XIV;Louis XV;Napoléon Bonaparte, premier consul;Napoléon III
+L;1;0;0;En 451, quelle femme, devenue la sainte patronne de Paris, a exhorté les Parisiens de résister et de ne pas fuir la ville assiégée par les Huns?;4;2;Sainte Thérèse;Sainte Geneviève;Sainte Clotilde;Sainte Marguerite
+L;1;0;0;Quelle année marque la fin de l'Empire romain d'Occident?;4;3;276 après J.C.;376 après J.C.;476 après J.C.;576 après J.C.
+L;0;1;0;En quelle année a eu lieu la division en deux de l'Empire romain: Empire d'Occident et Empire d'Orient?;4;2;294 après J.C.;394 après J.C.;494 après J.C.;594 après J.C.
+L;1;0;0;Qui a été le premier empereur Romain?;4;3;Tibère;Caligula;Auguste;Néron
+L;0;0;1;Qui a été le dernier empereur Romain d'Occident?;4;2;Anthémius;Romulus Augustulus;Olybrius;Glycérius
+L;1;0;0;Qui a été le premier empereur Romain d'Orient?;4;3;Julien;Carus;Constantin Ier;Quintillus
+L;0;0;1;En quelle année a disparu l'Empire Romain d'Orient?;4;2;1353;1453;1553;1653
+L;0;0;1;En quelle année a eu lieu la première coupe du monde de football?;4;3;1910;1920;1930;1950
+L;0;0;1;Qui a gagné la première coupe du monde de football de 1930;4;2;Brésil;Uruguay;Argentine;France
+L;0;1;0;De quand date la semaine des 40 heures en France?;4;2;1920;1936;1946;1954
+L;0;1;0;Quel est le premier roi de France à avoir été inhumé dans la basilique de Saint-Denis?;4;2;Clovis;Dagobert Ier;Pépin le Bref;Hugues Capet
+L;1;0;0;Qui était la femme de Clovis?;4;1;Clotilde;Brunehaut;Frédégonde;Gomatrude
+L;0;0;1;Qui a été le dernier roi mérovingien?;4;2;Thierry  III;Childéric III;Childebert III;Dagobert III
+L;1;0;0;Qui a battu les Arabes à Poitiers en 732?;4;2;Dagobert;Charles Martel;Pépin le Bref;Charlemagne
+L;0;1;0;Qui a offert au pape les terrains qu'il a conquis et qui deviendront les Etats de l'Eglise?;4;3;Dagobert;Charles Martel;Pépin le Bref;Charlemagne
+L;1;0;0;Quelle ville était la capitale de l'Empire carolingien?;4;3;Paris;Reims;Aix-la-Chapelle;Soissons
+L;1;0;0;Dans quelle ville le pape Léon III a-t'il couronné Charlemagne?;4;2;Paris;Rome;Reims;Chartres
+L;0;1;0;Quel ministre de Louis XVI, très populaire, a été rappelé deux fois par Louis XVI, en 1788 et en 1789?;4;2;Turgot;Necker;Calonnes;Brienne
+L;0;1;0;Comment s'appelait l'amant de Marie Antoinette?;4;4;Jean-Baptiste de Gribeauval;Henry Cort;Georges Villiers;Axel de Fersen
+L;0;1;0;Quel était la nationalité d'Axel de Fersen, l'amant de Marie Antoinette?;4;3;Autrichien;Suédois;Danois;Belge
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'hiver allant du 21 décembre au 21 janvier?;4;1;Nivôse;Pluviôse;Ventôse;Frimaire
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'hiver allant du 20 janvier au 18 février?;4;2;Nivôse;Pluviôse;Ventôse;Frimaire
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'hiver allant du 19 février au 20 mars?;4;3;Nivôse;Pluviôse;Ventôse;Frimaire
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'automne allant du 22 septembre au 21 octobre?;4;1;Vendémiaire;Brumaire;Frimaire;Nivôse
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'automne allant du 22 octobre au 20 novembre?;4;2;Vendémiaire;Brumaire;Frimaire;Nivôse
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'automne allant du 21 novembre au 20 décembre?;4;3;Vendémiaire;Brumaire;Frimaire;Nivôse
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois du printemps allant du 21 mars au 19 avril?;4;1;Germinal;Floréal;Prairial;Messidor
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois du printemps allant du 20 avril au 19 mai?;4;2;Germinal;Floréal;Prairial;Messidor
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois du printemps allant du 20 mai au 18 juin?;4;3;Germinal;Floréal;Prairial;Messidor
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'été allant du 19 juin au 18 juillet?;4;1;Messidor;Thermidor;Fructidor;Vendémiaire
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'été allant du 19 juillet au 17 août?;4;2;Messidor;Thermidor;Fructidor;Vendémiaire
+L;0;1;0;Dans le calendrier révolutionnaire, quel est le mois d'été allant du 18 août au 16 septembre?;4;3;Messidor;Thermidor;Fructidor;Vendémiaire
+L;1;0;0;Qui fut nommé chef du gouvernement après la victoire du Front populaire aux élections législatives de 1936?;4;2;Aristide Briand;Léon Blum;Maurice Thorez;Jean Jaurès
+L;1;0;0;Quel était le parti politique de Maurice Thorez, homme politique sous la troisième République?;4;1;Parti communiste;Parti radical;SFIO;Alliance démocratique
+L;1;0;0;Quel était le parti politique de Léon Blum, homme politique sous la troisième République?;4;3;Parti communiste;Parti radical;SFIO;Alliance démocratique
+L;0;0;1;Quel était le parti politique d'Edouard Daladier, homme politique sous la troisième République?;4;2;Parti communiste;Parti radical;SFIO;Alliance démocratique
+L;0;1;0;Les premiers congés payés de deux semaines par an ont été obtenus en 1936 sous le Front populaire. En quelle année la troisième semaine a-t'elle été accordée?;4;2;1946;1956;1960;1969
+L;0;1;0;La troisième semaine de congés payés a été accordée en 1956 sous le gouvernement de Guy Mollet. En quelle année la quatrième semaine a-t'elle été accordée?;4;2;1966;1969;1975;1979
+L;1;0;0;La quatrième semaine de congés payés a été accordée en 1969 sous le gouvernement de Maurice Couve de Murville. En quelle année la cinquième semaine a-t'elle été accordée?;4;4;1975;1977;1979;1982
+L;1;0;0;Quel président de la République a accordé la cinquième semaine de congés payés en France?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;0;1;En quelle année les syndicats ont-ils été légalisés en France?;4;3;1830;1848;1884;1936
+L;0;0;1;En quelle année la CGT a-t'elle été crée?;4;3;1848;1884;1895;1936
+L;0;0;1;En quelle année ont été votées les lois sur les assurances sociales qui permettent de protéger les salariés en cas de maladie ou d'accident?;4;3;1830;1848;1930;1936
+L;0;1;0;En juillet 1926, quel homme politique a été rappelé comme chef du gouvernement par le président Gaston Doumergue pour remédier à la crise financière désastreuse?;4;3;Edouard Daladier;Léon Blum;Raymond Poincaré;Aristide Briand
+L;0;1;0;Quel roi de France a acheté la Corse à la république de Gênes?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;A quel grand artiste Italien François Ier a-t'il demandé de venir s'installer en France, au manoir du Clos-Lucé, près du château d'Amboise?;4;3;Botticelli;Raphaël;Léonard de Vinci;Michel-Ange
+L;1;0;0;Quel roi de France a demandé à Léonard de Vinci de venir s'installer en France, au manoir du Clos-Lucé, près du château d'Amboise?;4;3;Charles VIII;Louis XII;François Ier;Henri IV
+L;0;1;0;Quel roi de France a fondé le Collège royal qui deviendra le Collège de France?;4;1;François Ier;Henri IV;Louis XIII;Louis XIV
+L;1;0;0;Quelle grande victoire, remportée par Philippe Auguste, a été déterminante pour le royaume de France?;4;2;Bataille d'Hastings;Bataille de Bouvines;Bataille de Crécy;Bataille de Pavie
+L;1;0;0;Au début de la guerre de Cent Ans, quelle ville du nord de la France a due capituler après un an de siège par les Anglais?;4;3;Lille;Dunkerque;Calais;Boulogne
+L;1;0;0;Quel est le nom du premier homme apparu sur terre il y a environ 2 millions d'années?;4;3;Homme de Cro-Magnon;Homme de Neandertal ;Homo habilis;Homo erectus
+L;1;0;0;Comment s'appelle le successeur de "l'homo habilis" , premier homme apparu sur terre il y a environ 2 millions d'années?;4;1;Homo erectus;Homme de Cro-Magnon;Homme de Neandertal ;Australopithèque
+L;1;0;0;Quel est le nom du premier "homo sapiens" qui est apparu sur terre il y environ 100 000 ans?;4;4;Australopithèque;Homme de Tautavel;Homme de Cro-Magnon;Homme de Neandertal 
+L;1;0;0;Quel est le nom du successeur de l'homme de Neandertal, apparu sur terre il y a environ 35 000 ans?;4;4;Australopithèque;Homme de Tautavel;Homo erectus;Homme de Cro-Magnon
+L;0;0;1;Quel est le poids du plus grand menhir d'Europe, situé à Locmariaquer, en Bretagne?;4;3;80 tonnes;180 tonnes;280 tonnes;380 tonnes
+L;0;0;1;Quel était la hauteur (quand il était encore dressé) du plus grand menhir d'Europe, situé à Locmariaquer, en Bretagne.;4;3;10,5 mètres;14,5 mètres;18,5 mètres;22,5 mètres
+L;0;1;0;A quelle époque, les Celtes, peuples venus d'Europe de l'Est, ont-ils envahis la France?;4;2;400 avant J.C.;800 avant J.C.;2000 avant J.C.;3000 avant J.C.
+L;0;1;0;A quelle époque, les Grecs (venus de la cité de Phocée en Asie mineure) ont-ils fondés Marseille?;4;2;300 avant J.C.;600 avant J.C.;900 avant J.C.;1200 avant J.C.
+L;0;0;1;A quel date, les Gaulois, avec à leur tête Brennus, ont-ils pillés Rome après avoir envahi le nord de l'Italie?;4;3;590 avant J.C.;490 avant J.C.;390 avant J.C.;290 avant J.C.
+L;0;0;1;En 121 avant JC, quel peuple Gaulois, agressé par leurs voisins, les Arvernes et les Allobroges, a fait appel aux Romains pour les défendre?;4;2;Les Vénètes;Les Eduens;Les Carnutes;Les Ligures
+L;1;0;0;Jules César est mort assassiné en 44 avant J.C. par des conspirateurs dont son fils adoptif. Comment s'appelait ce dernier?;4;1;Brutus;Crassus;Octave;Pompée
+L;1;0;0;A quel peuple Gaulois Vercingétorix appartenait-il?;4;3;Vénètes;Eduens;Arvernes;Carnutes
+L;0;1;0;Comment est mort Vercingétorix?;4;2;Pendant la bataille d'Alésia;Etranglé en prison à Rome;Il se suicide après sa défaite d'Alésia;Tué par César à la fin de la bataille d'Alésia
+L;0;0;1;En quelle année Vercingétorix a-t'il été battu par Jules César à Alésia?;4;4;58 av. J.C.;55 av. J.C.;54 av. J.C.;52 av. J.C.
+L;1;0;0;Qui a remporté, en 52 avant J.C., la bataille de Gergovie?;2;2;Jules César;Vercingétorix;;
+L;0;1;0;Après la conquête des Gaules par les Romains, quelle ville est devenue la capitale fédérale des provinces gauloises?;4;2;Saintes;Lyon;Reims;Paris
+L;0;0;1;Quel empereur Romain a permis, en l'an 48, l'entrée au Sénat romain des Gaulois les plus loyaux envers Rome?;4;3;Tibère;Caligula;Claude;Néron
+L;1;0;0;Comment s'appelle la ligne de fortifications mis en place par les Romains, le long du Rhin, pour se défendre de l'invasion des Germains?;2;1;Le limes;La ligne Maginot;;
+L;1;0;0;Comment s'appelle la ligne de fortifications construite par la France, entre 1930 et 1936, le long de ses frontières avec l'Allemagne?;2;2;Le limes;La ligne Maginot;;
+L;0;1;0;Le 20 juin 1789, dans la salle du jeu de paume, qui est monté sur une table pour faire jurer aux députés de ne pas se séparer avant d'avoir rédiger une constitution? ;4;3;Mirabeau;Danton;Bailly;Robespierre
+L;1;0;0;La "Grande Guerre" est le nom donné à:;3;2;La guerre de 1870;La première guerre mondiale;La seconde guerre mondiale;
+L;1;0;0;La "drôle de guerre" est le nom donné à:;3;3;La guerre de 1870;La première guerre mondiale;Le début de la seconde guerre mondiale;
+L;0;1;0;Léo Lagrange, homme politique de la troisième république, est connu pour:;4;1;L'obtention des billets de chemin de fer à tarif réduit;Son implication pour la loi de 1905 de séparation des églises et de l'état;Sa loi sur l'école primaire gratuite, laïque et obligatoire;Sa loi de 1906 sur le repos hebdomadaire
+L;0;1;0;En 1204, Philippe Auguste a pu récupérer la Normandie, qui était alors possession anglaise, grâce à la prise d'une forteresse construite par Richard Cœur de Lion pour protéger son duché. Comment s'appelle cette forteresse?;4;3;Château de Falaise;Château de Pirou;Château-Gaillard;Château de Domfront
+L;0;1;0;En 1244, l'armée royale attaque un château où se sont réfugiés des cathares. Après plusieurs mois de siège, ces derniers se rendent et, refusant d'abjurer, sont brûlés vifs. Comment s'appelle ce château?;4;3;Château d'Aguilar;Château d'Arques;Château de Montségur;Château de Padern
+L;0;0;1;Qui était président du conseil, après la démission de Léon Blum, quand la France déclara, le 3 septembre 1939, la guerre à l'Allemagne?;4;2;Pierre Laval;Edouard Daladier;Camille Chautemps;Paul Reynaud
+L;0;1;0;Quel événement déclencha, le 3 septembre 1939, la déclaration de guerre de la France à l'Allemagne?;4;1;L'invasion de la Pologne par l'Allemagne;La réunification du Reich allemand et de l'Autriche;La remilitarisation de la Rhénanie par l'Allemagne;L'annexion par l'Allemagne du territoire des Sudètes en Tchécoslovaquie
+L;0;0;1;Lors de la deuxième guerre mondiale, à quelle date la France a-t'elle déclarée la guerre à l'Allemagne?;4;3;03-août-39;03-août-40;03-sept-39;03-sept-40
+L;0;0;1;Lors de la première guerre mondiale, à quelle date l'Allemagne a-t'elle déclarée la guerre à la France?;4;1;03-août-14;03-août-15;03-sept-14;03-sept-15
+L;1;0;0;Quel est le nom du tableau peint par Picasso en hommage au bombardement meurtrier d'un village d'Espagne par les Allemands pendant la guerre civile espagnole?;4;4;La tragédie;La guerre;La mort de Casagemas;Guernica
+L;0;0;1;En quelle année Hitler a-t'il accédé au pouvoir en devenant chancelier du Reich?;4;2;1930;1933;1936;1939
+L;1;0;0;Le 29 septembre 1938, un accord est signé entre la France, l'Angleterre, l'Allemagne et l'Italie, destiné à mettre fin à la crise germano-tchèque et d'éviter ainsi le déclenchement d'un conflit. Quel est cet accord?;4;1;Les accords de Munich;Les accords de Locarno;Les accords de Matignon;Les accords d'Evian
+L;1;0;0;Le pèlerinage de Compostelle a débuté après la découverte au début du IXème siécle du tombeau de:;4;3;L'apôtre Jean;L'apôtre Matthieu;L'apôtre Jacques le Majeur;L'apôtre Thomas
+L;0;1;0;Un empereur germanique s'est joint à la troisième croisade au côté de Philippe Auguste et de Richard Cœur de Lion. Quel est-il?;4;1;Frédéric Ier, dit Barberousse;Otton II;Otton III;Otton IV
+L;0;1;0;Quel est le nom donné au groupement fasciste fondé par Mussolini en Italie en 1919?;4;2;Les Chemises rouges;Les Chemises noires;Les Chemises blanches;Les Chemises bleues
+L;0;0;1;En quelle année, Mussolini accède-t'il au pouvoir en Italie en exigeant de devenir chef du gouvernement?;4;1;1922;1926;1930;1934
+L;1;0;0;La tombe du soldat inconnu, placé sous l'Arc de Triomphe, est là pour honnorer les soldats morts:;2;1;Durant la première guerre mondiale;Durant la seconde guerre mondiale;;
+L;0;0;1;Qu'appelle-t'on l'Anschluss?;3;1;C'est l'annexion de l'Autriche par l'Allemagne en mars 1938;C'est l'annexion du territoire des Sudètes par l'Allemagne en septembre 1938;C'est l'annexion de la ville libre de Dantzig par l'Allemagne en août 1939;
+L;0;0;1;Quel était le prénom de Mussolini?;4;2;Alberto;Benito;Duccio;Gennaro
+L;0;0;1;A quelle date s'est tenue la conférence de Munich qui a permis d'éviter la guerre lorsque l'Allemagne s'apprêtait à annexer le territoire des Sudètes en Tchécoslovaquie?;4;3;29-août-38;29-août-39;29-sept-38;29-sept-39
+L;0;1;0;Quel était le Premier ministre britannique au début de la seconde guerre mondiale?;4;3;Ramsay MacDonald;Stanley Baldwin;Neville Chamberlain;Winston Churchill
+L;0;0;1;Durant quelle guerre, sous Louis XIV, d'Artagnan est-il mort, atteint par une balle de mousquet reçue en pleine tête?;4;3;La guerre de Trente Ans;La guerre de la ligue d'Augsbourg;La guerre de Hollande;La guerre de succession d'Espagne
+L;0;0;1;La conquête de la Gaule par César se déroula de 58 av. J.C. à 51 av. J.C. Quelle a été la première bataille de cette guerre des Gaules?;4;1;La bataille d'Avaricum;La bataille de Bibracte;La bataille de Gergovie;La bataille d'Uxellodunum
+L;0;0;1;Quel a été le dernier peuple gaulois à résister contre César alors que l'ensemble de la Gaule était conquise?;4;3;Les Vénètes;Les Eduens;Les Cadurques;Les Ligures
+L;0;0;1;Pendant quelle guerre, le duc de Marlborough, rendu célèbre par la comptine "Malbrouk s'en va-t-en guerre", s'est-il battu contre Louis XIV?;4;4;La guerre de Trente Ans;La guerre de la ligue d'Augsbourg;La guerre de Hollande;La guerre de succession d'Espagne
+L;1;0;0;Pendant quelle guerre, les Anglais on-t'ils conquis le rocher de Gibraltar en 1704?;4;4;La guerre de Trente Ans;La guerre de la ligue d'Augsbourg;La guerre de Hollande;La guerre de succession d'Espagne
+L;0;0;1;Quel pape français a ordonné la construction, en 1342, du Palais des Papes à Avignon?;4;3;Clément IV;Clément V;Clément VI;Clément VII
+L;0;1;0;A Waterloo, Napoléon attend le renfort d'un de ses maréchaux, et c'est le Prussien Blücher qui arrive. Qui est ce maréchal?;4;3;Ney;Soult;Grouchy;Murat
+L;0;1;0;Quel maréchal de Napoléon 1er a mené, à la tête de la garde impériale, les dernières charges intrépides contre les Anglais à Waterloo?;4;1;Ney;Soult;Grouchy;Murat
+L;0;1;0;Un ancien esclave affranchi né à Saint-Domingue s'est battu pour l'indépendance de l'île et un gouvernemant dirigé par les Noirs. Qui est-il?;4;2;Victor Schoelcher;Toussaint Louverture;François de Charrette;Jacques Cathelineau
+L;1;0;0;Parmi ces quatre chars utilisés pendant la seconde guerre mondiale, lequel est allemand?;4;1;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;0;1;Parmi ces quatre chars utilisés pendant la seconde guerre mondiale, lequel est français?;4;2;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;0;1;Parmi ces quatre chars utilisés pendant la seconde guerre mondiale, lequel est américain?;4;3;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;0;1;Parmi ces quatre chars utilisés pendant la seconde guerre mondiale, lequel est russe?;4;4;Panzer 4;Char B1;Sherman M4;Char T-34
+L;0;1;0;Qui a assassiné à Sarajevo l'archiduc François-Ferdinand, assassinat qui conduira ensuite à la première guerre mondiale?;4;3;Mark David Chapman;Lee Harvey Oswald;Gavrilo Princip;Jack Ruby
+L;1;0;0;Combien d'articles contient la déclaration des droits de l'homme et du citoyen adoptée par l'Assemblée constituante le 26 août 1789?;4;2;7 articles;17 articles;27 articles;37 articles
+L;1;0;0;Dans quelle salle se sont réunis les états généraux lors de leur convocation par Louis XVI le 5 mai 1789?;4;1;Salle des Menus-Plaisirs à Versailles;Salle du jeu de paume à Versailles;Salle du Manège à Paris;Au Palais des Tuileries à Paris
+L;1;0;0;A quelle date a eu lieu la séance d'ouverture des états généraux après leur convocation par Louis XVI?;4;2;5 avril 1789;5 mai 1789;5 juin 1789;5 juillet 1789
+L;1;0;0;Quel nom avait l'armée Allemande pendant la deuxième guerre mondiale?;4;3;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;0;1;0;Quel nom avait l'aviation allemande pendant la deuxième guerre mondiale?;4;1;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;0;1;0;Quel est le nom allemand pour la "guerre éclair" qui a désigné l'invasion allemande en 1940?;4;4;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;1;0;0;Où étaient réunis les députés du tiers état lorsqu'il jurèrent de ne pas se séparer avant d'avoir rédigé une constitution?;4;2;Salle des Menus-Plaisirs à Versailles;Salle du jeu de paume à Versailles;Salle du Manège à Paris;Au Palais des Tuileries à Paris
+L;0;0;1;Quelle animal, le vice-roi d'Egypte, Méhémet Ali, a-t'il offert à Charles X en 1827?;4;3;Un crocodile;Un éléphant;Une girafe;Un chameau
+L;1;0;0;Sous le règne de quel roi Molière a-t'il écrit et joué ses comédies?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Jean-Baptiste Poquelin était le vrai nom de:;4;3;Corneille;Racine;Molière;Chateaubriand
+L;0;1;0;Quel age avait le maréchal Pétain quand il signa l'armistice de 1940?;4;3;76 ans;80 ans;84 ans;88 ans
+L;0;0;1;A quelle date le général Pétain signa l'armistice lors de la seconde guerre mondiale reconnaissant la défaite de la France?;4;1;22-juin-40;22-juin-41;22-sept-40;22-sept-41
+L;0;1;0;Ou a été signé l'armistice du 22 juin 1940, au début de la seconde guerre mondiale?;4;3;Au château de Versailles;Au palais du Louvre;Dans un wagon dans la forêt de Compiègne;A l'Elysée
+L;1;0;0;Quelle était le grade de de Gaulle au début de la seconde guerre mondiale?;4;3;Capitaine;Commandant;Colonel;Général
+L;1;0;0;Quelle bataille de la première guerre mondiale a fait 20 000 morts chez les Anglais, bataille connue comme le "Verdun" pour les Anglais?;4;4;La bataille des frontières;La bataille de la Marne;La bataille du Chemin des Dames;La bataille de la Somme
+L;0;0;1;Quel écrivain est devenu, à partir de 1677, l'historiographe de Louis XIV ?;4;2;Corneille;Racine;Molière;La Fontaine
+L;1;0;0;Qui a été le maître d'œuvre, avec d'Alembert, de l'Encyclopédie qui a pour but de rassembler toutes les connaissances accumulées par les hommes?;4;1;Diderot;Voltaire;Rousseau;Buffon
+L;1;0;0;Qui a été le maître d'œuvre, avec Diderot, de l'Encyclopédie qui a pour but de rassembler toutes les connaissances accumulées par les hommes?;4;2;Voltaire;d'Alembert;Rousseau;Buffon
+L;1;0;0;Quelle femme épousa secrètement Louis XIV après la mort de Marie-Thérèse d'Autriche?;4;2;Marie Mancini;Madame de Maintenon;Louise de La Vallière;Madame de Montespan
+L;1;0;0;Quelle maîtresse de Louis XV était une prostituée?;4;3;Madame de Pompadour;Madame de Montmélas;Madame du Barry;Madame de Bonneval
+L;1;0;0;A quelle date, le général de de Gaulle a-t'il lancé, depuis les studios de la BBC à Londres, un appel solennel à poursuivre les combats?;4;2;18-juin-39;18-juin-40;18-sept-39;18-sept-40
+L;0;1;0;La fête nationale américaine commémore le jour de la Déclaration d'indépendance des Etats-Unis qui eut lieu le:;4;2;3 juillet 1776;4 juillet 1776;5 juillet 1776;6 juillet 1776
+L;0;0;1;Qui a rédigé la Déclaration d'indépendance des Etats-Unis qui fut adoptée le 4 juillet 1776?;4;3;George Washington;John Adams;Thomas Jefferson;James Madison
+L;0;1;0;Quel roi de France envoya des soldats pour aider les Américains dans leur lutte pour obtenir leur indépendance?;4;4;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Quel militaire français partit en Amérique pour aider les insurgés dans leur lutte pour obtenir leur indépendance?;4;2;Murat;La Fayette;Ney;Masséna
+L;0;1;0;Comment s'appelle le spectacle que Joséphine Baker a dansé à Paris en 1925 et qui provoqua un scandale en raison de sa tenue jugée trop provoquante?;4;2;La Revue "Paris aux étoiles";La "Revue nègre";La Revue "Black birds";La Revue "La Belle de New York"
+L;1;0;0;Quel était le degré de parenté de Louis XVI par rapport à Louis XV?;3;2;Son fils;Son petit-fils;Son arrière-petit-fils;
+L;1;0;0;Quel était le degré de parenté de Louis XV par rapport à Louis XIV?;3;3;Son fils;Son petit-fils;Son arrière-petit-fils;
+L;1;0;0;Quel est le siècle des philosophes des Lumières?;4;3;16ème siècle;17ème siècle;18ème siècle;19ème siècle
+L;1;0;0;François-Marie Arouet était le vrai nom de:;4;4;Corneille;Racine;Molière;Voltaire
+L;0;0;1;Le roi de Prusse, Frédéric II, fut un admirateur et ami d'un philosophe des Lumières. Lequel?;4;1;Voltaire;d'Alembert;Rousseau;Buffon
+L;0;0;1;Qui était Guy Môquet?;4;3;Un colonel Français pendant la première guerre mondiale;Un colonel français pendant la seconde guerre mondiale;Un militant communiste fusillé par les Allemands en 1941;Un président du conseil de la troisième république
+L;0;0;1;Que signifie en hébreu le mot "shoah"?;4;1;catastrophe;mort;assassinat;martyre
+L;0;0;1;En quelle année, le roi de Germanie, Otton 1er, a-t-il fondé le Saint Empire romain germanique?;4;2;862;962;1062;1162
+L;0;1;0;Qui fut le premier empereur du Saint Empire romain germanique?;4;2;Henri 1er;Otton Ier;Otton II ;Otton III
+L;0;0;1;En quelle année Napoléon 1er a-t'il dissous le Saint Empire romain germanique pour créer la Confédération du Rhin?;4;3;1802;1804;1806;1808
+L;0;1;0;Qui a dissous le Saint Empire romain germanique pour créer la Confédération du Rhin?;4;4;Louis XIV;Louis XV;Louis XVI;Napoléon 1er
+L;0;1;0;Au congrès de Vienne de 1815, la Confédération du Rhin, crée par Napoléon 1er en 1806, est devenu:;4;3;Le Saint Empire romain germanique;La Confédération germanique;La Confédération d'Allemagne du Nord;L'empire austro-hongrois
+L;0;1;0;En quelle année l'Allemagne s'est-elle unifiée avec la création de l'empire allemand?;4;4;1806;1815;1830;1870
+L;0;1;0;Comment s'appelait le régime mis en place par Pétain après l'armistice de juin 1940?;4;1;"l'Etat français";"la France patriote";"l'Ordre nouveau";"la France nouvelle"
+L;1;0;0;Quel était la devise du régime de Vichy mis en place par Pétain après l'armistice de juin 1940?;4;3;"Ordre, Famille, Nation";"Ordre, Travail, Nation";"Travail, Famille, Patrie";"Ordre, Honneur, Nation"
+L;0;0;1;Durant quelle bataille d'Italie, le chevalier Bayard a-t'il sauvé de la mort Charles VIII qui s'était trouvé encerclé par les Italiens?;4;1;bataille de Fornoue;bataille de Ravenne;bataille de Marignan;bataille de Pavie
+L;0;0;1;Quelle bataille d'Italie de la Renaissance fut nommé "furia francese" en raison du courage que firent preuve les soldats français?;4;1;bataille de Fornoue;bataille de Ravenne;bataille de Marignan;bataille de Pavie
+L;0;0;1;Quel roi de France a été sauvé par le chevalier Bayard durant la bataille de Pavie?;3;1;Charles VIII;Louis XII;François Ier;
+L;0;1;0;Durant quelle bataille d'Italie, François Ier a-t'il été battu et envoyé en captivité en Espagne?;4;4;bataille de Fornoue;bataille de Ravenne;bataille de Marignan;bataille de Pavie
+L;0;0;1;Quel roi de France a fait construire en 1240 la cité d'Aigues-Mortes?;4;2;Philippe Auguste;Louis IX;Philippe III le Hardi;Philippe IV le Bel
+L;1;0;0;Dans toute l'histoire de France, un seul roi de France a été canonisé. Quel est-il?;4;4;Louis VI;Louis VII;Louis VIII;Louis IX
+L;1;0;0;Quel roi de France est connu pour l'image où on le voit rendre la justice sous un chêne?;4;4;Louis VI;Louis VII;Louis VIII;Louis IX
+L;1;0;0;Quel roi de France est plus connu sous le nom de Saint-Louis;4;4;Louis VI;Louis VII;Louis VIII;Louis IX
+L;1;0;0;Le cardinal de Richelieu fut un ministre de :;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;Le cardinal de Mazarin fut un ministre de :;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;Quel grand ministre d'un roi de France fit édifier une ville à sa gloire portant son nom?;4;1;Richelieu;Mazarin;Colbert;Fouquet
+L;0;1;0;Qui était Armand Jean du Plessis?;4;1;Le cardinal de Richelieu;Le cardinal Mazarin;Le cardinal de Fleury;Le cardinal de Rohan
+L;0;1;0;Lequel de ces rois de France était bègue?;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;Quel ministre d'un roi de France s'est fait construire un palais face au palais du Louvre qu'il a légué à sa mort au roi et devient ainsi le Palais Royal?;4;1;Richelieu;Mazarin;Colbert;Fouquet
+L;0;0;1;Le château de Richelieu, que le cardinal a fait construire à sa gloire, n'existe plus aujourd'hui car:;4;1;Il a été démoli pour en revendre les matériaux;il a été détruit par un incendie;Il a été détruit pendant la Révolution;Il a été bombardé pendant la seconde guerre mondiale
+L;0;1;0;Quel roi de France, qui ne s'entendait pas avec sa  mère, la fit exiler à l'étranger?;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;Quel roi de France a soumis La Rochelle, place forte tenue par les protestants, après un siège de plus d'un an?;4;2;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;0;1;Pendant la seconde guerre mondiale, Pierre Laval négocie avec Hitler, en juin 1942, le système de "la relève". De quoi s'agit-il?;4;1;D'un échange d'un travailleur français pour un prisonnier de guerre;De la création d'une milice pour remplacer la gestapo;D'un échange d'un réfugié politique allemand pour un prisonnier de guerre;D'un échange de 100 juifs pour un prisonnier de guerre
+L;0;0;1;Quel nom de code a été donné à la rafle du Vél' d'Hiv de juillet 1942 sous l'occupation allemande?;4;2;"Mistral gagnant";"Vent printanier";"Souffle d'hiver";"Brise d'automne"
+L;0;0;1;Combien de juifs ont été arrêtés par la police française lors de la rafle du Vél' d'Hiv' des 16 et 17 juillet 1942?;4;3;3000;8000;13000;18000
+L;1;0;0;Pendant la seconde guerre mondiale, sous l'occupation allemande, les juifs ont été obligés de porter une étoile sur la poitrine. Quelle était la couleur de cette étoile?;4;4;blanche;rouge;bleue;jaune
+L;0;0;1;Pendant la Révolution française des centaines de villes et communes ont été rebaptisées. Comment Marseille a-t'elle été renommée?;4;3;Egalité-sur-Rhone;Commune-Affranchie;Ville-sans-nom;Bonne Lande
+L;0;0;1;Pendant la Révolution française des centaines de villes et communes ont été rebaptisées. Comment Lyon a-t'elle été renommée?;4;2;Egalité-sur-Rhone;Commune-Affranchie;Ville-sans-nom;Bonne Lande
+L;0;1;0;Combien de fois Henri IV a-t'il changé de religion, entre protestantisme et catholicisme?;4;3;Deux fois;Quatre fois;Six fois;Huit fois
+L;1;0;0;Quel est le degré de parenté de Henri IV par rapport à Henri III?;4;4;Fils;Frère;Petit-fils;Cousin
+L;0;1;0;Quel roi de France a fait construire le pont Neuf à Paris, premier pont en pierre de la capitale?;4;1;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;1;0;Quel roi de France a fait construire la place des Vosges à Paris, appelée place Royale lors de sa construction?;4;1;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;1;0;Quelle est la plus ancienne place de Paris, construite sous Henri IV?;4;2;Place Vendôme;Place des Vosges;Place des Victoires;Place Dauphine
+L;0;1;0;Qui était le président des Etats-Unis pendant la seconde guerre mondiale?;4;1;Roosevelt;Wilson;Truman;Eisenhower
+L;0;1;0;Quel roi de France prononça la phrase: "Une cour sans femmes, c'est comme un jardin sans fleurs"?;4;1;François Ier;Henri IV;Louis XIV;Louis XV
+L;1;0;0;Quel roi de France a fait construire le château de Chambord?;4;1;François Ier;Henri II;Henri IV;Louis XIV
+L;0;1;0;Qui était la mère de François Ier?;4;2;Marie de Clèves;Louise de Savoie;Claude de France;Jeanne III de Navarre
+L;0;1;0;Qui était la mère d'Henri IV?;4;4;Marie de Clèves;Louise de Savoie;Claude de France;Jeanne III de Navarre
+L;0;1;0;Quelle était la taille de François Ier?;4;3;1,78 m;1,88 m;1,98 m;2,08 m
+L;0;1;0;Quel roi de France signa l'ordonnance de Villers-Cotterêts qui fit du français la langue officielle du royaume?;4;2;Louis XI;François Ier;Henri II;Henri III
+L;1;0;0;Qui était la mère de Louis XIV?;4;2;Jeanne III de Navarre;Anne d'Autriche;Marie de Médicis;Marie-Thérèse d'Autriche
+L;0;1;0;Dans quel château est né Louis XIV?;4;3;Château de Fontainebleau;Château du Louvre;Château de Saint Germain-en-Laye;Château des Tuileries
+L;1;0;0;Qui a été l'organisateur, en juin 1942, de la rafle du Vel' d'Hiv'?;4;3;Pierre-Etienne Flandin;François Darlan;René Bousquet;Xavier Vallat
+L;0;1;0;En quelle année la Sécurité sociale a-t'elle été crée?;2;2;En 1936, par le Front populaire;En 1945, à la fin de la seconde guerre mondiale;;
+L;0;0;1;Quel roi de Prusse, grand ami de Voltaire, était appelé le "roi philosophe"?;4;3;Frédéric Ier;Frédéric-Guillaume Ier;Frédéric II ;Frédéric-Guillaume II
+L;0;1;0;Qui était le roi de France pendant la guerre de sept ans?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Qui était le roi de France pendant la guerre de "dévolution" avec l'Espagne?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Durant quelle guerre la France perdit une grande partie de son empire colonial au dépens de l'Angleterre?;2;2;Guerre de la ligue d'Augsbourg?;Guerre de sept ans;;
+L;0;1;0;Qui était le roi de France pendant la guerre de Hollande?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Qui était le roi de France pendant la guerre de la ligue d'Augsbourg?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Qui était le roi de France pendant la guerre de succession d'Espagne?;4;2;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Qui était le roi de France pendant la guerre de succession de Pologne?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;0;1;0;Qui était le roi de France pendant la guerre de succession d'Autriche?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Qui est l'auteur du chant des partisans, l'hymne de la Résistance française pendant la seconde guerre mondiale?;3;2;Rouget de Lisle;Joseph Kessel et Maurice Druon;Etienne Nicolas Méhul;
+L;1;0;0;En quelle année le droit de vote a-t'il été accordé aux femmes?;4;3;1792;1848;1944;1954
+L;1;0;0;A quelle date a eu lieu le débarquement des Alliés en Normandie pendant la seconde guerre mondiale?;4;1;06-juin-44;06-juin-45;06-sept-44;06-sept-45
+L;0;1;0;Quel était le nom de code du débarquement des Alliés, le 6 juin 1944 en Normandie?;4;1;Overlord;Anvil;Dragoon;Otarie
+L;0;1;0;Au Moyen Age, qu'appelait-on un destrier?;4;3;Une armure;Un casque;Un cheval de guerre et de tournoi;Une lance
+L;1;0;0;Qui fut l'organisateur de la rafle du Vel' d'Hiv' pendant l'occupation allemande?;4;2;Philippe Henriot;René Bousquet;Jean Moulin;Joseph Darnand
+L;1;0;0;Qui créa le Conseil National de la Résistance qui fédéra les tous les mouvements de Résistance intérieure pendant l'occupation allemande?;4;2;Le colonel Fabien;Jean Moulin;Pierre Brossolette;Georges Guingouin
+L;0;0;1;Dans quelle commune Pétain rencontra Hitler, le 24 octobre 1940, pour lui faire part de sa volonté de collaboration avec l'Allemagne? ;4;1;Montoire;Saint-Rimay;Villiersfaux;Ambloy
+L;0;0;1;Quel traité marque la fin de la première phase de la guerre de Cent Ans?;3;3;Traité de Troyes;Traité de Picquigny;Traité de Brétigny;
+L;0;0;1;Qui a été surnommé le Prince noir pendant la guerre de Cent Ans?;4;2;Le fils d'Edouard II;Le fils d'Edouard III;Le fils d'Edouard IV;Le fils d'Edouard V
+L;0;1;0;Qui était roi d'Angleterre au début de la guerre de Cent Ans?;4;1;Edouard III;Richard II;Henri VI;Edouard IV
+L;0;0;1;Qui était roi d'Angleterre à la fin de la guerre de Cent Ans?;4;3;Edouard III;Richard II;Henri VI;Edouard IV
+L;0;0;1;Quel roi de France a été gardé en otage en Espagne lorsqu'il était enfant?;4;2;François Ier;Henri II;Henri III;Henri IV
+L;0;0;1;Le château d' Anet, situé en Eure-et-Loir, fut commandé par un roi de France pour une de ses maîtresses. Laquelle?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;0;0;1;Un roi de France a eu pour maîtresse une femme agée de vingt ans de plus que lui. Qui était elle?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;0;0;1;Un roi de France a eu pour maîtresse une femme qui était sa gouvernante lorsqu'il était enfant. Qui était elle?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;1;0;0;Quelle reine fut la mère de trois rois de France?;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;1;0;0;Quelle reine de France a été jugée responsable du massacre de la Saint-Barthélemy;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;0;1;0;Quelle reine de France a eu la réputation d'être une intrigante et une empoisonneuse?;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;0;0;1;Quelle maîtresse d'un roi de France a été surnommée "la plus que reine"?;4;2;Mary Boleyn;Diane de Poitiers;Gabrielle d'Estrées;Marie de Clèves
+L;0;1;0;Nostradamus a été l'astrologue d'une reine de France. Laquelle?;4;2;Claude de France;Catherine de Médicis;Marie de Médicis;Anne d'Autriche
+L;1;0;0;A quand remonte l'apparition du premier homme sur la terre, appelé l'homo habilis?;4;3;10 millions d'années avant J.C.;5 millions d'années avant J.C.;2 millions d'années avant J.C.;1 million d'années avant J.C.
+L;0;0;1;Quel nom de code a été donné à l'attaque de l'URSS par l'Allemagne en juin 1941?;4;2;Torch;Barbarossa;Blitz;Overload
+L;0;0;1;Quel nom de code a été donné au débarquement des forces Anglo-américaines en Afrique du Nord en novembre 1943?;4;1;Torch;Barbarossa;Blitz;Overload
+L;0;0;1;Quel nom a été donné à la campagne de bombardement de l'Angleterre par l'aviation allemande en septembre 1940 (bataille d'Angleterre)?;4;3;Torch;Barbarossa;Blitz;Overload
+L;0;0;1;Quel nom de code a été donné au débarquement des Alliés en Normandie le 6 juin 1944?;4;4;Torch;Barbarossa;Blitz;Overload
+L;1;0;0;Comment appelle-t'on, dans la préhistoire, la période de la pierre taillée?;3;2;mésolithique;paléolithique;néolithique;
+L;1;0;0;Comment appelle-t'on, dans la préhistoire, la période de la pierre polie?;3;3;mésolithique;paléolithique;néolithique;
+L;0;1;0;En quelle année, les Celtes, venus des steppes d'Asie centrale, arrivent-ils en Europe de l'ouest?;4;4;1400 ans avant J.C.;1200 ans avant J.C.;1000 ans avant J.C.;800 ans avant J.C.
+L;1;0;0;Comment s'appelait Lyon, la capitale des trois Gaules, à l'époque des Romains?;4;2;Massalia;Lugdunum;Burdigala;Divio
+L;1;0;0;Comment s'appelait le chef des Huns qui franchirent le Rhin pour envahir la Gaulle en 451 avant J.C.?;4;2;Orgétorix;Attila;Aetius;Théodoric
+L;1;0;0;Quelle Ville Clovis a-t'il choisi comme capitale?;4;2;Soissons;Paris;Reims;Poitiers
+L;1;0;0;Quels rois de France ont été appelés "les rois fainéants"?;2;1;Les rois mérovingiens;Les rois carolingiens;;
+L;0;1;0;Quelle a été la durée de la dynastie des capétiens?;4;4;Plus de 500 ans;Plus de 600 ans;Plus de 700 ans;Plus de 800 ans
+L;1;0;0;Au Moyen Age, comme s'appelait la cérémonie au cours de laquelle un jeune noble devient chevalier?;2;2;L'hommage;L'adoubement;;
+L;0;1;0;Sous le règne de quel roi de France, les Normands (Vikings) ont-ils envahis la France?;3;3;Charlemagne;Louis Ier le Pieux;Charles II le Chauve;
+L;0;0;1;En quelle année la cathédrale de Nantes a-t'elle été incendiée par les Normands (Vikings)?;4;3;643;743;843;943
+L;0;1;0;Quel chef Normand (Viking) a prêté serment de fidèlité au roi Charles III le simple, puis s'est baptisé et a épousé sa fille Gisèle?;3;3;Ragnar Lodbrog;Siegfried;Rollon;
+L;0;0;1;Qui a été le dernier roi carolingien?;4;4;Charles III le Simple;Louis IV d'Outremer;Lothaire;Louis V le Fainéant
+L;0;1;0;Quel pape a appelé, en 1095, à la première croisade pour délivrer Jérusalem prise par les Turcs musulmans?;4;4;Urbain II;Eugène III;Innocent III;Urbain IV
+L;1;0;0;Quel événement commémore la fête nationale française du 14 juillet?;4;4;L'avènement du roi Louis VIII;L’édit de Saint-Germain;La prise de la Bastille;La fête de la Fédération
+L;1;0;0;Quelle message fut diffusé à la BBC pour annoncer à la Résistance française l'imminence du débarquement Allié de juin 1944?;4;2;"Rien ne bougeait encore au front des palais …";"Les sanglots longs des violons de l'automne …";"Hélas! Je n'étais pas fait pour cette haine ...";"Dans ces bois qu'un nuage dore, que l'ombre est lente à s'endormir!"
+L;1;0;0;Qui avait le commandement de l'opération "overload", le débarquement des forces alliées en Normandie le 6 juin 1944?;4;2;Le commandant Montgomery;Le général Eisenhower;Le général de Gaulle;Le général Leclerc
+L;0;0;1;Le 10 juin 1944, tout un village du Limousin a été massacré par les SS, en guise de représailles contre l'action des Résistants. Quel est ce village?;4;3;Rochechouart;Jarnac;Oradour-sur-Glane;Pamproux
+L;0;1;0;Qui a succédé à Hugues Capet, le premier roi capétien?;4;1;Robert II le Pieux;Henri Ier;Philippe Ier;Louis VI le Gros
+L;0;0;1;Hugues Capet, premier roi capétien, est l'arrière-petit-fis d'un comte rhénan qui est mort en combattant les Normands près d'Angers. Qui est ce comte?;4;2;Eudes;Robert le Fort;Gohar;Nominoë
+L;0;0;1;Quel était le nom de code du débarquement en Provence des Américains et des Français le 15 août 1944?;4;3;Overlord;Anvil;Dragoon;Otarie
+L;0;0;1;Après Aix-la-Chapelle, Paris est redevenu capitale de la France sous le règne de:;4;2;Louis VI le Gros;Philippe II;Louis IX;Philippe IV le Bel
+L;1;0;0;Les Cathares, adeptes du catharisme, mouvement religieux hérétique du Moyen Age, étaient aussi nommés:;4;3;Les Castrais;Les Montalbanais;Les Albigeois;Les Auscitains
+L;0;1;0;Quel roi de France a repris la Normandie à Jean sans Terre, devenu roi d'Angleterre après la mort de son frère Richard Cœur de Lion?;4;3;Philippe Ier;Louis VII;Philippe Auguste;Louis IX (Saint-Louis)
+L;0;1;0;Quel était le grade de De Gaulle pendant la première guerre mondiale?;4;1;Capitaine;Commandant;Colonel;Général
+L;0;1;0;Quel était le grade de De Gaulle à la fin de la seconde guerre mondiale?;4;1;Général de brigade;Général de division;Général de corps d'armée;Général d'armée
+L;1;0;0;Dans quelle cathédrale, Napoléon Ier a-t'il été couronné empereur des Français le 2 décembre 1804?;4;2;Cathédrale de Reims;Cathédrale Notre-Dame de Paris;Cathédrale de Chartres;Cathédrale d'Ajaccio
+L;0;0;1;En présence de quel pape, Napoléon Ier a-t'il été couronné empereur des Français le 2 décembre 1804?;4;2;Pie VI;Pie VII;Pie VIII;Pie IX
+L;0;0;1;Combien d'années a duré la guerre de Cent Ans?;4;3;96 ans;106 ans;116 ans;126 ans
+L;0;1;0;Quel roi de France nomma Bertrand du Guesclin connétable de France?;4;1;Charles V;Charles VI;Charles VII;Louis XI
+L;0;1;0;Quel roi de France de la Renaissance a participé à la première guerre d'Italie?;4;1;Charles VIII;Louis XII;François Ier;Henri II
+L;0;0;1;Après les guerres d'Italie de la Renaissance, lors de quel traité, la France a-t'elle renoncée à ses droits sur le Milanais et le royaume de Naples;4;3;Traité de Brétigny;Traité de Troyes;Traité de Cateau-Cambrésis;Traité de Picquigny
+L;0;0;1;Par quel traité signé avec les Anglais, Charles VI déshérite le dauphin et reconnaît le roi d'Angleterre comme roi de France?;4;2;Traité de Brétigny;Traité de Troyes;Traité de Cateau-Cambrésis;Traité de Picquigny
+L;0;1;0;Pendant la guerre de Cent Ans, quel roi de France a déshérité son fils et reconnu le roi d'Angleterre comme roi de France?;4;2;Charles V;Charles VI;Charles VII;Louis XI
+L;0;1;0;Pendant la guerre de Cent Ans, qui se sont alliés avec les Anglais contre le dauphin, futur Charles VII, déshérité par son père Charles VI qui avait perdu la raison?;2;2;Les Armagnacs;Les Bourguignons;;
+L;1;0;0;Comment est mort Hitler à la fin de la seconde guerre mondiale?;4;3;Il est tué lors du bombardement de Berlin;Il est fusillé par les Alliés;Il se suicide dans son bunker de Berlin;Il est assassiné par un déséquilibré
+L;0;1;0;Combien de morts au total la seconde guerre mondiale a-t'elle fait dans le monde?;4;3;Environ 5 millions;Environ 25 millions;Environ 45 millions;Environ 65 millions
+L;1;0;0;Dans quel pays la seconde guerre mondiale a-t'elle fait le plus de victimes?;4;4;La France;L'Allemagne;L'Angleterre;L'URSS
+L;1;0;0;Quelle guerre a fait le plus de victimes en France?;2;1;La première guerre mondiale;La seconde guerre mondiale;;
+L;1;0;0;Quel général français, à la tête de la 2ème DB, a libéré Paris le 25 août 1944?;4;3;Le général Giraud;Le général de Lattre de Tassigny;Le général Leclerc;Le général Koenig
+L;0;0;1;Quel général français résista avec héroisme aux attaques allemandes et italiennes à Bir Hakeim dans le désert de Libye en juin 1942?;4;4;Le général Giraud;Le général de Lattre de Tassigny;Le général Leclerc;Le général Koenig
+L;0;1;0;Quel président américain, élu en 1932, a mis en place le "New Deal", vaste programme de lutte contre la crise?;4;2;Hoover;Roosevelt;Truman;Eisenhower
+L;0;0;1;Quel président américain, en exercice pendant la crise financière de 1929, a été battu par Roosevelt en 1932 qui a fustigé son bilan économique?;4;4;Wilson;Harding;Coolidge;Hoover
+L;0;0;1;Al Capone a été arrêté par Eliot Ness et condamné, le 24 octobre 1931, à onze ans de prison ferme et 80 000 dollars pour:;4;3;Proxénétisme;contrebande d'alcool;Fraude fiscale;Meurtre
+L;0;0;1;La République de Weimar est le nom donné au régime politique adopté en Allemagne après la première guerre mondiale. Pourquoi ce nom de Weimar?;4;2;C'est le nom du parti politique allemand qui a proclamé la république;C'est le nom de la ville d'Allemagne où la Constitution a été adoptée;C'est le nom du premier président de la République;C'est le nom du chef du parti SPD qui a fondé la République
+L;0;0;1;Quel président de la République de Weimar, crée après la première guerre mondiale, a nommé Hitler, le 30 janvier 1933, au poste de chancelier?;2;2;Friedrich Ebert;Paul von Hindenburg;;
+L;0;1;0;L'Etat dictatorial, crée par Hitler en 1933, s'appellait:;3;2;Deuxième Reich;Troisième Reich;Quatrième Reich;
+L;0;0;1;Hitler a écrit son livre "Mein Kampf":;4;2;Lorsqu'il fut nommé chancelier du Reich en 1933;Lorsqu'il était en prison après son putsch raté de 1923;Après la proclamation de la République de Weimar en 1919;Au début de la seconde guerre mondiale en 1939
+L;0;0;1;Un mouvement artistique, né d'un intense dégoût envers la guerre, est apparu en 1916 pendant la première guerre mondiale. Quel est-il?;4;4;Le cubisme;Le futurisme;L'expressionnisme;Le dadaïsme
+L;0;0;1;De quel peintre Clémenceau a-t'il été le grand ami?;4;2;Auguste Renoir;Claude Monet;Edgar Degas;Paul Cézanne
+L;0;1;0;Quel roi de France demanda à Bayard de le faire chevalier?;4;3;Charles VIII;Louis XII;François Ier;Henri II
+L;1;0;0;Quelle femme  a été la maîtresse de deux rois, le père et son fils?;4;1;Diane de Poitiers;Gabrielle d’Estrées;Charlotte de Montmorency;marquise de Montespan
+L;0;0;1;Quel roi de France a promulgué la Pragmatique Sanction de Bourges qui limite fortement les interventions du pape dans la nomination du clergé de France?;4;1;Charles VII;Charles VIII;Louis XII;François Ier
+L;0;1;0;Quel roi de France a signé le Concordat de Bologne avec le pape Léon X?;4;4;Charles VII;Charles VIII;Louis XII;François Ier
+L;1;0;0;En quelle année la première ligne de métro a-t'elle été inaugurée à Paris?;4;2;1895;1900;1905;1910
+L;0;1;0;Combien de temps ont duré les travaux de construction de la première ligne du métro parisien inaugurée le 19 juillet 1900?;4;2;1 an;1 an et demi;2 ans;2 ans et demi
+L;1;0;0;Quel roi de France a organisé la fastueuse "rencontre du Drap d'or" avec le roi d'Angleterre Henri VIII?;4;3;Charles VIII;Louis XII;François Ier;Henri II
+L;0;1;0;Quel roi de France, en conflit ouvert avec le pape Boniface VIII, a envoyé ses soldats qui le molestèrent et le retinrent prisonnier dans sa résidence d'Agnani?;4;4;Louis VIII;Louis IX;Philippe III le Hardi;Philippe IV le Bel
+L;0;0;1;Quel pape, en conflit ouvert avec Philippe le Bel, fut molesté et retenu prisonnier dans sa résidence d'Agnani par des soldats du roi?;4;1;Boniface VIII;Benoît XI;Clément V;Jean XXII
+L;0;0;1;Quel chef militaire allemand de la seconde guerre mondiale était surnommé le "Renard du désert"?;4;2;Fritz Bayerlein;Erwin Rommel;Hermann Göring;Heinrich Himmler
+L;1;0;0;Dans quelle ville la grande majorité des rois de France ont-ils  été couronné?;4;2;Paris;Reims;Chartres;Soissons
+L;1;0;0;Dans quelle ville Clovis a-t'il été baptisé, ville choisie ensuite par la grande majorité des rois de France pour leur couronnement?;4;2;Paris;Reims;Chartres;Soissons
+L;0;1;0;Quel est le premier roi de France à avoir été sacré?;4;1;Pépin le Bref;Charles le Chauve;Louis II le Bègue;Hugues Capet
+L;1;0;0;Un seul roi de France a été sacré à Chartres. Quel est-il?;4;4;Hugues Capet;Robert II;Louis VI;Henri IV
+L;1;0;0;Un seul roi de France, depuis Hugues Capet, n'a pas été sacré. Quel est-il?;4;3;François II;Henri IV;Louis XVIII;Charles X
+L;0;1;0;Quel maréchal anglais a battu l'Africa Korps de Rommel à El-Alamein dans le désert de Libye en octobre 1942 pendant la seconde guerre mondiale?;4;2;Wavell;Montgomery;Alexander;Auchinleck
+L;0;0;1;Quel militaire français, commandant en chef des forces de Vichy, retourne sa veste et s'allie aux Alliés lorsqu'ils débarquent en Afrique du nord en novembre 1942?;4;3;Pierre Boisson;Henri Dentz;François Darlan;Henri Giraud
+L;0;0;1;Qui a crée, sous le régime de Vichy, la Milice française qui a collaboré avec la gestapo pour traquer les juifs et les résistants?;4;2;François Darlan;Joseph Darnand;René Bousquet;Henri Giraud
+L;0;0;1;Pendant l'occupation allemande, quel résistant français a été l'auteur du premier attentat contre un militaire allemand?;4;1;Colonel Fabien;Jean Moulin;Georges Guingouin;Henri Rol-Tanguy
+L;0;0;1;Qui représenta la France à Berlin le 8 mai 1945 lors de la signature de la capitulation de l'Allemagne nazie?;3;2;Le général de Gaulle;Le général de Lattre de Tassigny;Le général Leclerc;
+L;0;0;1;Dans quelle ville a été signée la première capitulation allemande du 7 mai 1945?;4;2;Paris;Reims;Strasbourg;Berlin
+L;0;1;0;Dans quelle ville a été signée la seconde capitulation allemande du 8 mai 1945?;4;3;Reims;Strasbourg;Berlin;Moscou
+L;1;0;0;Lequel de ces rois de France a changé six fois de religion?;4;3;Louis XIII;Louis XII;Henri IV;Henri III
+L;0;1;0;Le Palais de l'Elysée est la résidence officielle des présidents de la république depuis:;4;1;La deuxième république;La troisième république;La quatrième république;La cinquième république
+L;0;1;0;Qui fut le premier président de la république à résider à l'Elysée;4;1;Louis Napoléon Bonaparte;Adolphe Thiers;Vincent Auriol;Charles de Gaulle
+L;0;0;1;A quel endroit Napoléon Ier a-t'il signé son acte d'abdication après sa défaite de la bataille de Waterloo?;4;1;Palais de l'Elysée;Palais du Louvre;Château de Saint Germain-en-Laye;Château de Fontainebleau
+L;0;0;1;Le Palais de l'Elysée a été racheté par la maîtresse d'un roi de France qui donna son nom à l'un de ses salons. Qui est-elle?;4;3;Charlotte de Montmorency;La marquise de Montespan;La marquise de Pompadour;La comtesse du Barry
+L;0;0;1;Le Palais de l'Elysée a été racheté par l'épouse d'un maréchal d'empire qui donna son nom au salon du conseil des ministres. Qui est-il?;4;2;Berthier;Murat;Ney;Masséna
+L;1;0;0;A la fin de la seconde guerre mondiale, les Allemands ont utilisé leurs nouveaux missiles balistiques V1 et V2 pour bombarder:;4;2;Paris;Londres;Strasbourg;Moscou
+L;0;0;1;Comment appelait-on les Albigeois, adeptes du catharisme, mouvement religieux hérétique au Moyen Age?;4;3;Les "humbles";Les "pauvres";Les "parfaits";Les "charitables"
+L;0;0;1;Quel pape lança en 1207 la croisade contre les Albigeois?;4;3;Urbain II;Eugène III;Innocent III;Urbain IV
+L;1;0;0;Dans quelle région de France s'est développé le catharisme, ce mouvement religieux hérétique du Moyen Age?;4;1;Languedoc;Provence;Bretagne;Aquitaine
+L;0;1;0;Quelle était le grade de Philippe Pétain au début de la première guerre mondiale?;4;3;Capitaine;Commandant;Colonel;Général
+L;0;0;1;Quel roi de France conduisit en 1226 la croisade contre les Albigeois qui mit fin au mouvement Cathare et permit de réunir le Languedoc au Royaume de France;4;2;Philippe Auguste;Louis VIII;Louis IX;Philippe III le Hardi
+L;0;1;0;Françoise Athénaïs de Rochechouart de Mortemart, favorite de Louis XIV, est plus connue sous le nom de:;4;1;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;1;0;0;Françoise d'Aubigné, seconde épouse de Louis XIV, est plus connue sous le nom de:;4;2;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;0;1;0;Jeanne-Antoinette Poisson, favorite de Louis XV, est plus connue sous le nom de:;4;3;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;0;1;0;Jeanne Bécu, favorite de Louis XV, est plus connue sous le nom de:;4;4;Marquise de Montespan;Madame de Maintenon;Marquise de Pompadour;Comtesse du Barry
+L;1;0;0;Quel est l'aviateur à avoir traversé la Manche en premier?;4;3;Lindbergh ;Nungesser;Blériot;Mermoz
+L;0;1;0;En quelle année Louis Blériot a-t'il traversé la Manche?;4;2;1899;1909;1919;1929
+L;1;0;0;De quelle nationalité était Marie Leszczynska, la femme de Louis XV?;4;1;Polonaise;Russe;Autrichienne;Finlandaise
+L;1;0;0;Quel roi de France avait le surnom de "Bien-aimé"?;4;3;Louis XIII;Louis XIV;Louis XV;Louis XVI
+L;1;0;0;Sous l'Ancien Régime, qui avait le titre de "Monsieur" ?;3;1;Le frère du roi;Le fils ainé du roi;Le frère cadet du fils ainé du roi;
+L;0;0;1;Qui a mis en place un système de gouvernement par conseils appelé la polysynodie?;3;3;Richelieu;Mazarin;Le régent Philippe d'Orléans;
+L;0;1;0;Quel était le degré de parenté entre Louis XV et Philippe d'Orléans qui a assuré la régence au début de son règne?;2;2;Son oncle;Son cousin;;
+L;0;1;0;Quel age avait Louis XV à la mort de son arrière grand-père Louis XIV?;4;1;5 ans;8 ans;12 ans;14 ans
+L;0;1;0;Quel age avait Louis XIV à la mort de son père Louis XIII?;4;1;5 ans;8 ans;12 ans;14 ans
+L;0;1;0;Comment Louis XVIII avait-il surnommé la première chambre des députés en raison du nombre important de députés ultraroyalistes?;4;3;La "Chambre ultra";La "Chambre blanche";La "Chambre introuvable";La "Chambre surprise"
+L;0;1;0;A quelle date Charlemagne a-t'il été couronné empereur par le pape Léon III?;4;1;25 décembre 800;24 décembre 800;4 novembre 800;15 août 800
+L;0;0;1;A quelle date s'est déroulé la célèbre victoire de François Ier à Marignan?;4;1;14 septembre 1515;21 septembre 1515;28 septembre 1515;5 octobre 1515
+L;1;0;0;Que s'est-il passé de dramatique à Paris, le Ier août 1589?;2;1;Henri III est assassiné par Jacques Clément;Henri IV est assassiné par Ravaillac;;
+L;1;0;0;Que s'est-il passé de dramatique à Paris, le 14 mai 1610?;2;2;Henri III est assassiné par Jacques Clément;Henri IV est assassiné par Ravaillac;;
+L;1;0;0;A quelle date l'abolition des privilèges féodaux a-t'elle été votée par les députés de l'Assemblée nationale?;4;1;Dans la nuit du 4 août 1789;Dans la nuit du 5 août 1789;Dans la nuit du 6 août 1789;Dans la nuit du 7 août 1789
+L;0;1;0;A quelle date Louis XIV a-t'il révoqué l' édit de Nantes?;4;1;18 octobre 1685;25 décembre 1661;1er septembre 1715;5 septembre 1638
+L;0;1;0;A quelle date le Second Empire a-t'il été proclamé?;4;4;2 décembre 1851;2 novembre 1850;2 décembre 1849;2 décembre 1852
+L;0;1;0;A quelle date la IIIème République a-t'elle été proclamée?;4;1;4 septembre 1870;14 juillet 1871;31 septembre 1869;1er janvier 1872
+L;0;1;0;La naissance de la France date:;4;1;Du traité de Verdun en 843;Du début du Moyen Age;De la fin de l'Empire romain;Du traité de Paris en 1259
+L;0;0;1;En quelle année Jeanne d'Arc a-t'elle libérée Orléans des Anglais ce qui permis ensuite à Charles VII de se faire sacrer à Reims?;4;3;1409;1419;1429;1439
+L;1;0;0;Dans quelle ville Jeanne d'Arc a-t'elle été brûlée pour hérésie par les Anglais?;4;3;Paris;Bourges;Rouen;Caen
+L;1;0;0;Au profit de quel pays le capitaine Dreyfus a-t'il été accusé à tort d'espionnage?;4;3;L'Angleterre;L'Italie;L'Allemagne;L'Espagne
+L;1;0;0;En quelle année la cinquième république a-t'elle débutée?;4;1;1958;1946;1968;1981
+L;0;1;0;Quelle a été la durée de la Commune, la révolte des Parisiens contre le gouvernement de Thiers?;4;3;100 jours;7 ans;70 jours;1 semaine
+L;0;1;0;Lors de la Seconde guerre mondiale, à quelle date Paris a-t'il été libéré?;4;1;25-août-44;23-nov-44;25-mai-45;23-nov-45
+L;0;0;1;Lors de la Seconde guerre mondiale, à quelle date Strasbourg a-t'il été libéré?;4;2;25-août-44;23-nov-44;25-mai-45;23-nov-45
+L;0;1;0;Qui était Saint-Louis?;4;4;Louis VI;Louis V;François II;Louis IX
+L;1;0;0;Qui a succédé à Louis XII?;4;3;Louis XIII;Henri II;François Ier;Charles X
+L;0;0;1;Quel age avait Louis XVI quand il a été guillotiné?;4;3;67 ans;77 ans;39 ans;49 ans
+L;1;0;0;Comment Louis XI a-t'il été surnommé?;4;1;L'universelle araigne;Le petit manitou;Tonton Louis;Loulou Bécane
+L;0;0;1;Quel roi de France a vécu de 1356 à 1360 dans une prison dorée à Londres?;4;4;Philippe VI de Valois;Charles V;Philippe Ier;Jean II le Bon
+L;0;0;1;Le lycée Louis-le-Grand à Paris fut à l'origine un collège fondé par les jésuites. Comment s'appelait-il?;4;1;Collège de Clermont;Collège de Paris;Collège des jésuites;Collège Saint-Jacques
+L;0;1;0;Quel événement a été appelé le "jeudi noir"?;4;1;La crise boursière de 1929;La crise financière de 2008;La défaite de Waterloo;Le Pen au second tour de l'élection présidentielle
+L;0;0;1;Louis XIII a fait assassiner le conseiller de sa mère qui le méprise. Il s'agit de:;4;1;Concino Concini;Le Père Joseph;Sully Prudhomme;Charles de Luynes
+L;1;0;0;Comment était surnommé Richelieu?;4;2;La cheville cavaleuse;La main de fer dans un gant de velours;La main de velours dans un gant de fer;Le pied de taureau dans un escarpin
+L;0;0;1;En 52 avant J.C., Vercingétorix a vaincu Jules César à Gergovie qui se trouvait à l'emplacement de:;4;3;Dijon;Besançon;Clermont-Ferrand;Perpignan
+L;0;0;1;Où se trouve le piton rocheux de Montségur, place forte des derniers Cathares?;4;2;En Ardèche;En Ariège;Dans les Pyrénées-Atlantiques;Dans la Somme
+L;0;1;0;Nelson a battu la flotte française le 21 octobre 1805, lors de la bataille de Trafalgar qui se situe:;4;2;Au large des Açores;Au large des côtes sud d'Espagne;Près du cap Gris-Nez;Au large d'Alexandrie
+L;0;0;1;Comment est mort Lavoisier en 1794?;4;4;Tué pendant la guerre contre l'Autriche;De la tuberculose;D'une chute lors d'un accident de chasse;Guillotiné
+L;1;0;0;Qui a inventé le stéthoscope en 1816?;4;3;Marcel Debalbec;Yann Poullaouec;René Laennec;Jean Charcot
+L;1;0;0;Louis Pasteur a découvert le vaccin contre:;4;3;La peste;Le choléra;La rage;Le tétanos
+L;0;1;0;A Waterloo, Napoléon croit voir arriver les renforts français du maréchal Grouchy, mais ce sont les troupes:;4;2;Du maréchal Nouvoy-Lha;Du Prussien Blücher;De l'Autrichien Moincherch;De l'Anglais Marlborough
+L;1;0;0;François Ier a remporté la bataille de Marignan. Mais, où se trouve Marignan?;4;1;Près de Milan, en Italie;Près de Zermatt, en Suisse;Dans le Liechtenstein;Au sud d'Innsbruck, en Autriche
+L;1;0;0;En 1588, l'invincible Armada, 130 vaisseaux et 30 000 hommes, fut un échec total. Elle était lancée par:;4;4;Les Français contre les Espagnols;Les Espagnols contre les Français;Les Anglais contre les Espagnols;Les Espagnols contre les Anglais
+L;0;0;1;Le duc de Marlborough, rendu célèbre par la comptine "Malbrouk s'en va-t-en guerre", a bien existé. C'est l'ancêtre de:;4;1;Winston Churchill;Margaret Thatcher;Arnold Schwarzenegger;Mickey Rooney
+L;0;0;1;"Messieurs les Anglais, tirez les premiers!" Au début de quelle bataille cette phrase a-t'elle été prononcée?;4;4;Waterloo;Austerlitz;Wagram;Fontenoy
+L;1;0;0;Wagram est une bataille remportée par:;4;4;Louis XIII;Louis XIV;Louis XV;Napoléon Ier
+L;1;0;0;Napoléon est mort:;3;2;Sur l'île d'Elbe;Sur l'île de Sainte-Hélène;A Waterloo;
+L;0;1;0;Lors de la deuxième guerre mondiale, à quelle date les blindés de la deuxième DB du général Leclerc sont ils rentrés dans Paris?;4;2;25-août-45;25-août-44;25-sept-45;25-sept-44
+L;0;1;0;Quel président américain a donné l'ordre de larguer une bombe atomique sur Hiroshima le 6 août 1945, puis sur Nagasaki le 9 août 1945?;4;2;Franklin Roosevelt;Harry Truman;Calvin Coolidge;Herbert Hoover
+L;0;0;1;Quel est le nom de code de la bombe atomique qui fut larguée le 6 août 1945 sur Hiroshima?;4;3;Dracula;Fat man;Little Boy;Jaguar
+L;0;0;1;Quel est le nom de code de la bombe atomique qui fut larguée le 9 août 1945 sur Nagasaki?;4;2;Dracula;Fat man;Little Boy;Jaguar
+L;0;1;0;Quelle ville de Russie s'est appelée Pétrograd de 1914 à 1924, puis Léningrad de 1924 à 1991, avant de retrouver son nom d'origine à la suite d'un référendum en 1991?;3;1;Saint-Péterbourg;Stalingrad;Volgograd;
+L;0;1;0;Quelle ville de Russie, anciennement Tsaritsyne, s'est appelé Stalingrad de 1925 à 1961?;3;3;Saint-Péterbourg;Léningrad;Volgograd;
+L;1;0;0;Quel dirigeant soviétique a participé en décembre 1943 à la conférence de Téhéran avec Churchill et Roosevelt au cours de laquelle fut décidé le débarquement des forces Alliés en Normandie appelé opération Overload?;2;2;Lénine;Staline;;
+L;0;1;0;Quelle conférence interalliée, tenue en février 1945, a définie les conditions de reconstruction de l'Europe d'après-guerre?;4;4;Conférence de Casablanca;Conférence du Caire;Conférence de Téhéran;Conférence de Yalta
+L;0;1;0;Au cours de quelle conférence, tenue en décembre 1943, fut prise la décision d'un débarquement des forces Alliés en Normandie?;4;3;Conférence de Casablanca;Conférence du Caire;Conférence de Téhéran;Conférence de Yalta
+L;1;0;0;Quel événement a déclenché l'entrée en guerre des Etats-Unis lors de la deuxième guerre mondiale?;4;2;L'attaque de l'URSS par les Allemands en juin 1941;L'attaque japonaise de Pearl Harbour en décembre 1941;Le bombardement de l'Angleterre par les Allemands en août 1940;L'invasion de la Yougoslavie par les Allemands en avril 1941
+L;1;0;0;Quel était le nom de code de l'attaque japonaise de la base américaine de Pearl Harbour de décembre 1941?;4;3;Barbarossa;Cannibal;Tora, tora, tora!;Kamikaze
+L;1;0;0;Pendant la deuxième guerre mondiale, quel général américain était le commandant en chef des forces américaines en Europe?;2;2;Le général Mac Arthur;Le général Eisenhower;;
+L;1;0;0;Pendant la deuxième guerre mondiale, quel général américain était le commandant des forces armées américaines en Extrême-Orient?;2;1;Le général MacArthur;Le général Eisenhower;;
+L;1;0;0;Sully, ministre d'Henri IV, croit en l'agriculture. Ne dit-il pas: Labourage et pâturage sont:;4;3;Les deux pieds de la France;Les deux mains de la France;Les deux mamelles de la France;La plus belle paire de France
+L;0;1;0;De 1716 à 1720, un financier écossais crée en France une bulle spéculative au moyen du papier monnaie. Il s'agit de:;4;3;Averell Dalton;John Silver;John Law;Johnny Walker
+L;1;0;0;Quel savant Français, guillotiné pendant la Révolution, a pronocé la phrase: "Rien ne se perd, rien ne se crée, tout se transforme";4;2;Coulomb;Lavoisier;Gay-Lussac;Berthier
+L;0;1;0;Léonard de Vinci a conçu les plans d'un château juste avant de mourir. Il s'agit:;4;3;Du château de Chenonceaux;Du château d'Azay-le-Rideau;Du château de Chambord;Du château de Blois
+L;0;0;1;Combien d'années a duré la quatrième république?;4;3;4 ans;8 ans;12 ans;16 ans
+L;0;0;1;Combien de gouvernements se sont succéder pendant les douze années qu'a duré la quatrième république?;4;4;10 gouvernements;15 gouvernements;20 gouvernements;25 gouvernements
+L;1;0;0;Qui a fait un coup d'état et pris le pouvoir en Russie en octobre 1917?;2;2;Staline;Lénine;;
+L;1;0;0;Après la mort de Lénine en 1924, qui lui succéda en tant que dirigeant du Parti communiste et de l'URSS?;2;1;Staline;Trotski;;
+L;0;0;1;Quel discours a prononcé le général de Gaulle le 16 juin 1946 pour exposer ses idées sur la nouvelle constitution qu'il souhaite pour la France?;4;1;Le discours de Bayeux;Le discours de Caen;Le discours de Cherbourg;Le discours de Rouen
+L;0;0;1;Quel événement a été le déclencheur de la guerre de 1870 entre la France et la Prusse?;4;1;L'incident diplomatique de la dépêche d'Ems;La tentative d'assassinat de l'ambassadeur de France en Prusse;La tentative d'assassinat de l'ambassadeur de Prusse en France;L'invasion de l'Alsace par la Prusse
+L;0;1;0;Henri Matisse a exposé ses toiles en 1905 au Grand Palais. Quel nouveau style de peinture a-t'il crée?;4;2;Le cubisme;Le fauvisme;Le réalisme;l'impressionnisme
+L;0;1;0;Braque et Picasso ont travaillés ensemble de 1908 à 1914. Quel nouveau style de peinture ont-t'ils crées ?;4;1;Le cubisme;Le fauvisme;Le réalisme;l'impressionnisme
+L;1;0;0;En 1918, André Citroën transforme son usine de munitions qu'il avait fondé en 1915 en usine de construction automobiles. Où se trouvait cette usine?;2;1;Quai de Javel à Paris;Sur l'île Seguin à Boulogne-Billancourt;;
+L;1;0;0;En 1929, Louis Renault installe une usine de construction automobiles:;2;2;Quai de Javel à Paris;Sur l'île Seguin à Boulogne-Billancourt;;
+L;1;0;0;Après la mort de Louis XIV, comment s'appelait le régent qui a gouverné la France jusqu'à la majorité du roi Louis XV?;4;4;Louis d'Orléans;Charles d'Orléans;Gaston d'Orléans;Philippe d'Orléans
+L;0;0;1;Comment s'appelle le parti politique français crée en novembre 1944 par Georges Bidault qui s'illustra pendant la quatrième république?;4;2;Le Parti radical;Le Mouvement républicain populaire;L'Alliance démocratique;La Ligue républicaine nationale
+L;0;1;0;En quelle année l'abbé Pierre a-t'il lancé un appel à la radio pour dénoncer les problèmes de logement et susciter la générosité de la population?;4;3;1950;1952;1954;1956
+L;0;0;1;Comment s'appelle le parti politique crée le 14 avril 1947 par le général de Gaulle?;3;3;Rassemblement pour la France;Rassemblement pour la République;Rassemblement du peuple français;
+L;1;0;0;Pendant quelle guerre la bataille de Diên Biên Phu a-t'elle eu lieu?;4;3;La guerre du Vietnam;La guerre de Corée;La guerre d'Indochine;La guerre d'Algérie
+L;0;0;1;En quelle année le SMIG a-t'il été crée?;4;3;1920;1936;1947;1954
+L;0;1;0;Qui est l'initiateur avec Jean Monnet de la CECA (Communauté Européenne du Charbon et de l'Acier) ce qui lui valut le titre de "père de l'Europe"?;4;4;Pierre Mendès-France;René Pleven;Guy Mollet;Robert Schuman
+L;0;0;1;L'ONU a été crée le 24 octobre 1945. Elle comporte aujourd'hui 193 états membres. Combien d'états membres avait-elle lors de sa création?;4;2;Quarante;Cinquante;Soixante;Soixante dix
+L;1;0;0;L'ONU a été crée le 24 octobre 1945. Combien de membres permanents avait son Conseil de Sécurité lors de sa création?;4;1;Cinq;Dix;Quinze;Vingt
+L;0;1;0;L'ONU a été crée le 24 octobre 1945. Son Conseil de Sécurité comporte 5 membres permanents. Combien de membres non permanents, élus pour 2 ans, comporte-t'il?;4;1;Dix;Vingt;Trente;Quarante
+L;1;0;0;L'ONU a été crée le 24 octobre 1945. Ou se trouve le siège de l'ONU?;4;2;Paris;New York;Bruxelles;Genève
+L;0;0;1;Qui était le chef de la SS et de la Gestapo pendant la deuxième guerre mondiale?;4;1;Heinrich Himmler;Hermann Göring;Erwin Rommel;Sepp Dietrich
+L;0;0;1;Qui commandait l'Afrikakorps (armée allemande d'Afrique du nord) pendant la deuxième guerre mondiale?;4;3;Heinrich Himmler;Hermann Göring;Erwin Rommel;Sepp Dietrich
+L;0;0;1;Qui était le chef de la Luftwaffe (armée de l'air allemande) pendant la deuxième guerre mondiale?;4;2;Heinrich Himmler;Hermann Göring;Erwin Rommel;Sepp Dietrich
+L;0;1;0;Après la deuxième guerre mondiale, qui utilisa pour la première fois l'expression "rideau de fer" pour désigner la frontière symbolique entre l'Europe, les Etats-Unis et les états européens placés sous influence soviétique.;4;1;Winston Churchill;Le général de Gaulle;Harry Truman;Joseph Staline
+L;1;0;0;Quel mur a été surnommé le "Mur de la honte"?;4;1;Le mur de Berlin;Le mur des Lamentations à Jérusalem;Le mur des fédérés à Paris;Le mur de l'Atlantique
+L;0;1;0;En quelle année le mur de Berlin a-t'il été construit?;4;4;1918;1946;1954;1961
+L;0;1;0;En quelle année le mur de Berlin a-t'il été détruit?;4;3;1971;1979;1989;1995
+L;1;0;0;Comment s'est appelé le plan d'aide donné par les Américains aux pays européens après la deuxième guerre mondiale?;4;3;Le plan Truman;Le plan Byrnes;Le plan Marshall;Le plan Roosevelt
+L;1;0;0;Quel président de la République a aboli la peine de mort en France?;4;3;Charles de Gaulle;Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;En quelle année la peine de mort a-t'elle été abolie en France?;4;3;1969;1975;1981;1988
+L;1;0;0;Qui a été nommé chef du Gouvernement Provisoire de la République Française à la fin de la deuxième guerre mondiale?;3;1;Le général de Gaulle;Le général de Lattre de Tassigny;Le général Leclerc;
+L;0;1;0;Qui fut le premier président de la quatrième république?;4;3;Paul Doumer;Albert Lebrun;Vincent Auriol;René Coty
+L;0;1;0;Qui fut le deuxième et dernier président de la quatrième république?;4;4;Paul Doumer;Albert Lebrun;Vincent Auriol;René Coty
+L;0;0;1;En quelle année l' OTAN (Organisation du Traité de l'Atlantique Nord) a-t'il été crée?;4;2;1946;1949;1952;1955
+L;0;0;1;En quelle année l'Allemagne a-t'elle été divisée en deux états: RFA et RDA?;4;2;1946;1949;1952;1955
+L;0;0;1;Quel nom a été donné à la réunification en 1938 du Reich Allemand et de l'Autriche souhaitée par Hitler avant la deuxième guerre mondiale?;4;2;Luftwaffe;Anschluss;Wehrmacht;Blitzkrieg
+L;0;1;0;En quelle année la République Populaire de Chine a-t'elle été proclamée?;4;2;1938;1949;1953;1962
+L;0;0;1;L'un de ces pays africains n'a pas été colonisé par la France au 19ème siècle. Lequel?;4;4;Le Gabon;Le Tchad;La Côte d'Ivoire;Le Ghana
+L;0;0;1;L'affaire des placards (affichettes) a marqué le début de la répression contre les protestants. Un placard a même été retrouvé cloué sur la porte de la chambre du roi. Lequel?;4;1;François Ier;Henri II;Charles IX;Henri III
+L;0;1;0;Une campagne de banquets politiques destinés à manifester le mécontentement envers le gouvernement a été le prélude à:;3;3;La révolution de 1789;La révolte de 1830;La révolution de 1848;
+L;0;0;1;Sous quelle présidence française le SMIG a-t'il été crée?;4;1;Vincent Auriol;Charles de Gaulle;Giscard d'Estaing;François Mitterrand
+L;0;1;0;Quelle responsabilité avait le maire du palais chez les derniers Mérovingiens?;4;4;Les affaires domestiques du roi;Les affaires militaires du roi;Les affaires diplomatiques du roi;Il gouvernait à la place du roi
+L;0;1;0;Sous la dynastie des Mérovingiens, un maire du palais s'est fait élire roi des Francs. Qui est-il?;4;2;Charles Martel;Pépin le Bref;Charlemagne;Louis le Pieux
+L;0;1;0;Qu'offrit le roi de France Charles le Chauve au chef viking Rollon en 911?;4;2;Une rançon pour épargner Paris;Un territoire à l'ouest du royaume qui deviendra la Normandie;D'épouser sa fille;Le trône de France
+L;1;0;0;La République Populaire de Chine a été proclamée le 1er octobre 1949. Qui en fut le premier président de la république?;4;2;Tchang Kaï-Chek;Mao Zedong;Liu Shaoqui;Xi Jinping
+L;0;0;1;En 1921, une route à double voie de 10 kilomètres de long est inaugurée. Dans quel pays cette première autoroute a-t'elle été construite?;4;2;France;Allemagne;Italie;Angleterre
+L;0;0;1;En quelle année la Tunisie a-t'elle obtenue son indépendance?;4;3;1947;1952;1956;1962
+L;0;0;1;En quelle année le Maroc a-t'il obtenu son indépendance?;4;3;1947;1952;1956;1962
+L;0;1;0;En quelle année l'Algérie a-t'elle obtenue son indépendance?;4;4;1947;1952;1956;1962
+L;0;1;0;Quel était l'objectif de la conférence de Bandung qui réunit en 1955 vingt neuf dirigeants d'Etats d'Afrique, d'Asie et du Moyen-Orient.;3;3;Mettre en place un système d'alliance économique;Mettre en place un système de défense militaire commun;Promouvoir l'anticolonialisme, la paix et le développement;
+L;0;0;1;En quelle année l'Inde et le Pakistan ont-ils obtenus leur indépendance?;4;1;1947;1952;1956;1962
+L;0;0;1;En quelle année les Indes néerlandaises ont-elles proclamées leur indépendance sous le nom de république d'Indonésie?;4;1;1945;1947;1952;1956
+L;0;1;0;De quel pays la république d'indonésie était-elle une colonie jusqu'à son indépendance obtenue après la deuxième guerre mondiale?;4;4;La France;L'Angleterre;Le Portugal;Les Pays-Bas
+L;0;0;1;Qui était la mère de Richard Cœur de Lion?;4;1;Aliénor d'Aquitaine;Jeanne de Kent;Blanche de Castille;Elisabeth Woodville
+L;0;1;0;En quelle année David Ben Gourion a-t'il proclamé l'état d'Israël?;4;2;1919;1948;1956;1962
+L;1;0;0;Qui a été le Premier ministre de l'état d'Israël après sa proclamation en 1948?;4;2;Moshé Sharett;Ben Gourion;Golda Meir;Yitzhak Shamir
+L;0;1;0;Pourquoi la reine d'Angleterre Marie Tudor était-elle surnommée "la sanglante"?;4;4;Elle a fait assassiner ses enfants;Elle était cruelle avec ses enfants;Elle a persécuté les catholiques;Elle a persécuté les protestants
+L;0;1;0;Quels accords signés le 18 mars 1962 ont mis fin à la guerre d'Algérie?;4;1;Les accords d'Evian;Les accords de Locarno;Les accords de Matignon;Les accords de Genève
+L;0;0;1;En quelle année la TVA a-t'elle été instituée?;4;4;1919;1936;1946;1954
+L;1;0;0;Comme s'appelle l'édit, signé par Henri IV le 13 avril 1598, qui a mis fin aux guerres de religion?;4;3;L'édit de Saint-Germain;L'édit de Poissy;L'édit de Nantes;L'édit de Blois
+L;0;1;0;Qu'appelait-on, sous l'Ancien Régime, une lettre de cachet?;4;2;Une lettre d'amour envoyée en secret;Une lettre servant à la transmission d'un ordre du roi;Une lettre du roi pour gracier in condamné à mort;Un ordre de condamnation à mort sans jugement préalable
+L;0;0;1;En quelle année Gutenberg a -t'il imprimé sa première bible?;4;3;1251;1351;1451;1551
+L;0;1;0;Quel était le prénom de Robespierre?;4;2;Georges;Maximilien;Jean-Paul;Antoine
+L;0;1;0;Quel était le prénom de Danton;4;1;Georges;Maximilien;Jean-Paul;Antoine
+L;0;0;1;Quel était le prénom de Fouquier-Tinville?;4;4;Georges;Maximilien;Jean-Paul;Antoine
+L;0;0;1;Quel était le prénom de Marat?;4;3;Georges;Maximilien;Jean-Paul;Antoine
+L;0;1;0;Qui a été le premier président de la Tunisie après qu'elle ait obtenue son indépendance en 1956?;4;2;Ben Ali;Bourguiba;Mebazaa;Marzouki
+L;1;0;0;Quelle organisation mondiale a été crée à la fin de la première guerre mondiale?;2;2;L'ONU (Organisation des Nations Unies);La SDN (Société des Nations);;
+L;1;0;0;Quelle organisation mondiale a été crée à la fin de la seconde guerre mondiale?;2;1;L'ONU (Organisation des Nations Unies);La SDN (Société des Nations);;
+L;1;0;0;En quelle année l'ONU a-t'elle été crée?;4;2;1936;1945;1952;1962
+L;1;0;0;Marat était un révolutionnaire radical pendant la Révolution française. Comment est-il mort?;4;4;Guillotiné avec Robespierre;Tué lors de la guerre contre l'Autriche;De la tuberculose;Poignardé dans sa baignoire
+L;0;1;0;Quelle maladie se propagea à la fin de la première guerre mondiale et fit plusieurs millions de morts?;4;1;la grippe espagnole;la siphilis;la variole;la tuberculose
+L;1;0;0;Au Moyen-Age, quel était le nom de l'impôt versé à l'Eglise?;4;2;la gabelle;la dîme;le cens;l'octroi
+L;0;0;1;Comment est mort Charlemagne?;4;4;Infarctus;Peste;Apoplexie;Pleurésie
+L;0;0;1;Quel roi de France a accordé la Normandie aux Vikings?;4;1;Charles le Chauve;Charles le Gros;Charles III le Simple;Louis II le Bègue
+L;0;0;1;Quel roi de France a fondé l'hôpital des Quinze-Vingts pour les aveugles?;4;3;Henri IV;Louis XIV;Saint Louis;François Ier
+L;0;0;1;Combien d'années a durée la guerre d'Algérie?;4;3;4 ans;6 ans;8 ans;10 ans
+L;0;1;0;Quel président de la quatrième République a fait appel au général de Gaulle pour résoudre la crise algérienne?;2;2;Vincent Auriol;René Coty;;
+L;0;0;1;La vignette automobile a été crée pour financer un Fonds national de solidarité pour les personnes agées démunies. En quelle année a-t'elle été crée?;4;4;1926;1936;1946;1956
+L;0;1;0;Qui a épousé Elisabeth de France, la fille d'Henri II?;4;1;Philippe II d'Espagne;Charles Quint;Henri de Navarre;Henri de Guise
+L;1;0;0;Quelle organisation internationale fut l'ancêtre de l'ONU?;4;1;La SDN;La Petite Entente;Le CIPC;L'internationale
+L;0;1;0;Quel était, dans les années 1920, le nouveau quartier de Paris à la mode, fréquenté par les écrivains et les artistes?;4;3;Montmartre;Saint-Germain-des-Prés;Montparnasse;Saint-Michel
+L;0;1;0;Edith Piaf a fait ses débuts sur la scène du Gerny's, un cabaret des Champs-Elysées. Quel était son vrai nom?;4;1;Edith Gassion;Edith Moineau;Edith Gaspar;Edith Leplée
+L;1;0;0;Quel est le nom que Madame "Coco" Chanel a donné à son premier parfum crée en 1921 par Ernest Beaux?;4;4;Numéro 1;Numéro 2;Numéro 4;Numéro 5
+L;0;0;1;Que fabriquait l'entreprise des frères Peugeot, crée en 1832, avant de se lancer dans l'automobile?;4;2;Des outils de jardin;Des moulins à café;Des fers à repasser;Des couteaux
+L;0;1;0;Quelle reine d'Angleterre appelait-on la "Reine Vierge"?;4;4;Marie Stuart;Anne Boleyn;Marie Ière;Elisabeth Ière
+L;1;0;0;Qui appelle-t'on les harkis?;4;4;Les Français d'Algérie qui souhaitaient que l'Algérie reste française;Les Français d'Algérie qui souhaitaient l'indépendance de l'Algérie;Les Algériens qui se sont battus pour l'indépendance de l'Algérie;Les Algériens qui se sont alliés avec les Français pour que l'Algérie reste française.
+L;0;1;0;La crise de Suez a été déclenchée lorsque le président Egyptien a annoncé la nationalisation du canal de Suez qui était sous le contrôle des Anglais et des Français. Qui était ce président?;4;1;Gamal Abdel Nasser;Anouar el-Sadate;Hosni Moubarak;Mohamed Morsi
+L;0;1;0;Le 22 août 1962, le général de Gaulle a échappé de justesse à un attentat perpétré par des partisans de l'OAS dans la banlieue sud de Paris. Où fut commis cet attentat?;4;2;A Antony;Au Petit-Clamart;A Massy;A Corbeil-Essonnes
+L;1;0;0;Quel est le traité qui a donné naissance, le 25 mars 1957, à la Communauté économique européenne (CEE)?;4;2;Le traité de Berlin;Le traité de Rome;Le traité de Paris;Le traité de Maastricht
+L;0;1;0;Combien de pays comportait la Communauté économique européenne (CEE) lors de sa création en 1957?;4;2;4;6;8;10
+L;1;0;0;Combien de fois Napoléon 1er a-t'il abdiqué?;4;2;Une fois;Deux fois;Trois fois;Quatre fois
+L;0;1;0;Parmi ces batailles napoléoniennes, laquelle fut une défaite?;4;1;Leipzig;Wagram;Friedland;Iena
+L;0;0;1;Quel surnom portait la mère de Charles Quint?;4;2;Jeanne la Catholique;Jeanne la Folle;Jeanne la Mauvaise;Jeanne la Fière
+L;0;0;1;Quelles étaient les initiales du parti d'Hitler?;4;1;N.S.D.A.P;D.N.P;K.N.D;N.A.Z.I
+L;0;1;0;Combien d'années dura le règne de Louis XIV?;4;4;48 ans;55 ans;66 ans;72 ans
+L;1;0;0;Où Henri IV a-t'il été assassiné?;4;2;A Nantes;A Paris;A Rouen;A Blois
+L;0;0;1;En quelle année la République de Turquie a-t'elle été fondée en mettant fin à l'empire ottoman?;4;2;1919;1923;1935;1945
+L;0;0;1;Qui fut le premier président de la République de Turquie après sa proclamation en 1923 mettant fin à l'empire ottoman?;4;3;Abdullah Gul;Cemal Gursel;Mustafa Kemal;Kenan Evren
+L;1;0;0;En quelle année l'Allemagne s'est-elle réunifiée avec l'intégration de la RDA dans la RFA?;4;3;1962;1972;1990;2002
+L;1;0;0;Quelle était la capitale de la RFA avant la réunification de l'Allemagne?;4;2;Berlin;Bonn;Munich;Francfort
+L;0;1;0;En 1949, quelle sera la conséquence pour l'Allemagne du blocus de Berlin Ouest imposé par les Russes.;3;3;L'Allemagne est découpée en 4 zones d'occupation;L'Allemagne rentre à l'ONU;L'Allemagne est coupée en 2 états: RDA et RFA;
+L;1;0;0;Comment s'appelle le système de défense militaire entre l'URSS et ses alliés communistes?;3;2;L'alliance atlantique;Le pacte de Varsovie;L'OTAN;
+L;1;0;0;D'avril 1915 à juillet 1916 l'Empire ottoman est responsable de l'un des plus importants génocides du XXème siècle. Quelle population était visée?;4;4;Les juifs;Les grecs;Les tsiganes;Les arméniens
+L;0;0;1;Quelle ville industrielle allemande fut détruite par les bombardements alliés des 13, 14 et 15 février 1945?;3;3;Berlin;Munich;Dresde;
+L;0;1;0;Le sacre de Napoléon Ier, le 2 décembre 1804 à Notre-Dame de Paris, a été immortalisé par le peintre:;4;3;Paul Cézanne;Claude Monet;Jacques-Louis David;Edgar Degas
+L;0;1;0;Quel était le surnom de Louis X?;4;2;Le Maltraité;Le Hutin;Le Long;Le Bel
+L;0;1;0;Quel était le surnom de Philippe IV?;4;1;Le Bel;Le Jeune;Le Long;Le Hutin
+L;0;1;0;Quel était le degré de parenté de Louis XVIII par rapport à Louis XVI?;4;2;Son fils;Son frère;Son petit-fils;Son cousin
+L;1;0;0;Qui fut nommé  roi des Français après la révolte de 1830 (Les "Trois Glorieuses")?;3;3;Louis XVIII;Charles X;Louis-Philippe;
+L;0;1;0;Quel fut le dernier roi de France de la dynastie des Bourbons?;4;3;Louis XVI;Louis XVIII;Charles X;Louis-Philippe
+L;1;0;0;Quel a été le dernier roi français, avec le titre de "roi des Français"?;4;4;Louis XVI;Louis XVIII;Charles X;Louis-Philippe
+L;1;0;0;Quel homme politique français était surnommé le "diable boiteux"?;4;2;L'abbé Sieyés;Talleyrand;Mirabeau;Robespierre
+L;1;0;0;Qui de Gaulle a chargé de préparer la constitution de la Cinquième République en 1958?;4;1;Michel Debré;Guy Mollet;Jacques Chaban-Delmas;Georges Pompidou
+L;1;0;0;Qui fut le premier président de la Cinquième République?;4;3;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;1;0;0;Qui fut le premier Premier ministre du général de Gaulle?;4;2;Georges Pompidou;Michel Debré;Maurice Couve de Murville;Jacques Chaban-Delmas
+L;0;0;1;A l'origine de la cinquième République le président de la république était élu au suffrage universel indirect. En quelle année de Gaulle proposa t'il par référendum son élection au suffrage universel direct?;4;4;1959;1960;1961;1962
+L;1;0;0;Quel est le premier président de la république à effectuer un mandat de 5 ans, la durée précédente étant de 7 ans?;4;3;Valéry Giscard d'Estaing;François Mitterrand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;Quel est le président de la république qui a fait modifier par référendum la durée du mandat présidentiel en le faisant passer de 7 ans à 5 ans?;4;3;Valéry Giscard d'Estaing;François Mitterrand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;Quel est l'article de la constitution de la cinquième république qui permet au gouvernement d'engager sa responsabilité sur le vote d'un projet de loi?;4;3;L'article 49,1;L'article 49,2;L'article 49,3;L'article 49,4
+L;1;0;0;Qui était Vladimir Ilitch Oulianov?;3;1;Lénine;Staline;Trotski;
+L;0;1;0;En quelle année Jacques Chirac a fait modifier par référendum la durée du mandat présidentiel en le faisant passer de 7 ans à 5 ans?;4;2;1996;2000;2004;2007
+L;1;0;0;Comment s'appelle le parti politique fondé en 1958 destiné à soutenir l'action du général de Gaulle revenu au pouvoir?;4;2;RPF;UNR;UMP;RPR
+L;0;1;0;Dans quel pays la France a-t'elle effectué ses premiers essais de bombe atomique?;4;1;Algérie;Maroc;Tunisie;Polynésie française
+L;1;0;0;Quel président de la république a initié le projet franco-britannique Concorde?;4;2;René Coty;Charles de Gaulle;Georges Pompidou;Valéry Giscard d'Estaing
+L;1;0;0;En quelle année la France s'est-elle dotée de la bombe atomique?;4;1;1960;1965;1970;1975
+L;1;0;0;Quel président de la république a doté la France de la bombe atomique?;4;2;René Coty;Charles de Gaulle;Georges Pompidou;Valéry Giscard d'Estaing
+L;1;0;0;Quel surnom les Français ont-ils donné à l'épouse du général de Gaulle?;4;3;Tante Lucie;Cousine Odette;Tante Yvonne;La grande Duduche
+L;0;1;0;En quelle année la 2 CV de Citroën a-t'elle été présentée au salon de l'automobile?;4;1;1948;1955;1960;1965
+L;0;1;0;En quelle année la DS de Citroën a-t'elle été présentée au salon de l'automobile?;4;2;1948;1955;1960;1965
+L;1;0;0;Comment s'appelle le premier satellite artificiel français lancé le 26 novembre 1965?;4;1;Astérix;Obélix;Tintin;Haddock
+L;0;1;0;En quelle année le président américain John Fitzgerald Kennedy a-t'il été assassiné à Dallas?;4;2;1960;1963;1968;1972
+L;0;1;0;En quelle année le pasteur afro-américain Martin Luther King a-t'il été assassiné à Memphis?;4;3;1960;1963;1968;1972
+L;1;0;0;Qui a été jugé responsable de l'assassinat, en 1963, du président John Fitzgerald Kennedy?;4;2;James Earl Ray;Lee Harvey Oswald;Gavrilo Princip;Jack Ruby
+L;1;0;0;Contre qui Victor Hugo était en conflit lorsqu'il s'exila à Jersey?;4;4;Louis XVIII;Charles V;Louis-Philippe;Louis-Napoléon Bonaparte
+L;1;0;0;Qui a prononcé la phrase: "La réforme oui, la chienlit, non!"?;4;1;Charles de Gaulle;Georges Pompidou;François Mitterand;Nicolas Sarkozy
+L;0;1;0;Quelle phrase célèbre le général de Gaulle a-t'il prononcé?;4;2;La réforme oui, l'anarchie, non!;La réforme oui, la chienlit, non!;La réforme oui, la révolution, non!;La réforme oui, les barricades, non!
+L;1;0;0;Qui était le Premier ministre du général de Gaulle pendant le mouvement de contestation de Mai 68?;4;2;Michel Debré;Georges Pompidou;Maurice Couve de Murville;Jacques Chaban-Delmas
+L;0;1;0;Le révolutionnaire marxiste, Ernesto Guevara, dit le "Che", a été capturé et assassiné en octobre 1967 par:;4;3;L'armée équatorienne;L'armée Chilienne;L'armée bolivienne;L'armée argentine
+L;0;0;1;Quelle était la nationalité de naissance d'Ernesto Guevara, dit le "Che"?;4;1;Argentine;Cubaine;Chilienne;Bolivienne
+L;1;0;0;La guerre de Corée, qui s'est déroulée de 1950 à 1953, a été déclenchée par:;2;2;L'invasion de la Corée du Nord par la Corée du Sud;L'invasion de la Corée du Sud par la Corée du Nord;;
+L;1;0;0;Pendant la guerre de Corée, qui s'est déroulée de 1950 à 1953, les Etats-Unis, mandatés par l'ONU, ont aidé:;2;1;La Corée du Sud;La Corée du Nord;;
+L;1;0;0;Pendant la guerre de Corée, qui s'est déroulée de 1950 à 1953, l'URSS et la Chine ont soutenu:;2;2;La Corée du Sud;La Corée du Nord;;
+L;1;0;0;Comment appelle-t'on le mouvement politico-militaire qui défendait l'Algérie française?;3;1;L'OAS;Le FLN;L'Armée secrète;
+L;1;0;0;Comment s'appelle le mouvement qui conduisait la rébellion en Algérie?;3;2;L'OAS;Le FLN;Le PLC;
+L;0;1;0;Le 9 octobre 1890, Clément Ader réussit à faire voler un engin motorisé sur quelques dizaines de mètres. Comment s'appelait son "avion"?;4;2;Alizé;Eole;Ouragan;Mistral
+L;0;0;1;Deux pays sont membres de l'Espace Schengen sans être membres de l'Union Européenne. Lesquels?;4;2;La Suède et la Suisse;La Norvège et la Suisse;La Suède et la Norvège;La Norvège et la Finlande
+L;0;0;1;Le Palais de l'OTAN, siège de l'organisation jusqu'à ce que la France la quitte en 1957, est devenu:;4;1;Le centre universitaire Paris Dauphine;Le centre universitaire Paris Descartes;Le centre universitaire Paris Diderot;Le centre universitaire Pierre et Marie Curie
+L;0;1;0;Le siège de l'OTAN était à Paris jusqu'en 1957, date à laquelle la France quitte l'organisation. Où se trouve-t'il aujourd'hui?;4;2;Berlin;Bruxelles;Luxembourg;Londres
+L;0;1;0;Lors de l'élection présidentielle de 1965, qui a réussit à mettre le général de Gaulle en ballotage?;4;2;Jean-Marie Le Pen;François Mitterrand;Jean Lecanuet;Jean-Louis Tixier-Vignancour
+L;0;0;1;Quel ministre des finances du général de Gaulle a été à l'origine de la création du "Nouveau Franc" mis en circulation le 1er janvier 1960?;4;3;Valéry Giscard d'Estaing;Michel Debré;Antoine Pinay;Maurice Couve de Murville
+L;0;1;0;A quelle date le "Nouveau Franc" a-t'il fait son apparition?;4;2;1er janvier 1955;1er janvier 1960;1er janvier 1965;1er janvier 1970
+L;1;0;0;Sous quelle présidence française le "Nouveau Franc" a-t'il été crée?;4;2;René Coty;Charles de Gaulle;Georges Pompidou;Valéry Giscard d'Estaing
+L;0;0;1;Sous quelle présidence française la troisième semaine de congés payée a-t'elle été accordée?;4;1;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;0;0;1;Sous quelle présidence française la quatrième semaine de congés payée a-t'elle été accordée?;4;3;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;0;0;1;Qui est l'auteur de l'attentat du Petit-Clamart qui a failli tuer le général de Gaulle en 1962?;4;4;Thierry Paulin;Pierre Chanal;Michel Fourniret;Jean Bastien-Thiry
+L;0;1;0;Pouquoi le général de Gaulle a-t'il démissionné en 1969?;4;2;Pour des raisons de santé;Parce que les Français ont dit "non" au référendum sur la régionalisation;Parce qu'il fut inculpé pour avoir triché aux dernières élections;Car il se sentait trop vieux pour terminer son mandat
+L;0;1;0;Lequel de ces présidents de la troisième république a été assassiné?;4;1;Sadi Carnot;Emile Loubet;Félix Faure;Gaston Doumergue
+L;0;0;1;En quelle année le journal télévisé français a-t'il fait son apparition?;4;2;1946;1949;1953;1959
+L;0;0;1;En quelle année la redevance télévisuelle a-t'elle été crée en France?;4;2;1946;1949;1953;1959
+L;0;1;0;Quelle femme de président de la république a été la marraine du paquebot France?;4;2;Mme Germaine Coty;Mme Yvonne de Gaulle;Mme Claude Pompidou;Mme Anne-Aymone Giscard d'Estaing
+L;0;1;0;Quelle était le prénom de la femme du général de Gaulle?;4;4;Germaine;Jeanne;Henriette;Yvonne
+L;0;0;1;Quel président de la troisième république était célibataire lors de son élection et ne se maria que douze jours avant la fin de son septennat?;4;3;Félix Faure;Paul Deschanel;Gaston Doumergue;Paul Doumer
+L;0;0;1;Dans quelle université le mouvement étudiant de contestation de Mai 68 a-t'il débuté?;4;2;L'université Paris Sorbonne;L'université de Nanterre;L'université Paris Dauphine;L'université Pierre et Marie Curie
+L;0;1;0;En quelle année le général de Gaulle a-t'il démissionné et quitté définitivement la vie politique?;4;2;1968;1969;1970;1971
+L;1;0;0;Quel président du Sénat a assumé à deux reprises l'intérim à la tête de l'Etat sans jamais y avoir été élu?;4;3;Gaston Monnerville;René Monory;Alain Poher;Christian Poncelet
+L;0;0;1;Quel nom a été donné à l'opération militaire américaine qui a déclenché la guerre du Vietnam?;4;3;Opération "Torch";Opération "Barbarossa";Opération "Rolling Thunder";Opération "Overload"
+L;0;1;0;Quel président américain a déclenché la guerre du Vietnam en bombardant le Nord-Vietnam qui soutenait la guérilla communiste du Sud-Vietnam?;4;3;Dwight David Eisenhower;John Fitzgerald Kennedy;Lyndon Baines Johnson;Richard Nixon
+L;0;0;1;En quelle année le Vietnam a-t'il été réunifié en un seul état communiste après la fin de la guerre avec les Américains?;4;3;1965;1969;1976;1980
+L;0;0;1;Mohandas Gandhi a lutté contre la présence britannique et milité pour l'indépendance de l'Inde. On le surnommait "Mahatma", ce qui signifie:;4;3;Vêtu de blanc;Seigneur;La grande âme;Sauveur
+L;1;0;0;Qui a été le premier président de la république française?;4;2;Adolphe Thiers;Louis-Napoléon Bonaparte;Patrice de Mac Mahon;Jules Grévy
+L;0;1;0;L'affaire Markovic est une affaire criminelle française sur laquelle certains milieux parisiens tentèrent de greffer un scandale sexuel visant:;4;2;Yvonne de Gaulle;Claude Pompidou;Anne-Aymone Giscard d'Estaing;Danielle Mitterrand
+L;1;0;0;"Le changement dans la continuité" a été le slogan de campagne d'un président de la république française. Lequel?;4;1;Georges Pompidou;François Mitterrand;Jacques Chirac;Valery Giscard d'Estaing
+L;1;0;0;"La force tranquille" a été le slogan de campagne d'un président de la république française. Lequel?;4;2;Georges Pompidou;François Mitterrand;Jacques Chirac;Valery Giscard d'Estaing
+L;0;0;1;Sous quelle présidence française le consortium aéronautique européen Airbus a-t'il été crée?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;0;1;Sous quelle présidence française le premier prototype de TGV d'Alstom a-t'il commencé ses essais?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;0;1;En quelle année le premier prototype de TGV d'Alstom a-t'il commencé ses essais?;4;1;1972;1975;1978;1981
+L;0;0;1;En quelle année le consortium aéronautique européen Airbus a-t'il été crée?;4;1;1970;1975;1980;1985
+L;0;0;1;Sous quelle présidence française le programme spatial européen Ariane a-t'il été lancé?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;0;1;En quelle année le programme spatial européen Ariane a-t'il été lancé?;4;1;1973;1976;1979;1982
+L;0;0;1;En avril 1961, des exilés cubains soutenus par les Etats-Unis ont débarqués dans une baie de Cuba dans le but de renverser le régime de Fidel Castro. Comment s'appelle cette baie?;4;3;La baie des singes;La baie des vaches;La baie des cochons;La baie des moutons
+L;0;0;1;Sur quelle terre Christophe Colomb a-t'il débarqué la première fois lorsqu'il découvrit le continent américain le 28 octobre 1492?;4;4;La Jamaïque;Haïti;Puerto Rico;Cuba
+L;0;0;1;Qui était président des Etats-Unis lors de la Crise de Cuba qui a fait craindre le déclenchement d'un conflit nucléaire entre les Etats-Unis et l'URSS?;4;3;Harry Truman;Dwigt Eisenhower;John Kennedy;Lyndon Johnson
+L;0;0;1;Qui était le dirigeant de l'URSS lors de la Crise de Cuba qui a fait craindre le déclenchement d'un conflit nucléaire entre les Etats-Unis et l'URSS?;4;2;Staline;Khrouchtchev;Brejnev;Andropov
+L;0;0;1;En quelle année eut lieu la crise de Cuba où un avion espion américain repéra sur Cuba des rampes de lancement de fusées à charge nucléaire?;4;3;1954;1958;1962;1966
+L;0;1;0;Qui était le président des Etats-Unis quand la guerre de Corée débuta par l'invasion de la Corée du Sud (soutenue par les Etats-Unis) par la Corée du Nord (soutenue par l'URSS et la Chine)?;4;1;Harry S. Truman;Dwigt D. Eisenhower;John F. Kennedy;Lyndon B. Johnson
+L;0;1;0;Qui était le dirigeant de l'URSS quand la guerre de Corée débuta par l'invasion de la Corée du Sud (soutenue par les Etats-Unis) par la Corée du Nord (soutenue par l'URSS et la Chine)?;4;1;Staline;Khrouchtchev;Brejnev;Andropov
+L;1;0;0;Comment se termina, en 1953, la guerre de Corée qui opposa la Corée du Sud (soutenue par les Etats-Unis) à la Corée du Nord (soutenue par l'URSS et la Chine)?;2;2;Réunification de la Corée en un seul état;La Corée reste divisée en deux états séparés par une zone démilitarisée;;
+L;0;0;1;Combien de temps a duré la guerre du Vietnam?;4;4;Un an;Trois ans;Cinq ans;Dix ans
+L;0;0;1;Combien de temps a duré la guerre de Corée?;4;3;Un an;Deux ans;Trois ans;Quatre ans
+L;1;0;0;Durant quelle guerre les Américains ont-ils versé des millions de litres de napalm destiné à détruire la végétation servant d'abri à leurs adversaires?;4;4;La première guerre mondiale;La deuxième guerre mondiale;La guerre de Corée;La guerre du Vietnam
+L;1;0;0;Par quel roi Mazarin a-t'il été nommé principal ministre d'état en 1642?;4;3;Louis XIV;Louis XV;Louis XIII;Henri IV
+L;1;0;0;Gustave Eiffel a construit la tour Eiffel à Paris mais aussi:;4;2;La tour de Pise;La statue de la Liberté;L'Arc de Triomphe;La cathédrale Notre-Dame
+L;0;1;0;Quelle a été la crise la plus violente de la guerre froide?;4;4;La crise de Berlin;La crise de Londres;La crise des Etats-Unis;La crise de Cuba
+L;1;0;0;Quel titre portait le souverain de la régence d'Alger sous la domination de l'Empire ottoman de 1671 à 1830?;4;3;Le caïd;Le raïs;Le dey;Le calife
+L;0;1;0;Comment était surnommé Edouard de Woodstock, le fils du roi d'Angleterre Edouard III, qui battit Jean II le Bon et le fit prisonnier?;4;3;Le Duc noir;Le Comte noir;Le Prince noir;Le chevalier noir
+L;0;1;0;Pourquoi le Prince noir, fils du roi d'Angleterre Edouard III, était-il surnommé ainsi?;3;1;A cause de la couleur de son armure;A cause de la couleur de son cheval;A cause de la teinture noire sur son visage;
+L;0;0;1;En quelle année la France est-elle passée du calendrier julien au calendrier grégorien?;4;2;1482;1582;1682;1782
+L;0;0;1;Quel roi de France décida d'adopter le calendrier grégorien à la place du calendrier julien?;4;2;François Ier;Henri III;Louis XIII;Louis XV
+L;0;0;1;Lors du passage du calendrier julien au calendrier grégorien:;4;4;On a gagné 5 jours;On a gagné 10 jours;On a perdu 5 jours;On a perdu 10 jours
+L;0;0;1;Comment fut baptisée la baie de New York lorsqu'elle fut découverte en 1524?;4;1;Nouvelle Angoulême;Nouvelle Amsterdam;Nouvelle Venise;Nouvelle Londres
+L;0;1;0;Quel président américain était présent aux accords de Camp David qui a été suivi par la signature du premier traité de paix entre Israël et un pays arabe:  le traité de paix israélo-égyptien de mars 1979 ?;4;3;Richard Nixon;Gerald Ford;Jimmy Carter;Ronald Reagan
+L;1;0;0;Quel président egyptien a obtenu le prix Nobel de la paix suite de la signature en mars 1979 du traité de paix entre l'Egypte et Israël ?;4;2;Gamal Abdel Nasser;Anouar el-Sadate;Soufi Abou Taleb;Hosni Moubarak
+L;0;1;0;La guerre du Kippour est une guerre israélo-arabe qui eut lieu en 1973 et qui eut pour conséquence l'augmentation du prix de pétrole par l'OPEP. Qu'est-ce que le Kippour?;4;4;Le territoire de Syrie où se déroula le conflit;Le territoire du Liban où se déroula le conflit;Le territoire de Jordanie où se déroula le conflit;Le nom du jour de la fête juive où le conflit a débuté
+L;1;0;0;Quel président de la république est à l'origine de la construction du centre Beaubourg à Paris?;4;1;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;0;1;En quelle année le SMIC a-t'il été crée?;4;4;1947;1954;1968;1970
+L;0;0;1;Sous quelle présidence française le SMIC a-t'il été crée?;4;2;Charles de Gaulle;Georges Pompidou;Giscard d'Estaing;François Mitterrand
+L;0;1;0;En quelle année une femme s'est-elle présentée pour la première fois à l'élection présidentielle en France?;4;2;1969;1974;1981;1988
+L;1;0;0;Quelle a été la première femme à se présenter à l'élection présidentielle en France?;4;1;Arlette Laguiller;Huguette Bouchardeau;Marie-France Garaud;Dominique Voynet
+L;0;1;0;Arlette Laguiller est la première femme à s'être présentée à l'élection présidentielle en France. Combien de fois s'est-elle présentée à cette élection?;4;3;4;5;6;7
+L;0;1;0;En quelle année les membres de L'OPEP ont-ils augmentés pour la première fois le prix du pétrole en réaction à la position occidentale lors de la guerre du Kippour?;4;2;1967;1973;1979;1985
+L;0;1;0;En quelle année, suite à la révolution iranienne, le prix du pétrole a-t'il augmenté pour la deuxième fois (deuxième choc pétrolier)?;4;3;1967;1973;1979;1985
+L;1;0;0;Qui a crée la Comédie-Française?;4;2;Louis XIII;Louis XIV;Louis XV;Napoléon Ier
+L;0;0;1;En quelle année les chars russes sont-ils entrés dans Budapest pour stopper par la force le soulèvement du peuple hongrois contre le régime communiste?;4;3;1948;1952;1956;1960
+L;0;1;0;Pendant la Révolution française, qui prononça cette phrase à son bourreau avant d'être guillotiné: "Tu montreras ma tête au peuple, elle en vaut la peine"?;4;1;Danton;Robespierre;Mirabeau;Camille Desmoulins
+L;0;0;1;En quelle année la papauté a-t'elle quitté le Vatican pour s'installer à Avignon?;4;3;1109;1209;1309;1409
+L;0;1;0;Giscard d'Estaing a été le plus jeune président de la cinquième république. Quel âge avait-il lors de son élection? ;4;2;43;48;53;58
+L;0;1;0;En quelle année le changement d'heure a-t'il été adopté en France?;4;2;1973;1976;1979;1982
+L;1;0;0;Quel président de la cinquième république a été victime de l'affaire des diamants de Bokassa?;4;2;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Sous quelle présidence française l'âge de la majorité a-t'il été abaissé à 18 ans?;4;2;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Sous quelle présidence française la loi Veil légalisant l'avortement a-t'elle été votée?;4;2;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;Quel est le premier homme à avoir effectué un vol dans l'espace?;4;4;Neil Armstrong;Alexei Leonov;Alan Shepard;Youri Gagarine
+L;1;0;0;Quel président des Etat-Unis a lancé le programme Apollo, en réponse aux soviétiques qui viennent de réussir le premier vol habité dans l'espace, dont l'objectif est de poser un homme sur la lune avant la fin de la décennie?;4;2;Dwight David Eisenhower;John Fitzgerald Kennedy;Lyndon Baines Johnson;Richard Nixon
+L;0;1;0;En quelle année le premier vol habité dans l'espace a-t'il eu lieu?;4;2;1958;1961;1964;1967
+L;1;0;0;En quelle année le premier homme a-t'il marché sur la lune?;4;3;1965;1967;1969;1971
+L;1;0;0;Quel est le premier astronaute à avoir posé le pied sur la lune?;4;1;Neil Armstrong;Edwin Aldrin;Michael Collins;Charles Conrad
+L;0;1;0;Au cours de quelle mission Apollo l'homme a-t'il marché sur la lune pour la première fois?;4;3;Apollo 9;Apollo 10;Apollo 11;Apollo 12
+L;1;0;0;Quel animal les Russes ont-ils envoyé dans l'espace en 1957?;4;1;Un chien;Un chat;Un singe;Un cochon
+L;0;0;1;Quel président américain signa en 1972 avec l'URSS les premiers accords SALT (SALT I) portant sur la limitation des armements stratégiques?;4;2;Lyndon B. Johnson;Richard Nixon;Gerald Ford;Jimmy Carter
+L;0;0;1;Quel président américain signa en 1979 avec l'URSS les deuxièmes accords SALT (SALT II) portant sur la limitation des armements stratégiques?;4;4;Lyndon B. Johnson;Richard Nixon;Gerald Ford;Jimmy Carter
+L;0;0;1;Quel dirigeant soviétique signa avec les Etats-Unis les accords SALT (SALT et SALT II) portant sur la limitation des armements stratégiques?;4;3;Staline;Khrouchtchev;Brejnev;Andropov
+L;1;0;0;Quel est le président de la république française à avoir exercé le plus long mandat?;4;3;Vincent Auriol;Charles de Gaulle;François Mitterand;Jacques Chirac
+L;0;1;0;En quelle année la durée hebdomadaire du travail est-elle passée de 40 heures à 39 heures?;4;1;1982;1984;1986;2000
+L;0;1;0;En quelle année la durée hebdomadaire du travail est-elle passée de 39 heures à 35 heures?;4;4;1982;1984;1986;2000
+L;0;1;0;Sous quelle présidence française la durée légale du travail est-elle passée de 40 heures à 39 heures?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Sous quelle présidence française la durée légale du travail est-elle passée de 39 heures à 35 heures?;4;4;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;En quelle année l'âge de départ à la retraite est-il passé de 65 ans à 60 ans?;4;1;1982;1984;1986;2000
+L;1;0;0;En quelle année l'âge de départ à la retraite est-il passé de 60 ans à 62 ans?;4;3;1986;2000;2010;2014
+L;1;0;0;Sous quelle présidence française l'âge de départ à la retraite est-il passé de 65 ans à 60 ans?;4;2;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;Sous quelle présidence française l'âge de départ à la retraite est-il passé de 60 ans à 62 ans?;4;4;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;1;0;En quelle année le revenu minimum d'insertion (RMI) a-t'il été instauré?;4;4;1982;1984;1986;1988
+L;1;0;0;Sous quelle présidence française le revenu minimum d'insertion (RMI) a-t'il été instauré?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;En quelle année l'impôt sur les grandes fortunes (IGF) a-t'il été crée?;4;1;1982;1984;1986;1988
+L;0;1;0;En quelle année l'impôt de solidarité sur la fortune (ISF) a-t'il été crée?;4;4;1982;1984;1986;1988
+L;1;0;0;Sous quelle présidence française l'impôt sur les grandes fortunes (IGF) a-t'il été crée?;4;2;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;1;0;0;Sous quelle présidence française l'impôt de solidarité sur la fortune a-t'il été crée?;4;2;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;0;1;En quelle année la Contribution Sociale Généralisée (CSG) a-t'elle été crée?;4;4;1982;1984;1986;1988
+L;0;0;1;Sous quelle présidence française la Contribution Sociale Généralisée (CSG) a-t'elle été crée?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;1;0;0;Quel nom de code a été donné à l'opération militaire déclenchée par une coalition internationale menée par les Etats-Unis contre l'Irak à la suite de son annexion du Koweit en janvier 1991?;4;4;Eagle Claw;Barracuda;Odyssey Dawn;Tempête du désert
+L;0;1;0;Pendant les événements de la période 1984-1988 en Nouvelle-Calédonie, comment s'appelait le parti des indépendantistes?;2;1;Le FLNKS;Le RPCR;;
+L;0;1;0;Pendant les événements de la période 1984-1988 en Nouvelle-Calédonie, comment s'appelait le parti de ceux qui souhaitaient que la Nouvelle-Calédonie reste dans la république?;2;2;Le FLNKS;Le RPCR;;
+L;0;1;0;Pendant les événements de la période 1984-1988 en Nouvelle-Calédonie, qui était le chef du FLNKs, le parti des indépendantistes?;2;1;Jean-Marie Tjibaou;Jacques Lafleur;;
+L;0;1;0;Pendant les événements de la période 1984-1988 en Nouvelle-Calédonie, qui était le chef du RPCR, le parti de ceux qui souhaitaient que la Nouvelle-Calédonie reste dans la république?;2;2;Jean-Marie Tjibaou;Jacques Lafleur;;
+L;0;0;1;Le traité des Pyrénées qui met fin à presque vingt cinq années de guerre entre la France et l'Espagne a été signé le 7 novembre 1659 sur une petite île située au milieu du fleuve côtier Bidassoa entre la France et l'Espagne. Comment s'appelle cette île?;4;1;L'île des Faisans;L'île des perdrix;L'île des moineaux;L'île des canards
+L;0;1;0;Le 18 mai 1990, le TGV Atlantique a battu le record du monde de vitesse sur rail en atteignant la vitesse de:;4;3;315 km/h;415 km/h;515 km/h;615 km/h
+L;0;1;0;En quelle année le TGV Atlantique a-t'il battu le record du monde de vitesse sur rail en atteignant la vitesse de 515 km/h?;4;4;1975;1980;1985;1990
+L;1;0;0;Quel président des Etat-Unis a été contraint de démissioner suite au scandale du Watergate?;4;1;Richard Nixon;Gerald Ford;Jimmy Carter;Ronald Reagan
+L;0;0;1;En quelle année l'URSS a-t'elle disparue pour faire place à la Communauté des Etats indépendants (CEI)?;4;2;1989;1991;1993;1995
+L;1;0;0;Dans quel pays fut perpétré en 1994 un génocide où des centaines de milliers de Tutsis furent assassinés par les Hutus?;4;2;L'Ouganda;Le Rwanda;La Tanzanie;Le Burundi
+L;0;0;1;Quel événement déclencha en 1994 le génocide au Rwanda où des centaines de milliers de Tutsis furent assassinés par les Hutus?;2;1;L'assassinat du président rwandais Juvénal Habyarimana;Une tentative de coup d'état par les Tutsis;;
+L;1;0;0;Qui était le président de la république française au moment de la chute du mur de Berlin en 1989?;4;3;Charles de Gaulle;Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;1;0;Qui était chancelier de la république fédérale d'Allemagne au moment de la chute du mur de Berlin en 1989?;4;3;Willy Brandt;Helmut Schmidt;Helmut Kohl;Gerhard Schröde
+L;0;0;1;Qui était le dirigeant de l'URSS  au moment de la construction du mur de Berlin en 1961?;4;2;Joseph Staline;Nikita Khrouchtchev;Léonid Brejnev;Iouri Andropov
+L;0;1;0;Qui était chancelier de la république fédérale d'Allemagne au moment de la réunification de l'Allemagne en 1990 ?;4;3;Willy Brandt;Helmut Schmidt;Helmut Kohl;Gerhard Schröde
+L;0;1;0;Avec quel chancelier allemand François Mitterrand a-t'il célébré le 22 septembre 1984, au mémorial de Verdun, le souvenir des soldats français et allemands tombés pendant la deuxième guerre mondiale?;4;3;Willy Brandt;Helmut Schmidt;Helmut Kohl;Gerhard Schröde
+L;0;0;1;Qui était le dirigeant de l'URSS lors de son éclatement en 1991?;4;3;Nikita Khrouchtchev;Léonid Brejnev;Mikhaïl Gorbatchev;Boris Eltsine
+L;0;1;0;Quel dirigeant de l'URSS a menée une politique visant à moderniser le pays appelée "Perestroïka"?;4;3;Nikita Khrouchtchev;Léonid Brejnev;Mikhaïl Gorbatchev;Boris Eltsine
+L;1;0;0;Pendant les guerres israélo-arabe comment s'appelaient les combattants palestiniens en lutte contre les Israéliens?;2;2;Les moudjahidin;Les fedayins;;
+L;1;0;0;Comment s'appelaient les résistants Afghans pendant l'invasion de l'Afghanistan par l'URSS de 1979 à 1989?;2;1;Les moudjahidin;Les fedayins;;
+L;0;1;0;En 1978, quel dirigeant de pays arabe a signé les accords de Camp David avec le premier ministre Israélien Menahem Begin en présence du président américain Jimmy Carter?;3;2;Nasser;Anouar el-Sadate;Yasser Arafat;
+L;0;0;1;En 1978, quel dirigeant israélien a signé les accords de Camp David avec le président égyptien Anouar el-Sadate en présence du président américain Jimmy Carter?;4;3;Golda Meir;Yitzhak Rabin;Menahem Begin;Shimon Peres
+L;0;0;1;En quelle année furent signés les accords de Camp David qui ont permis ensuite la signature du premier traité de paix entre Israël et un pays arabe?;4;3;1968;1973;1978;1983
+L;0;0;1;En juin 1982, les Israëliens ont envahi le sud du Liban afin d'éliminer la résistance palestienne et de contraindre la Syrie à quitter le Liban. Quel nom a été donné à cette opération militaire?;4;2;Tempête du désert;Paix en Galilée;Paix au Liban;Libération du Liban
+L;0;0;1;Dans quel pays le mouvement chiite appelé "Hezbollah" a-t'il été fondé?;4;2;Egypte;Liban;Syrie;Iran
+L;0;1;0;Le 28 janvier 1986, quelle navette spatiale américaine explose en vol, quelques secondes après son lancement?;4;4;Columbia;Discovery;Atlantis;Challenger
+L;0;0;1;En quelle année les Américains ont-ils engagé la guerre au Vietnam en bombardant le Nord Vietnam qui soutenait la guérilla communiste du Sud Vietnam?;4;2;1962;1965;1968;1971
+L;0;0;1;En quelle année les accords de Paris ont-ils été signés mettant fin à l'engagement américain  dans la guerre au Vietnam?;4;3;1967;1970;1973;1976
+L;0;0;1;Quel président américain a décidé le retrait des troupes américaines du Vietnam mettant fin à l'engagement américain  dans la guerre au Vietnam?;4;4;Dwight David Eisenhower;John Fitzgerald Kennedy;Lyndon Baines Johnson;Richard Nixon
+L;0;0;1;Quelle est la première femme de l'histoire à avoir été élue chef de gouvernement?;4;1;Sirimavo Bandaranaike;Indira Gandhi;Magaret Thatcher;Golda Meir
+L;1;0;0;Après la seconde guerre mondiale, les crimes nazis ont été jugés lors d'un procès historique, dont la cour se tenait à:;4;2;Berlin;Nuremberg;Francfort;Munich
+L;0;1;0;Les accords d'Evian, signés en 1962, ont mis fin à:;4;1;la guerre d'Algérie;la guerre d'Indochine;la guerre du Vietnam;la guerre de Corée
+L;0;0;1;Les accords de Paris, signés en 1973, ont mis fin à:;4;3;la guerre d'Algérie;la guerre d'Indochine;la guerre du Vietnam;la guerre de Corée
+L;0;1;0;Les accords de Genève,signés en 1954, ont mis fin à:;4;2;la guerre d'Algérie;la guerre d'Indochine;la guerre du Vietnam;la guerre de Corée
+L;0;1;0;En 1882, l'Allemagne, l'Autriche-Hongrie et l'Italie ont signés un accord défensif nommé:;2;1;La Triple-Alliance;La Triple-Entente;;
+L;0;1;0;Quel est le nom de l'accord passé entre la France, l'Angleterre et la Russie avant la première guerre mondiale?;2;2;La Triple-Alliance;La Triple-Entente;;
+L;0;1;0;En quelle année le nouveau franc a-t'il fait son apparition en France?;4;2;1955;1960;1965;1970
+L;0;1;0;Sous quelle présidence française le nouveau franc a-t'il été crée?;4;3;Vincent Auriol;René Coty;Charles de Gaulle;Georges Pompidou
+L;0;0;1;En quelle année le franc est-il devenu la nouvelle monnaie en France en remplacement de la livre?;4;1;1795;1815;1835;1855
+L;1;0;0;En quelle année l'euro est-il devenu la nouvelle monnaie en remplacement du franc?;4;2;1997;1999;2003;2005
+L;1;0;0;Sous quelle présidence française l'euro est-il devenu la nouvelle monnaie en remplacement du franc?;4;3;Valéry Giscard d'Estaing;François Mitterrand;Jacques Chirac;Nicolas Sarkozy
+L;0;0;1;En quelle année une république islamique a-t'elle été instituée en Iran mettant fin à l'état impérial dirigé par le chah Mohammad Reza Pahlavi?;4;2;1975;1979;1983;1987
+L;0;1;0;Qu'est-il advenu au chah d'Iran après la révolution islamique de 1979?;4;4;Il s'est suicidé;Il a été assassiné par un révolutionnaire islamique;Il a été jugé puis emprisonné par le nouveau régime;Il s'est exilé en Egypte
+L;0;0;1;Qui était le chah d'Iran lors de la révolution islamique de 1979?;4;3;Ahmad Shah Qajar;Reza Chah;Mohammad Reza Pahlavi;Reza Pahlavi
+L;0;1;0;Qui a été le Guide suprême de la révolution après l'instauration en 1979 de la république islamique en Iran?;4;1;Rouhollah Khomeini;Ali Khamenei;Mohammad Ali Rajai;Hassan Rohani
+L;0;1;0;L'ayatollah Khomeini, Guide de la révolution en Iran après la révolution islamique de 1979, était de confession:;2;1;chiite;sunnite;;
+L;0;0;1;Dans quel pays l'ayatollah Khomeini se trouvait-il lorsqu'il revint en Iran après le départ du chah en 1979 pour devenir le Guide suprême de la révolution islamique?;4;4;Egypte;Angleterre;Allemagne;France
+L;0;0;1;Quel événement a contribué au premier choc pétrolier de 1973?;2;1;La guerre du Kippour;La révolution islamique en Iran;;
+L;0;0;1;Quel événement a contribué au deuxième choc pétrolier de 1979?;2;2;La guerre du Kippour;La révolution islamique en Iran;;
+L;0;0;1;Le 8 septembre 1978, ont eu à Téhéran des émeutes violemment réprimées qui ont été le point de départ de la révolution islamique. Comment a-t'on nommé cette journée?;4;4;Le lundi noir;Le mardi noir;Le jeudi noir;Le vendredi noir
+L;0;0;1;La guerre entre l'Iran et l'Irak a débutée en 1980. Combien d'années a-t'elle duré?;4;4;Cinq ans;Six ans;Sept ans;Huit ans
+L;0;1;0;En quelle année la guerre d'Algérie a-t'elle débuté?;4;4;1945;1947;1951;1954
+L;0;0;1;Quel roi de France a été surnommé "Le Père du Peuple"?;4;2;Louis XI;Louis XII;Henri II;Henri III
+L;0;0;1;Quel roi de France a été surnommé "Le Prudent"?;4;1;Louis XI;Louis XII;Henri II;Henri III
+L;0;1;0;Quel roi de France a été surnommé "Le Restaurateur des Lettres"?;4;1;François Ier;Henri IV;Louis XIII;Louis XIV
+L;0;0;1;Quel roi de France a été surnommé "Le Juste"?;4;3;François Ier;Henri IV;Louis XIII;Louis XIV
+L;1;0;0;Quel roi de France a été surnommé "Le Bien Aimé"?;4;4;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;1;0;0;Quel roi de France a été surnommé "Le Roi Soleil"?;4;3;Henri IV;Louis XIII;Louis XIV;Louis XV
+L;0;0;1;Qui était le dirigeant soviétique quand l'URSS a envahi l'Afghanistan en 1979?;4;3;Staline;Khrouchtchev;Brejnev;Andropov
+L;0;1;0;Ahmad Shah Massoud fut un des leaders de la rebellion contre l'URSS quand ce dernier a envahi son pays en 1979. De quel pays s'agit-il?;4;3;Le Turkménistan;Le Tadjikistan;L'Afghanistan;Le Pakistan
+L;0;0;1;Combien d'années a duré l'occupation soviétique en Afghanistan commencée en 1979?;4;4;Quatre ans;Six ans;Huit ans;Dix ans
+L;0;0;1;Qui était le dirigeant soviétique quand l'URSS s'est retiré de l'Afghanistan après dix années d'occupation?;4;4;Khrouchtchev;Brejnev;Andropov;Gorbatchev
+L;0;1;0;En quelle année les soviétiques se sont-ils retirés de l'Afghanistan après dix années d'occupation?;4;3;1979;1984;1989;1994
+L;0;1;0;En quelle année s'est déroulée la bataille de Verdun?;4;3;1914;1915;1916;1917
+L;0;1;0;Qui était président du conseil pendant la première guerre mondiale?;4;1;Georges Clémenceau;Raymond Poincaré;Gaston Doumergue;Félix Faure
+L;0;0;1;A quelle date le traité de Versailles qui a mis fin à la première guerre mondiale a-t'il été signé?;4;4;Novembre 1919;Décembre 1918;Avril 1919;Juin 1919
+L;0;1;0;Qui fut le premier ministre de l'Inde lorsqu'elle devint indépendante en 1947?;4;3;Tito;Nasser;Nehru;Gandhi
+L;0;0;1;En quelle année La Savoie et le comté de Nice, qui faisaient partie du royaume de Piémont-Sardaigne, ont-ils été rattachés à la France?;4;3;1850;1855;1860;1865
+L;0;0;1;Qui a obtenu le rattachement de la Savoie et du comté de Nice à la France?;4;4;Louis XIV;Napoléon Ier;Louis-Philippe;Napoléon III
+L;0;1;0;En 1930, comment s'appelle la grande marche faite par Gandhi ayant pour objectif l'indépendance de l'Inde?;4;1;La marche du sel;La marche de l'espoir;La longue marche;La marche pour la liberté
+L;0;1;0;Comment est mort Gandhi, le leader du mouvement nationaliste indien et apôtre de la non-violence?;4;1;Il a été assassiné;Il est mort de la tubercose;Il est mort en prison;Il s'est suicidé
+L;0;0;1;En quelle année le Pakistan oriental est-il devenu indépendant sous le nom de Bangladesh?;4;4;1947;1954;1962;1971
+L;1;0;0;Quelle bataille de Napoléon Ier a été surnommée la "bataille des  trois empereurs"?;4;1;La bataille d'Austerlitz;La bataille de Wagram;La bataille de Friedland;La bataille de Leipzig
+L;0;0;1;Quelle bataille de Napoléon Ier a été appelée la bataille des Nations?;4;4;La bataille d'Austerlitz;La bataille de Wagram;La bataille de Friedland;La bataille de Leipzig
+L;0;0;1;Pendant la guerre de Cent Ans, quel roi de France a nommé Bertrand du Guesclin connétable de France, c'est-à-dire chef des armées?;4;2;Jean II le Bon;Charles V;Charles VI;Charles VII
+L;1;0;0;Qui fut le premier chirurgien à réaliser une greffe du cœur en 1967?;3;3;L'américain Norman Shumway;Le français Christian Cabrol;Le sud-africain Chris Barnard;
+L;0;0;1;En quelle année Coluche a-t'il crée les Restaurants du cœur?;4;3;1979;1982;1985;1988
+L;1;0;0;Quel président de la république a signé le traité de Maastricht conduisant à la création de l'Union Européenne?;4;3;Georges Pompidou;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac
+L;0;0;1;En quelle année le traité de Maastricht conduisant à la création de l'Union Européenne a-t'il été signé?;4;2;1989;1992;1995;1998
+L;1;0;0;Quel est le traité qui a donné naissance en 1992 à l'Union Européenne?;4;3;Le traité de Rome;Le traité de Paris;Le traité de Maastricht;Le traité de Lisbonne
+L;1;0;0;Quel nom porte l'accord signé en 1985 qui a instauré la libre circulation des personnes entre les états signataires.;4;4;L'accord de Munich;L'accord de Locarno;L'accord de Matignon;L'accord de Schengen
+L;0;0;1;En quelle année le service militaire obligatoire a-t'il été supprimé?;4;3;1991;1994;1997;2000
+L;0;1;0;Sous quelle présidence française le service militaire obligatoire a-t'il été supprimé?;4;3;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;0;1;En 1995, l'armée serbe a massacré la population musulmane de la ville de:;4;1;Srebrenica;Sarajevo;Pristina;Podgorica
+L;1;0;0;Quel état de l'ex-Yougoslavie est le dernier état à avoir obtenu son indépendance en 2008, indépendance contestée par la Serbie et la Russie?;4;4;Slovénie;Croatie;Monténégro;Kosovo
+L;1;0;0;Qui était le dirigeant de la Confédération de Yougoslavie lors des massacres par les serbes des populations croates et musulmanes?;4;1;Milosevic;Tito;Tomic;Milutinovic
+L;1;0;0;Quelle est la guerre qui, durant les trente glorieuses, a suscité le plus grand mouvement de protestation?;4;3;La guerre du Biafra;La guerre de Corée;la guerre du Vietnam;La guerre des Six jours
+L;0;0;1;Le président socialiste chilien Salvador Allende a été renversé en 1973 par un coup d'état dirigé par Augusto Pinochet. Comment Salvador Allende est-il mort?;4;1;Il s'est suicidé;Il est mort en prison;Il a été fusillé;Il a été tué lors de sa fuite pendant le coup d'état
+L;1;0;0;Qui a instauré un régime dictatorial au Chili en 1973 après avoir renversé le président socialiste Salvador Allende?;4;2;Fidel Castro;Augusto Pinochet;Oliveira Salazar;Francisco Franco
+L;1;0;0;Qui a dirigé la révolution cubaine qui renversa en 1959 le régime dictatorial du général Fulgencio Batista?;4;1;Fidel Castro;Augusto Pinochet;Oliveira Salazar;Francisco Franco
+L;1;0;0;Qui dirigea de 1939 à 1975 un régime politique dictatorial en Espagne avec le titre de Caudillo?;4;4;Fidel Castro;Augusto Pinochet;Oliveira Salazar;Francisco Franco
+L;0;0;1;A partir de 1979, quel dirigeant chinois a fait évoluer l'économie de la Chine vers le capitalisme et le libéralisme tout en maintenant un fort contrôle étatique?;4;4;Tchang Kaï-Chek;Mao Zedong;Zhou Enlai;Deng Xiaoping
+L;0;0;1;Quel est le premier américain à avoir effectuer, en 1962, un vol orbital autour de la terre près de 10 mois après le vol inaugural du soviétique Youri Gagarine?;4;1;John Glenn;Michael Collins;Neil Armstrong;Buzz Aldrin
+L;0;0;1;En quelle année, Hong Kong a-t'il été rétrocédé à la Chine par les Britanniques?;4;3;1990;1994;1997;2000
+L;0;1;0;Les Khmers Rouges étaient des guérilleros communistes:;4;2;chinois;cambodgiens;coréens;birmans
+L;1;0;0;Le titre de Caudillo désignait:;4;4;Mussolini;Che Guevara;Salazar;Franco
+L;0;1;0;Dans quel pays Salazar a-t'il été un dictateur?;4;3;Espagne;Chili;Portugal;Mexique
+L;0;0;1;En quelle année le PACS (Pacte civile de solidarité) a-t'il été créé?;4;2;1995;1999;2003;2006
+L;0;0;1;En quelle année la CMU (Couverture médicalle universelle) a-t'elle été créé?;4;2;1995;2000;2005;2010
+L;0;1;0;En quelle année le RPR (Rassemblement pour la République) a-t'il été créé?;4;1;1976;1989;2002;2007
+L;1;0;0;Qui a été le fondateur en 1976 du RPR (Rassemblement pour la République)?;4;3;Valéry Giscard d'Estaing;François Mitterand;Jacques Chirac;Nicolas Sarkozy
+L;0;1;0;En quelle l'année le RPR a-t'il été dissout pour devenir l'UMP (Union pour un Mouvement Populaire)?;4;3;1976;1989;2002;2007
+L;0;1;0;En quelle année l'UDF (Union pour la démocratie française) a-t'il été crée?;4;1;1978;1989;2002;2007
+L;0;0;1;Qui a été le fondateur en 1978 de l'UDF (Union pour la démocratie française)?;4;1;Michel Poniatowski;Valéry Giscard d'Estaing;François Bayrou;Jacques Chirac
+L;0;1;0;En quelle année l'UDF a-t'il été dissout pour devenir le MoDem (Mouvement Démocrate)?;4;4;1976;1989;2002;2007
+L;1;0;0;Qui a été le fondateur en 2007 du MoDem (Mouvement Démocrate)?;4;2;Valéry Giscard d'Estaing;François Bayrou;Jacques Chirac;Nicolas Sarkozy
+L;0;1;0;Quel traité, signé en 2007, a permis la relance du processus européen après la non ratification par les pays membres du traité constitutionnel européen?;4;4;Traité de Rome;Traité de Paris;Traité de Nice;Traité de Lisbonne
+L;1;0;0;Sous quelle présidence française le traité de Lisbonne a-t'il été signé?;4;3;François Mitterrand;Jacques Chirac;Nicolas Sarkozy;François Hollande
+L;1;0;0;En janvier 1910, quelle catastrophe toucha la ville de Paris?;4;2;Un incendie;Une inondation;Un séisme;Une épidémie
+L;1;0;0;Comment s'appelait l'épée de Charlemagne?;4;2;L'invincible;La joyeuse;La justice;La liberté
+L;1;0;0;Qui a réalisé la fresque du plafond de la chapelle Sixtine à Rome?;4;4;Donatello;Léonard de Vinci;Raphaël;Michel-Ange
+L;0;1;0;Lequel de ces rois de France n'est pas un fils d'Henri II?;4;3;Henri III;François II;Louis XII;Charles IX
+L;0;0;1;Qui fut le principal instigateur de la conférence de Bandung de 1955 dont l'objectif était de promouvoir l'anticolonialisme, la paix et le développement des pays dominés?;4;2;Tito;Nehru;Nasser;Zhou Enlai
+L;0;1;0;Dans quel pays se déroula la conférence de Bandung de 1955 dont l'objectif était de promouvoir l'anticolonialisme, la paix et le développement des pays dominés?;4;3;Inde;Chine;Indonésie;Egypte
+L;0;0;1;Combien de pays ont participé à la conférence de Bandung de 1955 dont l'objectif était de promouvoir l'anticolonialisme, la paix et le développement des pays dominés?;4;3;9;19;29;39
+L;0;0;1;En quelle année eut lieu la conférence de Bandung dont l'objectif était de promouvoir l'anticolonialisme, la paix et le développement des pays dominés?;4;2;1945;1955;1965;1975
+L;1;0;0;Qui était à la tête de l'URSS pendant la seconde guerre mondiale?;4;3;Trotski;Lénine;Staline;Khrouchtchev
+L;1;0;0;Qui succéda à Staline à la tête de l'URSS après sa mort en 1953 ?;4;2;Lénine;Khrouchtchev;Brejnev;Andropov
+L;0;0;1;En quelle année le colonel Nasser, à la tête du mouvement des officiers libres, a-t'il renversé le roi Farouk et proclamé la république d'Egypte?;4;2;1922;1953;1958;1961
+L;0;0;1;En quelle année l'Egypte est-elle devenue un royaume indépendant en mettant fin au protectorat britannique en vigueur depuis 1882?;4;1;1922;1953;1958;1961
+L;0;0;1;En quelle année l'Indonésie est-elle devenue indépendante sous le nom de Rébublique d'Indonésie?;4;2;1922;1949;1958;1961
+L;1;0;0;Qui occupait l'Indonésie avant son indépendance obtenue en 1949?;4;3;Les Français;Les Anglais;Les Hollandais;Les Américains
+L;0;1;0;Parmi ces états d'Afrique, lequel n'était pas une ancienne colonie française?;4;3;Mauritanie;Tchad;Angola;Niger
+L;0;1;0;Quel empire était appelé "empire du Milieu"?;4;4;L'empire de Russie;L'empire du Japon;L'empire ottoman;L'empire de Chine
+L;0;0;1;Qui est le dernier empereur de Chine, de la dynastie des Qin, qui dut abdiquer en 1912?;4;2;Nurhachi;Puyi;Huang Taiji;Kangxi
+L;0;1;0;Quel nom a-t'on donné au mouvement de retaite de Mao et de ses partisans communistes en direction du nord de la Chine pour échapper au régime nationaliste de Tchang Kaï-chek?;4;3;La marche du sel;La marche de l'espoir;La longue marche;La marche pour la liberté
+L;0;1;0;Qui succéda à Mao Zedong à la tête de la Chine après sa mort en 1976?;4;2;Tchang Kaï-Chek;Deng Xiaoping;Liu Shaoqui;Xi Jinping
+L;0;1;0;Quel dirigeant a été surnommé le "Grand Timonier"?;4;2;Tchang Kaï-Chek;Mao Zedong;Liu Shaoqui;Xi Jinping
+L;0;1;0;Comment s'appelle le programme lancé par Mao Zedong en 1958 pour relancer l'économie chinoise qui se solda par un véritable désastre?;4;1;Le Grand Bond en avant;La Révolution culturelle;La grande marche;Le Grand Saut vers la modernisation
+L;0;0;1;Comment s'appelle le satellite géostationnaire lancé le 24 décembre 1979 par la première fusée européenne Ariane 1?;4;2;Astérix;Obélix;Tintin;Haddock
+L;0;0;1;Quelle est la dernière version de la fusée européenne Ariane?;4;3;Ariane 3;Ariane 4;Ariane 5;Ariane 6
+L;0;0;1;En quelle année la fusée européenne Ariane 1 lança t'elle son premier satellite?;4;2;1973;1979;1985;1990
+L;0;0;1;Comment a-t'on surnommé le commandant Massoud, chef de la résistance afghane à la tête des moudjahidines, lors de l'invasion de l'Afghanistan par l'URSS en 1979?;4;2;Le Lion du désert;Le lion du Panshir;Le tigre afghan;Le combattant de la foi
+L;0;1;0;Sous la troisème république, l' Indochine française se composait des trois pays suivants:;4;1;Vietnam, Laos, Cambodge;Vietnam, Laos, Thaïlande;Vietnam, Cambode, Thaïlande;Laos, Cambodge, Thaïlande
+L;0;0;1;En quelle année, le Cambodge, protectorat français depuis 1863, a-t'il obtenu son indépendance?;4;2;1946;1953;1960;1967
+L;0;0;1;Protectorat français depuis 1863, quel roi du Cambodge a obtenu l'indépendance de son pays en 1953?;4;4;Norodom 1er;Sisowath;Monivong;Sihanouk
+L;1;0;0;Comment s'appelle les embarcations utilisées par les Sud-Vietnamiens pour fuir leur pays après la chute du Sud-Vietnam en 1975?;4;2;Les ferry-boat;Les boat-people;les liberty-boat;Les crossing-boat
+L;1;0;0;Quel président américain a aboli l'esclavage aux Etats-Unis?;4;3;George Washington;Thomas Jefferson;Abraham Lincoln;Franklin D. Roosevelt
+L;0;0;1;Combien de présidents des Etats-Unis ont été assassinés pendant leur mandat?;4;2;Deux;Quatre;Huit;Douze
+L;0;0;1;Quel est le premier président des Etats-Unis à avoir été assassiné?;4;2;James Abram Garfield;Abraham Lincoln;John Fitzgerald Kennedy;William McKinley
+L;0;0;1;Lors de la Guerre de Sécession aux Etats-Unis, combien d'états du Sud ont fait sécession pour former une "Confédération des Etats d'Amérique"?;4;2;Cinq;Onze;Dix huit;Vingt cinq
+L;1;0;0;Qui était le président des Etats-Unis pendant la Guerre de Sécession?;4;3;George Washington;Thomas Jefferson;Abraham Lincoln;Franklin D. Roosevelt
+L;1;0;0;Qui a permis par sa mobilisation et son combat à l'interdiction de toute discrimination et ségrégation aux Etats-Unis?;4;2;Benjamin Franklin;Martin Luther King;Nelson Mandela;Abraham Lincoln
+L;1;0;0;Dans quelle ville le président des Etats-Unis John Fitzgerald Kennedy a-t'il été assassiné en 1963?;4;3;Denver;Detroit;Dallas;New-York
+L;0;0;1;Che Guevara a été fait prisonnier et exécuté en 1967 par:;4;3;L'armée chilienne;L'armée brésilienne;L'armée bolivienne;L'armée argentine
+L;1;0;0;Quel dissident soviétique a obtenu le prix Nobel de littérature en 1970?;4;3;Mikhaïl Kukobaka;Andreï Sakharov;Alexandre Soljenitsyne;Viatcheslav Igrounov
+L;1;0;0;Quel dissident soviétique a obtenu le prix Nobel de la paix en 1975?;4;2;Mikhaïl Kukobaka;Andreï Sakharov;Alexandre Soljenitsyne;Viatcheslav Igrounov
+L;1;0;0;Dans quel pays se trouve la centrale nucléaire de Tchernobyl dont un réacteur a explosé en 1986 provoquant une catastrophe sans précédent?;4;2;Roumanie;Ukraine;Pologne;Russie
+L;0;1;0;En quelle année s'est produit l'explosion d'un réacteur de la centrale nucéaire de Tchernobyl provoquant une catastrophe d'une ampleur sans précédent?;4;3;1972;1980;1986;1995
+L;0;0;1;En quelle année ont eu les manifestations de la place Tian'anmen à Pékin qui se terminèrent par une violente répression et des centaines de morts?;4;3;1975;1982;1989;1995
+L;0;0;1;Qui était le dirigeant de l'URSS lors des manifestations de la place Tian'anmen à Pékin qui se terminèrent par une violente répression et des centaines de morts?;4;3;Nikita Khrouchtchev;Léonid Brejnev;Mikhaïl Gorbatchev;Boris Eltsine
+L;0;1;0;Quelle colonie française a été vendue aux Etats-Unis par Napoléon 1er?;3;1;La Louisiane;Le Québec;Les Antilles;
+L;0;1;0;Quel roi d'Angleterre a fondé l'Eglise anglicane parce qu'il voulait divorcer?;4;2;Henri VII;Henri VIII;Edouard V;Edouard VI
+L;1;0;0;Quelle femme succéda à Michel Rocard en 1991 et devint la première femme Premier ministre en France?;4;2;Elisabeth Guigou;Edith Cresson;Françoise Giroud;Simone Veil
+L;1;0;0;De quand datent les RTT (réductions du temps de travail) en France?;4;1;1998;2002;2007;2012
+L;1;0;0;En quelle année la France est-elle devenue pour la première fois championne du monde de football?;4;3;1990;1994;1998;2002
+L;1;0;0;En quelle année le Concorde s'est-il écrasé après son décollage de Roissy en faisant 113 victimes?;4;2;1995;2000;2005;2010
+L;1;0;0;A quelle date les deux tours du World Trade Center à New-York se sont-elles effondrées après avoir été percutées par deux avions de ligne?;4;3;11-sept-99;11-sept-00;11-sept-01;11-sept-02
+L;1;0;0;En quelle année un tsunami a-t'il provoqué un grave accident nucléaire à Fukushima au Japon?;4;3;2003;2007;2011;2015

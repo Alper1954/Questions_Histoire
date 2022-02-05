@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="aperr.android.questionsdhistoire"
+    android:versionCode="5"
+    android:versionName="1.2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/questions_histoire"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="aperr.android.questionsdhistoire.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="aperr.android.questionsdhistoire.Question" />
+        <activity android:name="aperr.android.questionsdhistoire.Parameters" />
+        <activity android:name="aperr.android.questionsdhistoire.FinPartie" />
+        <activity android:name="aperr.android.questionsdhistoire.Description"></activity>
+    </application>
+
+</manifest>

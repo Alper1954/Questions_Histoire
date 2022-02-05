@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="aperr.android.questionsdhistoire.Question"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingBottom="16dp"
+        android:background="@drawable/background_gradient"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000000"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:text="@string/fin"
+                android:textSize="30sp"
+                android:textColor="#ffffff"/>
+
+            <TextView
+                android:id="@+id/finPartie"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:text=""
+                android:textSize="20sp"
+                android:textColor="#ffffff"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:paddingTop="0dp"
+            android:paddingBottom="0dp"
+            android:background="@drawable/black_box"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="30dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/score"
+                    android:textSize="16sp"
+                    android:textColor="#ffff00"/>
+
+                <TextView
+                    android:id="@+id/textScore"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textSize="20sp"
+                    android:textColor="#ffff00"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/repOK"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:paddingLeft="30dp"
+                android:visibility="gone"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/repOk"
+                    android:textSize="16sp"
+                    android:textColor="#ffff00"/>
+
+                <TextView
+                    android:id="@+id/reponses"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="15/18"
+                    android:textSize="20sp"
+                    android:textColor="#ffff00"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/bestScore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:paddingLeft="30dp"
+                android:visibility="gone"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/best_score"
+                    android:textSize="16sp"
+                    android:textColor="#ffffff"/>
+
+                <TextView
+                    android:id="@+id/record"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="35"
+                    android:textSize="20sp"
+                    android:textColor="#ffffff"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+        <TextView
+            android:id="@+id/cadeau"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/cadeau"
+            android:textSize="18sp"
+            android:textColor="#000000"
+            android:visibility="gone"
+            android:background="@drawable/solution_box"/>
+
+        <TextView
+            android:id="@+id/winner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/winner"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:visibility="gone"
+            android:background="@drawable/solution_box"/>
+
+        <TextView
+            android:id="@+id/winner2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/winner2"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:visibility="gone"
+            android:background="@drawable/solution_box"/>
+
+        <TextView
+            android:id="@+id/looser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/looser"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:visibility="gone"
+            android:background="@drawable/solution_box"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/buttonRejouez"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/Jouez"
+                android:textColor="#000000"
+                android:background="@drawable/button_green"/>
+
+            <Button
+                android:id="@+id/buttonParam"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/param"
+                android:textColor="#ffffff"
+                android:background="@drawable/button_gris"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/share"
+            android:layout_width="180dp"
+            android:layout_height="54dp"
+            android:layout_marginTop="4dp"
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/button_share" />
+
+        <Button
+            android:id="@+id/share_en"
+            android:layout_width="180dp"
+            android:layout_height="54dp"
+            android:layout_marginTop="4dp"
+            android:visibility="gone"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/button_share_en" />
+
+    </LinearLayout>
+
+</ScrollView>

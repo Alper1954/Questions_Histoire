@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="0dp"
+    android:layout_marginBottom="0dp"
+    android:layout_marginLeft="0dp"
+    android:layout_marginRight="0dp"
+    android:background="@drawable/background_gradient"
+    tools:context="aperr.android.questionsdhistoire.Parameters"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="#696969"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="16dp"
+                android:text="@string/duree"
+                android:textColor="#ffffff"
+                android:textSize="16sp"/>
+
+            <EditText
+                android:id="@+id/edit_gametime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="16dp"
+                android:text="@string/unites"
+                android:textColor="#ffffff"
+                android:textSize="16sp"/>
+
+            <EditText
+                android:id="@+id/edit_capUnits"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_marginLeft="16dp"
+                android:text="@string/autres"
+                android:textColor="#ffffff"
+                android:textSize="16sp"/>
+
+            <EditText
+                android:id="@+id/edit_skipQuestion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#ffffff"
+                android:inputType="number"/>
+        </LinearLayout>
+
+        <Switch
+            android:id="@+id/soundSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="16dp"
+            android:text="@string/son"
+            android:textColor="#ffffff"
+            android:textOn="@string/oui"
+            android:textOff="@string/non"
+            android:onClick="onSwitchClicked"/>
+
+        <Switch
+            android:id="@+id/razScore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="16dp"
+            android:text="@string/raz"
+            android:textColor="#ffffff"
+            android:textOn="@string/oui"
+            android:textOff="@string/non"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonValider"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/sauvegarder"
+            android:textColor="#000000"
+            android:background="@drawable/button_green"/>
+
+        <Button
+            android:id="@+id/buttonAnnuler"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/annuler"
+            android:textColor="#000000"/>
+    </LinearLayout>
+
+
+</LinearLayout>
